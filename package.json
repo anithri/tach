@@ -1,0 +1,11 @@
+{
+  "name": "tach",
+  "version": "1.0.0",
+  "description": "Generate Jetbrains shortcut XML",
+  "main": "index.js",
+  "author": "Scott M Parrish",
+  "license": "MIT",
+  "dependencies": {
+    "tachyons-custom": "^4.6.0"
+  }
+}

@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+require 'css_parser'
+include CssParser
+
+filelist = Dir.glob('./n')
+
+
+# load a local file, setting the base_dir and media_types
+parser.load_file!('tachyons.css', './node_modules/tachyons-custom/css', :screen)
+
+parser.each_selector(:screen) do |selector, declarations, specificity|
+  puts [selector, declarations, specificity].inspect
+end
