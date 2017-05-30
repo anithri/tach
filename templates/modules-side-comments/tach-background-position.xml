@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<templateSet group="tach-background-position">
+  <template name=".bg-center" value="background-repeat: no-repeat; /* .bg-center */&#10;background-position: center center;&#10;$END$" description=".bg-center" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-top" value="background-repeat: no-repeat; /* .bg-top */&#10;background-position: top center;&#10;$END$" description=".bg-top" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-right" value="background-repeat: no-repeat; /* .bg-right */&#10;background-position: center right;&#10;$END$" description=".bg-right" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-bottom" value="background-repeat: no-repeat; /* .bg-bottom */&#10;background-position: bottom center;&#10;$END$" description=".bg-bottom" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-left" value="background-repeat: no-repeat; /* .bg-left */&#10;background-position: center left;&#10;$END$" description=".bg-left" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

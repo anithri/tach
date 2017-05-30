@@ -1,33 +1,8 @@
+/* .tx .pa3 .f1 .ma0 */
 .showOff {
-    /* Tachyons - text-align: .tc */
-    text-align: center;
-    /* Tachyons - spacing: .pa3 */
-    padding: var(--spacing-medium);
-    /* Tachyons - type-scale: .f1 */
-    font-size: var(--font-size-1);
-    /* Tachyons - spacing: .ma0 */
-    margin: var(--spacing-none);
+    text-align: left; /* .tl */
+    padding: var(--spacing-small); /* .pa2 */
+    font-size: var(--font-size-1); /* .f1 */
+    margin: var(--spacing-extra-small); /* .ma1 */
 }
-
-.myMethod {
-}
-
-@media (--breakpoint-not-small) {
-  .myMethod {
-  }
-}
-
-@media (--breakpoint-medium) {
-  .myMethod {
-  }
-}
-
-@media (--breakpoint-large) {
-  .myMethod {
-  }
-}
-
-.rust { color: var(--rust); }
-.bg-rust { background-color: var(--rust); }
-.b--rust { border-color: var(--rust); }
 

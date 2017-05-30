@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<templateSet group="tach-display">
+  <template name=".dn" value="*/ tach-display: .dn */&#10;display: none;&#10;$END$" description=".dn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".di" value="*/ tach-display: .di */&#10;display: inline;&#10;$END$" description=".di" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".db" value="*/ tach-display: .db */&#10;display: block;&#10;$END$" description=".db" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dib" value="*/ tach-display: .dib */&#10;display: inline-block;&#10;$END$" description=".dib" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dit" value="*/ tach-display: .dit */&#10;display: inline-table;&#10;$END$" description=".dit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt" value="*/ tach-display: .dt */&#10;display: table;&#10;$END$" description=".dt" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dtc" value="*/ tach-display: .dtc */&#10;display: table-cell;&#10;$END$" description=".dtc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-row" value="*/ tach-display: .dt-row */&#10;display: table-row;&#10;$END$" description=".dt-row" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-row-group" value="*/ tach-display: .dt-row-group */&#10;display: table-row-group;&#10;$END$" description=".dt-row-group" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-column" value="*/ tach-display: .dt-column */&#10;display: table-column;&#10;$END$" description=".dt-column" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-column-group" value="*/ tach-display: .dt-column-group */&#10;display: table-column-group;&#10;$END$" description=".dt-column-group" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt--fixed" value="*/ tach-display: .dt--fixed */&#10;table-layout: fixed;&#10;width: 100%;&#10;$END$" description=".dt--fixed" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

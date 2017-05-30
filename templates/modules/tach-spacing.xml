@@ -1,0 +1,563 @@
+<?xml version="1.0"?>
+<templateSet group="tach-spacing">
+  <template name=".pa0" value="padding: var(--spacing-none);&#10;$END$" description=".pa0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa1" value="padding: var(--spacing-extra-small);&#10;$END$" description=".pa1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa2" value="padding: var(--spacing-small);&#10;$END$" description=".pa2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa3" value="padding: var(--spacing-medium);&#10;$END$" description=".pa3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa4" value="padding: var(--spacing-large);&#10;$END$" description=".pa4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa5" value="padding: var(--spacing-extra-large);&#10;$END$" description=".pa5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa6" value="padding: var(--spacing-extra-extra-large);&#10;$END$" description=".pa6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pa7" value="padding: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".pa7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl0" value="padding-left: var(--spacing-none);&#10;$END$" description=".pl0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl1" value="padding-left: var(--spacing-extra-small);&#10;$END$" description=".pl1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl2" value="padding-left: var(--spacing-small);&#10;$END$" description=".pl2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl3" value="padding-left: var(--spacing-medium);&#10;$END$" description=".pl3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl4" value="padding-left: var(--spacing-large);&#10;$END$" description=".pl4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl5" value="padding-left: var(--spacing-extra-large);&#10;$END$" description=".pl5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl6" value="padding-left: var(--spacing-extra-extra-large);&#10;$END$" description=".pl6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pl7" value="padding-left: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".pl7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr0" value="padding-right: var(--spacing-none);&#10;$END$" description=".pr0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr1" value="padding-right: var(--spacing-extra-small);&#10;$END$" description=".pr1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr2" value="padding-right: var(--spacing-small);&#10;$END$" description=".pr2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr3" value="padding-right: var(--spacing-medium);&#10;$END$" description=".pr3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr4" value="padding-right: var(--spacing-large);&#10;$END$" description=".pr4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr5" value="padding-right: var(--spacing-extra-large);&#10;$END$" description=".pr5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr6" value="padding-right: var(--spacing-extra-extra-large);&#10;$END$" description=".pr6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pr7" value="padding-right: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".pr7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb0" value="padding-bottom: var(--spacing-none);&#10;$END$" description=".pb0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb1" value="padding-bottom: var(--spacing-extra-small);&#10;$END$" description=".pb1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb2" value="padding-bottom: var(--spacing-small);&#10;$END$" description=".pb2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb3" value="padding-bottom: var(--spacing-medium);&#10;$END$" description=".pb3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb4" value="padding-bottom: var(--spacing-large);&#10;$END$" description=".pb4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb5" value="padding-bottom: var(--spacing-extra-large);&#10;$END$" description=".pb5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb6" value="padding-bottom: var(--spacing-extra-extra-large);&#10;$END$" description=".pb6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pb7" value="padding-bottom: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".pb7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt0" value="padding-top: var(--spacing-none);&#10;$END$" description=".pt0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt1" value="padding-top: var(--spacing-extra-small);&#10;$END$" description=".pt1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt2" value="padding-top: var(--spacing-small);&#10;$END$" description=".pt2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt3" value="padding-top: var(--spacing-medium);&#10;$END$" description=".pt3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt4" value="padding-top: var(--spacing-large);&#10;$END$" description=".pt4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt5" value="padding-top: var(--spacing-extra-large);&#10;$END$" description=".pt5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt6" value="padding-top: var(--spacing-extra-extra-large);&#10;$END$" description=".pt6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pt7" value="padding-top: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".pt7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv0" value="padding-top: var(--spacing-none);&#10;padding-bottom: var(--spacing-none);&#10;$END$" description=".pv0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv1" value="padding-top: var(--spacing-extra-small);&#10;padding-bottom: var(--spacing-extra-small);&#10;$END$" description=".pv1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv2" value="padding-top: var(--spacing-small);&#10;padding-bottom: var(--spacing-small);&#10;$END$" description=".pv2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv3" value="padding-top: var(--spacing-medium);&#10;padding-bottom: var(--spacing-medium);&#10;$END$" description=".pv3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv4" value="padding-top: var(--spacing-large);&#10;padding-bottom: var(--spacing-large);&#10;$END$" description=".pv4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv5" value="padding-top: var(--spacing-extra-large);&#10;padding-bottom: var(--spacing-extra-large);&#10;$END$" description=".pv5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv6" value="padding-top: var(--spacing-extra-extra-large);&#10;padding-bottom: var(--spacing-extra-extra-large);&#10;$END$" description=".pv6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pv7" value="padding-top: var(--spacing-extra-extra-extra-large);&#10;padding-bottom: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".pv7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph0" value="padding-left: var(--spacing-none);&#10;padding-right: var(--spacing-none);&#10;$END$" description=".ph0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph1" value="padding-left: var(--spacing-extra-small);&#10;padding-right: var(--spacing-extra-small);&#10;$END$" description=".ph1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph2" value="padding-left: var(--spacing-small);&#10;padding-right: var(--spacing-small);&#10;$END$" description=".ph2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph3" value="padding-left: var(--spacing-medium);&#10;padding-right: var(--spacing-medium);&#10;$END$" description=".ph3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph4" value="padding-left: var(--spacing-large);&#10;padding-right: var(--spacing-large);&#10;$END$" description=".ph4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph5" value="padding-left: var(--spacing-extra-large);&#10;padding-right: var(--spacing-extra-large);&#10;$END$" description=".ph5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph6" value="padding-left: var(--spacing-extra-extra-large);&#10;padding-right: var(--spacing-extra-extra-large);&#10;$END$" description=".ph6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ph7" value="padding-left: var(--spacing-extra-extra-extra-large);&#10;padding-right: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".ph7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma0" value="margin: var(--spacing-none);&#10;$END$" description=".ma0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma1" value="margin: var(--spacing-extra-small);&#10;$END$" description=".ma1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma2" value="margin: var(--spacing-small);&#10;$END$" description=".ma2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma3" value="margin: var(--spacing-medium);&#10;$END$" description=".ma3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma4" value="margin: var(--spacing-large);&#10;$END$" description=".ma4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma5" value="margin: var(--spacing-extra-large);&#10;$END$" description=".ma5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma6" value="margin: var(--spacing-extra-extra-large);&#10;$END$" description=".ma6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ma7" value="margin: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".ma7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml0" value="margin-left: var(--spacing-none);&#10;$END$" description=".ml0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml1" value="margin-left: var(--spacing-extra-small);&#10;$END$" description=".ml1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml2" value="margin-left: var(--spacing-small);&#10;$END$" description=".ml2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml3" value="margin-left: var(--spacing-medium);&#10;$END$" description=".ml3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml4" value="margin-left: var(--spacing-large);&#10;$END$" description=".ml4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml5" value="margin-left: var(--spacing-extra-large);&#10;$END$" description=".ml5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml6" value="margin-left: var(--spacing-extra-extra-large);&#10;$END$" description=".ml6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".ml7" value="margin-left: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".ml7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr0" value="margin-right: var(--spacing-none);&#10;$END$" description=".mr0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr1" value="margin-right: var(--spacing-extra-small);&#10;$END$" description=".mr1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr2" value="margin-right: var(--spacing-small);&#10;$END$" description=".mr2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr3" value="margin-right: var(--spacing-medium);&#10;$END$" description=".mr3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr4" value="margin-right: var(--spacing-large);&#10;$END$" description=".mr4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr5" value="margin-right: var(--spacing-extra-large);&#10;$END$" description=".mr5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr6" value="margin-right: var(--spacing-extra-extra-large);&#10;$END$" description=".mr6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mr7" value="margin-right: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".mr7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb0" value="margin-bottom: var(--spacing-none);&#10;$END$" description=".mb0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb1" value="margin-bottom: var(--spacing-extra-small);&#10;$END$" description=".mb1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb2" value="margin-bottom: var(--spacing-small);&#10;$END$" description=".mb2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb3" value="margin-bottom: var(--spacing-medium);&#10;$END$" description=".mb3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb4" value="margin-bottom: var(--spacing-large);&#10;$END$" description=".mb4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb5" value="margin-bottom: var(--spacing-extra-large);&#10;$END$" description=".mb5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb6" value="margin-bottom: var(--spacing-extra-extra-large);&#10;$END$" description=".mb6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mb7" value="margin-bottom: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".mb7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt0" value="margin-top: var(--spacing-none);&#10;$END$" description=".mt0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt1" value="margin-top: var(--spacing-extra-small);&#10;$END$" description=".mt1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt2" value="margin-top: var(--spacing-small);&#10;$END$" description=".mt2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt3" value="margin-top: var(--spacing-medium);&#10;$END$" description=".mt3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt4" value="margin-top: var(--spacing-large);&#10;$END$" description=".mt4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt5" value="margin-top: var(--spacing-extra-large);&#10;$END$" description=".mt5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt6" value="margin-top: var(--spacing-extra-extra-large);&#10;$END$" description=".mt6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mt7" value="margin-top: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".mt7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv0" value="margin-top: var(--spacing-none);&#10;margin-bottom: var(--spacing-none);&#10;$END$" description=".mv0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv1" value="margin-top: var(--spacing-extra-small);&#10;margin-bottom: var(--spacing-extra-small);&#10;$END$" description=".mv1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv2" value="margin-top: var(--spacing-small);&#10;margin-bottom: var(--spacing-small);&#10;$END$" description=".mv2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv3" value="margin-top: var(--spacing-medium);&#10;margin-bottom: var(--spacing-medium);&#10;$END$" description=".mv3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv4" value="margin-top: var(--spacing-large);&#10;margin-bottom: var(--spacing-large);&#10;$END$" description=".mv4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv5" value="margin-top: var(--spacing-extra-large);&#10;margin-bottom: var(--spacing-extra-large);&#10;$END$" description=".mv5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv6" value="margin-top: var(--spacing-extra-extra-large);&#10;margin-bottom: var(--spacing-extra-extra-large);&#10;$END$" description=".mv6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mv7" value="margin-top: var(--spacing-extra-extra-extra-large);&#10;margin-bottom: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".mv7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh0" value="margin-left: var(--spacing-none);&#10;margin-right: var(--spacing-none);&#10;$END$" description=".mh0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh1" value="margin-left: var(--spacing-extra-small);&#10;margin-right: var(--spacing-extra-small);&#10;$END$" description=".mh1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh2" value="margin-left: var(--spacing-small);&#10;margin-right: var(--spacing-small);&#10;$END$" description=".mh2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh3" value="margin-left: var(--spacing-medium);&#10;margin-right: var(--spacing-medium);&#10;$END$" description=".mh3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh4" value="margin-left: var(--spacing-large);&#10;margin-right: var(--spacing-large);&#10;$END$" description=".mh4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh5" value="margin-left: var(--spacing-extra-large);&#10;margin-right: var(--spacing-extra-large);&#10;$END$" description=".mh5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh6" value="margin-left: var(--spacing-extra-extra-large);&#10;margin-right: var(--spacing-extra-extra-large);&#10;$END$" description=".mh6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mh7" value="margin-left: var(--spacing-extra-extra-extra-large);&#10;margin-right: var(--spacing-extra-extra-extra-large);&#10;$END$" description=".mh7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

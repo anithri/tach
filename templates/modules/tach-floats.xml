@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<templateSet group="tach-floats">
+  <template name=".fl" value="float: left;&#10;_display: inline;&#10;$END$" description=".fl" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".fr" value="float: right;&#10;_display: inline;&#10;$END$" description=".fr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".fn" value="float: none;&#10;$END$" description=".fn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

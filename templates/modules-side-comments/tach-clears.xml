@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<templateSet group="tach-clears">
+  <template name=".cf" value="*zoom: 1; /* .cf */&#10;$END$" description=".cf" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".cl" value="clear: left; /* .cl */&#10;$END$" description=".cl" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".cr" value="clear: right; /* .cr */&#10;$END$" description=".cr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".cb" value="clear: both; /* .cb */&#10;$END$" description=".cb" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".cn" value="clear: none; /* .cn */&#10;$END$" description=".cn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

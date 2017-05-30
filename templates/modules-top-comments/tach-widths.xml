@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<templateSet group="tach-widths">
+  <template name=".w1" value="*/ tach-widths: .w1 */&#10;width: var(--width-1);&#10;$END$" description=".w1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w2" value="*/ tach-widths: .w2 */&#10;width: var(--width-2);&#10;$END$" description=".w2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w3" value="*/ tach-widths: .w3 */&#10;width: var(--width-3);&#10;$END$" description=".w3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w4" value="*/ tach-widths: .w4 */&#10;width: var(--width-4);&#10;$END$" description=".w4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w5" value="*/ tach-widths: .w5 */&#10;width: var(--width-5);&#10;$END$" description=".w5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-10" value="*/ tach-widths: .w-10 */&#10;width: 10%;&#10;$END$" description=".w-10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-20" value="*/ tach-widths: .w-20 */&#10;width: 20%;&#10;$END$" description=".w-20" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-25" value="*/ tach-widths: .w-25 */&#10;width: 25%;&#10;$END$" description=".w-25" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-30" value="*/ tach-widths: .w-30 */&#10;width: 30%;&#10;$END$" description=".w-30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-33" value="*/ tach-widths: .w-33 */&#10;width: 33%;&#10;$END$" description=".w-33" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-34" value="*/ tach-widths: .w-34 */&#10;width: 34%;&#10;$END$" description=".w-34" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-40" value="*/ tach-widths: .w-40 */&#10;width: 40%;&#10;$END$" description=".w-40" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-50" value="*/ tach-widths: .w-50 */&#10;width: 50%;&#10;$END$" description=".w-50" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-60" value="*/ tach-widths: .w-60 */&#10;width: 60%;&#10;$END$" description=".w-60" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-70" value="*/ tach-widths: .w-70 */&#10;width: 70%;&#10;$END$" description=".w-70" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-75" value="*/ tach-widths: .w-75 */&#10;width: 75%;&#10;$END$" description=".w-75" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-80" value="*/ tach-widths: .w-80 */&#10;width: 80%;&#10;$END$" description=".w-80" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-90" value="*/ tach-widths: .w-90 */&#10;width: 90%;&#10;$END$" description=".w-90" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-100" value="*/ tach-widths: .w-100 */&#10;width: 100%;&#10;$END$" description=".w-100" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-third" value="*/ tach-widths: .w-third */&#10;width: calc(100% / 3);&#10;$END$" description=".w-third" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-two-thirds" value="*/ tach-widths: .w-two-thirds */&#10;width: calc(100% / 1.5);&#10;$END$" description=".w-two-thirds" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-auto" value="*/ tach-widths: .w-auto */&#10;width: auto;&#10;$END$" description=".w-auto" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

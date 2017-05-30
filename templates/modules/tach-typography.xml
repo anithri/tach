@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<templateSet group="tach-typography">
+  <template name=".measure" value="max-width: var(--measure);&#10;$END$" description=".measure" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".measure-wide" value="max-width: var(--measure-wide);&#10;$END$" description=".measure-wide" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".measure-narrow" value="max-width: var(--measure-narrow);&#10;$END$" description=".measure-narrow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".indent" value="text-indent: 1em;&#10;margin-top: 0;&#10;margin-bottom: 0;&#10;$END$" description=".indent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".small-caps" value="font-variant: small-caps;&#10;$END$" description=".small-caps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".truncate" value="white-space: nowrap;&#10;overflow: hidden;&#10;text-overflow: ellipsis;&#10;$END$" description=".truncate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

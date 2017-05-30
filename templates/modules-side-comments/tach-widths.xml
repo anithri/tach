@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<templateSet group="tach-widths">
+  <template name=".w1" value="width: var(--width-1); /* .w1 */&#10;$END$" description=".w1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w2" value="width: var(--width-2); /* .w2 */&#10;$END$" description=".w2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w3" value="width: var(--width-3); /* .w3 */&#10;$END$" description=".w3" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w4" value="width: var(--width-4); /* .w4 */&#10;$END$" description=".w4" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w5" value="width: var(--width-5); /* .w5 */&#10;$END$" description=".w5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-10" value="width: 10%; /* .w-10 */&#10;$END$" description=".w-10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-20" value="width: 20%; /* .w-20 */&#10;$END$" description=".w-20" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-25" value="width: 25%; /* .w-25 */&#10;$END$" description=".w-25" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-30" value="width: 30%; /* .w-30 */&#10;$END$" description=".w-30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-33" value="width: 33%; /* .w-33 */&#10;$END$" description=".w-33" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-34" value="width: 34%; /* .w-34 */&#10;$END$" description=".w-34" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-40" value="width: 40%; /* .w-40 */&#10;$END$" description=".w-40" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-50" value="width: 50%; /* .w-50 */&#10;$END$" description=".w-50" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-60" value="width: 60%; /* .w-60 */&#10;$END$" description=".w-60" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-70" value="width: 70%; /* .w-70 */&#10;$END$" description=".w-70" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-75" value="width: 75%; /* .w-75 */&#10;$END$" description=".w-75" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-80" value="width: 80%; /* .w-80 */&#10;$END$" description=".w-80" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-90" value="width: 90%; /* .w-90 */&#10;$END$" description=".w-90" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-100" value="width: 100%; /* .w-100 */&#10;$END$" description=".w-100" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-third" value="width: calc(100% / 3); /* .w-third */&#10;$END$" description=".w-third" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-two-thirds" value="width: calc(100% / 1.5); /* .w-two-thirds */&#10;$END$" description=".w-two-thirds" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".w-auto" value="width: auto; /* .w-auto */&#10;$END$" description=".w-auto" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

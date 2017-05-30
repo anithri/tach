@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<templateSet group="tach-border-style">
+  <template name=".b--dotted" value="border-style: dotted;&#10;$END$" description=".b--dotted" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".b--dashed" value="border-style: dashed;&#10;$END$" description=".b--dashed" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".b--solid" value="border-style: solid;&#10;$END$" description=".b--solid" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".b--none" value="border-style: none;&#10;$END$" description=".b--none" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

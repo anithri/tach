@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<templateSet group="tach-visibility">
+  <template name=".clip" value="position: fixed !important; /* .clip */&#10;_position: absolute !important;&#10;clip: rect(1px, 1px, 1px, 1px);&#10;$END$" description=".clip" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

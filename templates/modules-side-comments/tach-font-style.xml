@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<templateSet group="tach-font-style">
+  <template name=".i" value="font-style: italic; /* .i */&#10;$END$" description=".i" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".fs-normal" value="font-style: normal; /* .fs-normal */&#10;$END$" description=".fs-normal" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

@@ -7,20 +7,26 @@ EXCLUDED_SRC_FILES = ['_skins-pseudo.css', '_styles.css', '_module-template.css'
                       '_links.css', '_lists.css', '_overflow.css',
                       '_tables.css', '_utilities.css', '_hovers.css',
                       '_debug-children.css', '_debug-grid.css', '_code.css',
-                      '_debug.css','_normalize.css', '_images.css',
-                      '_variables.css'
+                      '_debug.css', '_normalize.css', '_images.css',
+                      '_variables.css', '_font-family.css'
 ].map {|f| '**/' + f}
 
 TACHYONS_DIR            = Pathname('./node_modules/tachyons-custom/src/').expand_path
 RULES_DIR               = Pathname('./rules/').expand_path
 TEMPLATE_DIR            = Pathname('./templates/').expand_path
+MODULES_NONE            = TEMPLATE_DIR + 'modules'
+MODULES_SIDE            = TEMPLATE_DIR + 'modules-side-comments'
+MODULES_TOP             = TEMPLATE_DIR + 'modules-top-comments'
 STYLESHEET_GLOB_PATTERN = '_*.css'
 RULES_GLOB_PATTERN      = '*.yml'
 
 directory RULES_DIR
 directory TEMPLATE_DIR
+directory MODULES_NONE
+directory MODULES_SIDE
+directory MODULES_TOP
 
-CLOBBER.include(RULES_DIR.to_s + '/*', TEMPLATE_DIR.to_s + '/*')
+CLOBBER.include(RULES_DIR.to_s + '/*', TEMPLATE_DIR.to_s + '/**/*.xml')
 task :check_install do
   unless TACHYONS_DIR.exist?
     abort("#{TACHYONS_DIR} does not exist.\nPlease run yarn to install")
@@ -38,10 +44,20 @@ end
 
 files_to_generate = Rake::FileList[RULES_DIR.to_s + '/'+ RULES_GLOB_PATTERN]
 desc 'convert tachyons rules to xml'
-task generate: [TEMPLATE_DIR, *files_to_generate] do
-  s = Tach::GenerateTemplate.combine('tach-all', files_to_generate, comments: :none)
-  s.to_xml
-  s.save(TEMPLATE_DIR)
+task generate: [RULES_DIR, TEMPLATE_DIR, MODULES_NONE,
+                MODULES_SIDE, MODULES_TOP, *files_to_generate] do
+  t = Tach::GenerateTemplate.combine('tachyons', files_to_generate)
+  t.save(TEMPLATE_DIR, :side)
+  t.save(MODULES_NONE, :none)
+  t.save(MODULES_SIDE, :side)
+  t.save(MODULES_TOP, :top)
+
+  files_to_generate.each do |file|
+    t = Tach::GenerateTemplate.generate(file, prefix: 'tach-')
+    t.save(MODULES_NONE, :none)
+    t.save(MODULES_SIDE, :side)
+    t.save(MODULES_TOP, :top)
+  end
 end
 
 

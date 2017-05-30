@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<templateSet group="tach-display">
+  <template name=".dn" value="display: none; /* .dn */&#10;$END$" description=".dn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".di" value="display: inline; /* .di */&#10;$END$" description=".di" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".db" value="display: block; /* .db */&#10;$END$" description=".db" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dib" value="display: inline-block; /* .dib */&#10;$END$" description=".dib" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dit" value="display: inline-table; /* .dit */&#10;$END$" description=".dit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt" value="display: table; /* .dt */&#10;$END$" description=".dt" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dtc" value="display: table-cell; /* .dtc */&#10;$END$" description=".dtc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-row" value="display: table-row; /* .dt-row */&#10;$END$" description=".dt-row" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-row-group" value="display: table-row-group; /* .dt-row-group */&#10;$END$" description=".dt-row-group" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-column" value="display: table-column; /* .dt-column */&#10;$END$" description=".dt-column" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt-column-group" value="display: table-column-group; /* .dt-column-group */&#10;$END$" description=".dt-column-group" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dt--fixed" value="table-layout: fixed; /* .dt--fixed */&#10;width: 100%;&#10;$END$" description=".dt--fixed" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

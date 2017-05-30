@@ -1,0 +1,558 @@
+<?xml version="1.0"?>
+<templateSet group="tach-skins">
+  <template name=".black-90" value="color: var(--black-90); /* .black-90 */&#10;$END$" description=".black-90" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-80" value="color: var(--black-80); /* .black-80 */&#10;$END$" description=".black-80" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-70" value="color: var(--black-70); /* .black-70 */&#10;$END$" description=".black-70" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-60" value="color: var(--black-60); /* .black-60 */&#10;$END$" description=".black-60" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-50" value="color: var(--black-50); /* .black-50 */&#10;$END$" description=".black-50" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-40" value="color: var(--black-40); /* .black-40 */&#10;$END$" description=".black-40" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-30" value="color: var(--black-30); /* .black-30 */&#10;$END$" description=".black-30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-20" value="color: var(--black-20); /* .black-20 */&#10;$END$" description=".black-20" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-10" value="color: var(--black-10); /* .black-10 */&#10;$END$" description=".black-10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black-05" value="color: var(--black-05); /* .black-05 */&#10;$END$" description=".black-05" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-90" value="color: var(--white-90); /* .white-90 */&#10;$END$" description=".white-90" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-80" value="color: var(--white-80); /* .white-80 */&#10;$END$" description=".white-80" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-70" value="color: var(--white-70); /* .white-70 */&#10;$END$" description=".white-70" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-60" value="color: var(--white-60); /* .white-60 */&#10;$END$" description=".white-60" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-50" value="color: var(--white-50); /* .white-50 */&#10;$END$" description=".white-50" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-40" value="color: var(--white-40); /* .white-40 */&#10;$END$" description=".white-40" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-30" value="color: var(--white-30); /* .white-30 */&#10;$END$" description=".white-30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-20" value="color: var(--white-20); /* .white-20 */&#10;$END$" description=".white-20" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white-10" value="color: var(--white-10); /* .white-10 */&#10;$END$" description=".white-10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".black" value="color: var(--black); /* .black */&#10;$END$" description=".black" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".near-black" value="color: var(--near-black); /* .near-black */&#10;$END$" description=".near-black" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dark-gray" value="color: var(--dark-gray); /* .dark-gray */&#10;$END$" description=".dark-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".mid-gray" value="color: var(--mid-gray); /* .mid-gray */&#10;$END$" description=".mid-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".gray" value="color: var(--gray); /* .gray */&#10;$END$" description=".gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".silver" value="color: var(--silver); /* .silver */&#10;$END$" description=".silver" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-silver" value="color: var(--light-silver); /* .light-silver */&#10;$END$" description=".light-silver" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".moon-gray" value="color: var(--moon-gray); /* .moon-gray */&#10;$END$" description=".moon-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-gray" value="color: var(--light-gray); /* .light-gray */&#10;$END$" description=".light-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".near-white" value="color: var(--near-white); /* .near-white */&#10;$END$" description=".near-white" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".white" value="color: var(--white); /* .white */&#10;$END$" description=".white" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dark-red" value="color: var(--dark-red); /* .dark-red */&#10;$END$" description=".dark-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".red" value="color: var(--red); /* .red */&#10;$END$" description=".red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-red" value="color: var(--light-red); /* .light-red */&#10;$END$" description=".light-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".orange" value="color: var(--orange); /* .orange */&#10;$END$" description=".orange" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".gold" value="color: var(--gold); /* .gold */&#10;$END$" description=".gold" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".yellow" value="color: var(--yellow); /* .yellow */&#10;$END$" description=".yellow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-yellow" value="color: var(--light-yellow); /* .light-yellow */&#10;$END$" description=".light-yellow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".purple" value="color: var(--purple); /* .purple */&#10;$END$" description=".purple" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-purple" value="color: var(--light-purple); /* .light-purple */&#10;$END$" description=".light-purple" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dark-pink" value="color: var(--dark-pink); /* .dark-pink */&#10;$END$" description=".dark-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".hot-pink" value="color: var(--hot-pink); /* .hot-pink */&#10;$END$" description=".hot-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".pink" value="color: var(--pink); /* .pink */&#10;$END$" description=".pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-pink" value="color: var(--light-pink); /* .light-pink */&#10;$END$" description=".light-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dark-green" value="color: var(--dark-green); /* .dark-green */&#10;$END$" description=".dark-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".green" value="color: var(--green); /* .green */&#10;$END$" description=".green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-green" value="color: var(--light-green); /* .light-green */&#10;$END$" description=".light-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".navy" value="color: var(--navy); /* .navy */&#10;$END$" description=".navy" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".dark-blue" value="color: var(--dark-blue); /* .dark-blue */&#10;$END$" description=".dark-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".blue" value="color: var(--blue); /* .blue */&#10;$END$" description=".blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".light-blue" value="color: var(--light-blue); /* .light-blue */&#10;$END$" description=".light-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".lightest-blue" value="color: var(--lightest-blue); /* .lightest-blue */&#10;$END$" description=".lightest-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".washed-blue" value="color: var(--washed-blue); /* .washed-blue */&#10;$END$" description=".washed-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".washed-green" value="color: var(--washed-green); /* .washed-green */&#10;$END$" description=".washed-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".washed-yellow" value="color: var(--washed-yellow); /* .washed-yellow */&#10;$END$" description=".washed-yellow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".washed-red" value="color: var(--washed-red); /* .washed-red */&#10;$END$" description=".washed-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-90" value="background-color: var(--black-90); /* .bg-black-90 */&#10;$END$" description=".bg-black-90" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-80" value="background-color: var(--black-80); /* .bg-black-80 */&#10;$END$" description=".bg-black-80" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-70" value="background-color: var(--black-70); /* .bg-black-70 */&#10;$END$" description=".bg-black-70" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-60" value="background-color: var(--black-60); /* .bg-black-60 */&#10;$END$" description=".bg-black-60" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-50" value="background-color: var(--black-50); /* .bg-black-50 */&#10;$END$" description=".bg-black-50" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-40" value="background-color: var(--black-40); /* .bg-black-40 */&#10;$END$" description=".bg-black-40" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-30" value="background-color: var(--black-30); /* .bg-black-30 */&#10;$END$" description=".bg-black-30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-20" value="background-color: var(--black-20); /* .bg-black-20 */&#10;$END$" description=".bg-black-20" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-10" value="background-color: var(--black-10); /* .bg-black-10 */&#10;$END$" description=".bg-black-10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black-05" value="background-color: var(--black-05); /* .bg-black-05 */&#10;$END$" description=".bg-black-05" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-90" value="background-color: var(--white-90); /* .bg-white-90 */&#10;$END$" description=".bg-white-90" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-80" value="background-color: var(--white-80); /* .bg-white-80 */&#10;$END$" description=".bg-white-80" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-70" value="background-color: var(--white-70); /* .bg-white-70 */&#10;$END$" description=".bg-white-70" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-60" value="background-color: var(--white-60); /* .bg-white-60 */&#10;$END$" description=".bg-white-60" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-50" value="background-color: var(--white-50); /* .bg-white-50 */&#10;$END$" description=".bg-white-50" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-40" value="background-color: var(--white-40); /* .bg-white-40 */&#10;$END$" description=".bg-white-40" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-30" value="background-color: var(--white-30); /* .bg-white-30 */&#10;$END$" description=".bg-white-30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-20" value="background-color: var(--white-20); /* .bg-white-20 */&#10;$END$" description=".bg-white-20" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white-10" value="background-color: var(--white-10); /* .bg-white-10 */&#10;$END$" description=".bg-white-10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-black" value="background-color: var(--black); /* .bg-black */&#10;$END$" description=".bg-black" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-near-black" value="background-color: var(--near-black); /* .bg-near-black */&#10;$END$" description=".bg-near-black" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-dark-gray" value="background-color: var(--dark-gray); /* .bg-dark-gray */&#10;$END$" description=".bg-dark-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-mid-gray" value="background-color: var(--mid-gray); /* .bg-mid-gray */&#10;$END$" description=".bg-mid-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-gray" value="background-color: var(--gray); /* .bg-gray */&#10;$END$" description=".bg-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-silver" value="background-color: var(--silver); /* .bg-silver */&#10;$END$" description=".bg-silver" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-silver" value="background-color: var(--light-silver); /* .bg-light-silver */&#10;$END$" description=".bg-light-silver" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-moon-gray" value="background-color: var(--moon-gray); /* .bg-moon-gray */&#10;$END$" description=".bg-moon-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-gray" value="background-color: var(--light-gray); /* .bg-light-gray */&#10;$END$" description=".bg-light-gray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-near-white" value="background-color: var(--near-white); /* .bg-near-white */&#10;$END$" description=".bg-near-white" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-white" value="background-color: var(--white); /* .bg-white */&#10;$END$" description=".bg-white" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-transparent" value="background-color: var(--transparent); /* .bg-transparent */&#10;$END$" description=".bg-transparent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-dark-red" value="background-color: var(--dark-red); /* .bg-dark-red */&#10;$END$" description=".bg-dark-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-red" value="background-color: var(--red); /* .bg-red */&#10;$END$" description=".bg-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-red" value="background-color: var(--light-red); /* .bg-light-red */&#10;$END$" description=".bg-light-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-orange" value="background-color: var(--orange); /* .bg-orange */&#10;$END$" description=".bg-orange" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-gold" value="background-color: var(--gold); /* .bg-gold */&#10;$END$" description=".bg-gold" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-yellow" value="background-color: var(--yellow); /* .bg-yellow */&#10;$END$" description=".bg-yellow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-yellow" value="background-color: var(--light-yellow); /* .bg-light-yellow */&#10;$END$" description=".bg-light-yellow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-purple" value="background-color: var(--purple); /* .bg-purple */&#10;$END$" description=".bg-purple" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-purple" value="background-color: var(--light-purple); /* .bg-light-purple */&#10;$END$" description=".bg-light-purple" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-dark-pink" value="background-color: var(--dark-pink); /* .bg-dark-pink */&#10;$END$" description=".bg-dark-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-hot-pink" value="background-color: var(--hot-pink); /* .bg-hot-pink */&#10;$END$" description=".bg-hot-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-pink" value="background-color: var(--pink); /* .bg-pink */&#10;$END$" description=".bg-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-pink" value="background-color: var(--light-pink); /* .bg-light-pink */&#10;$END$" description=".bg-light-pink" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-dark-green" value="background-color: var(--dark-green); /* .bg-dark-green */&#10;$END$" description=".bg-dark-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-green" value="background-color: var(--green); /* .bg-green */&#10;$END$" description=".bg-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-green" value="background-color: var(--light-green); /* .bg-light-green */&#10;$END$" description=".bg-light-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-navy" value="background-color: var(--navy); /* .bg-navy */&#10;$END$" description=".bg-navy" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-dark-blue" value="background-color: var(--dark-blue); /* .bg-dark-blue */&#10;$END$" description=".bg-dark-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-blue" value="background-color: var(--blue); /* .bg-blue */&#10;$END$" description=".bg-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-light-blue" value="background-color: var(--light-blue); /* .bg-light-blue */&#10;$END$" description=".bg-light-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-lightest-blue" value="background-color: var(--lightest-blue); /* .bg-lightest-blue */&#10;$END$" description=".bg-lightest-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-washed-blue" value="background-color: var(--washed-blue); /* .bg-washed-blue */&#10;$END$" description=".bg-washed-blue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-washed-green" value="background-color: var(--washed-green); /* .bg-washed-green */&#10;$END$" description=".bg-washed-green" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-washed-yellow" value="background-color: var(--washed-yellow); /* .bg-washed-yellow */&#10;$END$" description=".bg-washed-yellow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".bg-washed-red" value="background-color: var(--washed-red); /* .bg-washed-red */&#10;$END$" description=".bg-washed-red" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>

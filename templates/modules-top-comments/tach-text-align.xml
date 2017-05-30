@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<templateSet group="tach-text-align">
+  <template name=".tl" value="*/ tach-text-align: .tl */&#10;text-align: left;&#10;$END$" description=".tl" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".tr" value="*/ tach-text-align: .tr */&#10;text-align: right;&#10;$END$" description=".tr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+  <template name=".tc" value="*/ tach-text-align: .tc */&#10;text-align: center;&#10;$END$" description=".tc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true"/>
+    </context>
+  </template>
+</templateSet>
