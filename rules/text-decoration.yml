@@ -1,0 +1,19 @@
+---
+".strike":
+  selector: ".strike"
+  properties:
+  - 'text-decoration: line-through;'
+  specifity: 10
+  media: all
+".underline":
+  selector: ".underline"
+  properties:
+  - 'text-decoration: underline;'
+  specifity: 10
+  media: all
+".no-underline":
+  selector: ".no-underline"
+  properties:
+  - 'text-decoration: none;'
+  specifity: 10
+  media: all

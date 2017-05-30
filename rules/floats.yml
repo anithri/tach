@@ -1,0 +1,21 @@
+---
+".fl":
+  selector: ".fl"
+  properties:
+  - 'float: left;'
+  - '_display: inline;'
+  specifity: 10
+  media: all
+".fr":
+  selector: ".fr"
+  properties:
+  - 'float: right;'
+  - '_display: inline;'
+  specifity: 10
+  media: all
+".fn":
+  selector: ".fn"
+  properties:
+  - 'float: none;'
+  specifity: 10
+  media: all

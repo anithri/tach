@@ -1,0 +1,13 @@
+---
+".cover":
+  selector: ".cover"
+  properties:
+  - 'background-size: cover !important;'
+  specifity: 10
+  media: all
+".contain":
+  selector: ".contain"
+  properties:
+  - 'background-size: contain !important;'
+  specifity: 10
+  media: all

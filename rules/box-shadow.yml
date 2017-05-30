@@ -1,0 +1,31 @@
+---
+".shadow-1":
+  selector: ".shadow-1"
+  properties:
+  - 'box-shadow: var(--box-shadow-1);'
+  specifity: 10
+  media: all
+".shadow-2":
+  selector: ".shadow-2"
+  properties:
+  - 'box-shadow: var(--box-shadow-2);'
+  specifity: 10
+  media: all
+".shadow-3":
+  selector: ".shadow-3"
+  properties:
+  - 'box-shadow: var(--box-shadow-3);'
+  specifity: 10
+  media: all
+".shadow-4":
+  selector: ".shadow-4"
+  properties:
+  - 'box-shadow: var(--box-shadow-4);'
+  specifity: 10
+  media: all
+".shadow-5":
+  selector: ".shadow-5"
+  properties:
+  - 'box-shadow: var(--box-shadow-5);'
+  specifity: 10
+  media: all

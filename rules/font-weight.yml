@@ -1,0 +1,67 @@
+---
+".normal":
+  selector: ".normal"
+  properties:
+  - 'font-weight: normal;'
+  specifity: 10
+  media: all
+".b":
+  selector: ".b"
+  properties:
+  - 'font-weight: bold;'
+  specifity: 10
+  media: all
+".fw1":
+  selector: ".fw1"
+  properties:
+  - 'font-weight: 100;'
+  specifity: 10
+  media: all
+".fw2":
+  selector: ".fw2"
+  properties:
+  - 'font-weight: 200;'
+  specifity: 10
+  media: all
+".fw3":
+  selector: ".fw3"
+  properties:
+  - 'font-weight: 300;'
+  specifity: 10
+  media: all
+".fw4":
+  selector: ".fw4"
+  properties:
+  - 'font-weight: 400;'
+  specifity: 10
+  media: all
+".fw5":
+  selector: ".fw5"
+  properties:
+  - 'font-weight: 500;'
+  specifity: 10
+  media: all
+".fw6":
+  selector: ".fw6"
+  properties:
+  - 'font-weight: 600;'
+  specifity: 10
+  media: all
+".fw7":
+  selector: ".fw7"
+  properties:
+  - 'font-weight: 700;'
+  specifity: 10
+  media: all
+".fw8":
+  selector: ".fw8"
+  properties:
+  - 'font-weight: 800;'
+  specifity: 10
+  media: all
+".fw9":
+  selector: ".fw9"
+  properties:
+  - 'font-weight: 900;'
+  specifity: 10
+  media: all

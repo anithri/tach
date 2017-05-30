@@ -1,0 +1,19 @@
+---
+".tl":
+  selector: ".tl"
+  properties:
+  - 'text-align: left;'
+  specifity: 10
+  media: all
+".tr":
+  selector: ".tr"
+  properties:
+  - 'text-align: right;'
+  specifity: 10
+  media: all
+".tc":
+  selector: ".tc"
+  properties:
+  - 'text-align: center;'
+  specifity: 10
+  media: all

@@ -1,0 +1,103 @@
+---
+".h1":
+  selector: ".h1"
+  properties:
+  - 'height: var(--height-1);'
+  specifity: 10
+  media: all
+".h2":
+  selector: ".h2"
+  properties:
+  - 'height: var(--height-2);'
+  specifity: 10
+  media: all
+".h3":
+  selector: ".h3"
+  properties:
+  - 'height: var(--height-3);'
+  specifity: 10
+  media: all
+".h4":
+  selector: ".h4"
+  properties:
+  - 'height: var(--height-4);'
+  specifity: 10
+  media: all
+".h5":
+  selector: ".h5"
+  properties:
+  - 'height: var(--height-5);'
+  specifity: 10
+  media: all
+".h-25":
+  selector: ".h-25"
+  properties:
+  - 'height: 25%;'
+  specifity: 10
+  media: all
+".h-50":
+  selector: ".h-50"
+  properties:
+  - 'height: 50%;'
+  specifity: 10
+  media: all
+".h-75":
+  selector: ".h-75"
+  properties:
+  - 'height: 75%;'
+  specifity: 10
+  media: all
+".h-100":
+  selector: ".h-100"
+  properties:
+  - 'height: 100%;'
+  specifity: 10
+  media: all
+".min-h-100":
+  selector: ".min-h-100"
+  properties:
+  - 'min-height: 100%;'
+  specifity: 10
+  media: all
+".vh-25":
+  selector: ".vh-25"
+  properties:
+  - 'height: 25vh;'
+  specifity: 10
+  media: all
+".vh-50":
+  selector: ".vh-50"
+  properties:
+  - 'height: 50vh;'
+  specifity: 10
+  media: all
+".vh-75":
+  selector: ".vh-75"
+  properties:
+  - 'height: 75vh;'
+  specifity: 10
+  media: all
+".vh-100":
+  selector: ".vh-100"
+  properties:
+  - 'height: 100vh;'
+  specifity: 10
+  media: all
+".min-vh-100":
+  selector: ".min-vh-100"
+  properties:
+  - 'min-height: 100vh;'
+  specifity: 10
+  media: all
+".h-auto":
+  selector: ".h-auto"
+  properties:
+  - 'height: auto;'
+  specifity: 10
+  media: all
+".h-inherit":
+  selector: ".h-inherit"
+  properties:
+  - 'height: inherit;'
+  specifity: 10
+  media: all

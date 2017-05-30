@@ -1,0 +1,71 @@
+---
+".br0":
+  selector: ".br0"
+  properties:
+  - 'border-radius: var(--border-radius-none);'
+  specifity: 10
+  media: all
+".br1":
+  selector: ".br1"
+  properties:
+  - 'border-radius: var(--border-radius-1);'
+  specifity: 10
+  media: all
+".br2":
+  selector: ".br2"
+  properties:
+  - 'border-radius: var(--border-radius-2);'
+  specifity: 10
+  media: all
+".br3":
+  selector: ".br3"
+  properties:
+  - 'border-radius: var(--border-radius-3);'
+  specifity: 10
+  media: all
+".br4":
+  selector: ".br4"
+  properties:
+  - 'border-radius: var(--border-radius-4);'
+  specifity: 10
+  media: all
+".br-100":
+  selector: ".br-100"
+  properties:
+  - 'border-radius: var(--border-radius-circle);'
+  specifity: 10
+  media: all
+".br-pill":
+  selector: ".br-pill"
+  properties:
+  - 'border-radius: var(--border-radius-pill);'
+  specifity: 10
+  media: all
+".br--bottom":
+  selector: ".br--bottom"
+  properties:
+  - 'border-top-left-radius: 0;'
+  - 'border-top-right-radius: 0;'
+  specifity: 10
+  media: all
+".br--top":
+  selector: ".br--top"
+  properties:
+  - 'border-bottom-left-radius: 0;'
+  - 'border-bottom-right-radius: 0;'
+  specifity: 10
+  media: all
+".br--right":
+  selector: ".br--right"
+  properties:
+  - 'border-top-left-radius: 0;'
+  - 'border-bottom-left-radius: 0;'
+  specifity: 10
+  media: all
+".br--left":
+  selector: ".br--left"
+  properties:
+  - 'border-top-right-radius: 0;'
+  - 'border-bottom-right-radius: 0;'
+  specifity: 10
+  media: all

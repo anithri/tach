@@ -1,0 +1,25 @@
+---
+".v-base":
+  selector: ".v-base"
+  properties:
+  - 'vertical-align: baseline;'
+  specifity: 10
+  media: all
+".v-mid":
+  selector: ".v-mid"
+  properties:
+  - 'vertical-align: middle;'
+  specifity: 10
+  media: all
+".v-top":
+  selector: ".v-top"
+  properties:
+  - 'vertical-align: top;'
+  specifity: 10
+  media: all
+".v-btm":
+  selector: ".v-btm"
+  properties:
+  - 'vertical-align: bottom;'
+  specifity: 10
+  media: all

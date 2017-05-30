@@ -1,0 +1,7 @@
+---
+".border-box":
+  selector: ".border-box"
+  properties:
+  - 'box-sizing: border-box;'
+  specifity: 10
+  media: all

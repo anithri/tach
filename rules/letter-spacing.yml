@@ -1,0 +1,19 @@
+---
+".tracked":
+  selector: ".tracked"
+  properties:
+  - 'letter-spacing: var(--letter-spacing-1);'
+  specifity: 10
+  media: all
+".tracked-tight":
+  selector: ".tracked-tight"
+  properties:
+  - 'letter-spacing: var(--letter-spacing-tight);'
+  specifity: 10
+  media: all
+".tracked-mega":
+  selector: ".tracked-mega"
+  properties:
+  - 'letter-spacing: var(--letter-spacing-2);'
+  specifity: 10
+  media: all

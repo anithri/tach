@@ -1,0 +1,25 @@
+---
+".b--dotted":
+  selector: ".b--dotted"
+  properties:
+  - 'border-style: dotted;'
+  specifity: 10
+  media: all
+".b--dashed":
+  selector: ".b--dashed"
+  properties:
+  - 'border-style: dashed;'
+  specifity: 10
+  media: all
+".b--solid":
+  selector: ".b--solid"
+  properties:
+  - 'border-style: solid;'
+  specifity: 10
+  media: all
+".b--none":
+  selector: ".b--none"
+  properties:
+  - 'border-style: none;'
+  specifity: 10
+  media: all

@@ -1,0 +1,19 @@
+---
+".lh-solid":
+  selector: ".lh-solid"
+  properties:
+  - 'line-height: var(--line-height-solid);'
+  specifity: 10
+  media: all
+".lh-title":
+  selector: ".lh-title"
+  properties:
+  - 'line-height: var(--line-height-title);'
+  specifity: 10
+  media: all
+".lh-copy":
+  selector: ".lh-copy"
+  properties:
+  - 'line-height: var(--line-height-copy);'
+  specifity: 10
+  media: all

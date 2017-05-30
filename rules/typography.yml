@@ -1,0 +1,41 @@
+---
+".measure":
+  selector: ".measure"
+  properties:
+  - 'max-width: var(--measure);'
+  specifity: 10
+  media: all
+".measure-wide":
+  selector: ".measure-wide"
+  properties:
+  - 'max-width: var(--measure-wide);'
+  specifity: 10
+  media: all
+".measure-narrow":
+  selector: ".measure-narrow"
+  properties:
+  - 'max-width: var(--measure-narrow);'
+  specifity: 10
+  media: all
+".indent":
+  selector: ".indent"
+  properties:
+  - 'text-indent: 1em;'
+  - 'margin-top: 0;'
+  - 'margin-bottom: 0;'
+  specifity: 10
+  media: all
+".small-caps":
+  selector: ".small-caps"
+  properties:
+  - 'font-variant: small-caps;'
+  specifity: 10
+  media: all
+".truncate":
+  selector: ".truncate"
+  properties:
+  - 'white-space: nowrap;'
+  - 'overflow: hidden;'
+  - 'text-overflow: ellipsis;'
+  specifity: 10
+  media: all

@@ -1,0 +1,36 @@
+---
+".bg-center":
+  selector: ".bg-center"
+  properties:
+  - 'background-repeat: no-repeat;'
+  - 'background-position: center center;'
+  specifity: 10
+  media: all
+".bg-top":
+  selector: ".bg-top"
+  properties:
+  - 'background-repeat: no-repeat;'
+  - 'background-position: top center;'
+  specifity: 10
+  media: all
+".bg-right":
+  selector: ".bg-right"
+  properties:
+  - 'background-repeat: no-repeat;'
+  - 'background-position: center right;'
+  specifity: 10
+  media: all
+".bg-bottom":
+  selector: ".bg-bottom"
+  properties:
+  - 'background-repeat: no-repeat;'
+  - 'background-position: bottom center;'
+  specifity: 10
+  media: all
+".bg-left":
+  selector: ".bg-left"
+  properties:
+  - 'background-repeat: no-repeat;'
+  - 'background-position: center left;'
+  specifity: 10
+  media: all

@@ -1,0 +1,130 @@
+---
+".top-0":
+  selector: ".top-0"
+  properties:
+  - 'top: 0;'
+  specifity: 10
+  media: all
+".right-0":
+  selector: ".right-0"
+  properties:
+  - 'right: 0;'
+  specifity: 10
+  media: all
+".bottom-0":
+  selector: ".bottom-0"
+  properties:
+  - 'bottom: 0;'
+  specifity: 10
+  media: all
+".left-0":
+  selector: ".left-0"
+  properties:
+  - 'left: 0;'
+  specifity: 10
+  media: all
+".top-1":
+  selector: ".top-1"
+  properties:
+  - 'top: 1rem;'
+  specifity: 10
+  media: all
+".right-1":
+  selector: ".right-1"
+  properties:
+  - 'right: 1rem;'
+  specifity: 10
+  media: all
+".bottom-1":
+  selector: ".bottom-1"
+  properties:
+  - 'bottom: 1rem;'
+  specifity: 10
+  media: all
+".left-1":
+  selector: ".left-1"
+  properties:
+  - 'left: 1rem;'
+  specifity: 10
+  media: all
+".top-2":
+  selector: ".top-2"
+  properties:
+  - 'top: 2rem;'
+  specifity: 10
+  media: all
+".right-2":
+  selector: ".right-2"
+  properties:
+  - 'right: 2rem;'
+  specifity: 10
+  media: all
+".bottom-2":
+  selector: ".bottom-2"
+  properties:
+  - 'bottom: 2rem;'
+  specifity: 10
+  media: all
+".left-2":
+  selector: ".left-2"
+  properties:
+  - 'left: 2rem;'
+  specifity: 10
+  media: all
+".top--1":
+  selector: ".top--1"
+  properties:
+  - 'top: -1rem;'
+  specifity: 10
+  media: all
+".right--1":
+  selector: ".right--1"
+  properties:
+  - 'right: -1rem;'
+  specifity: 10
+  media: all
+".bottom--1":
+  selector: ".bottom--1"
+  properties:
+  - 'bottom: -1rem;'
+  specifity: 10
+  media: all
+".left--1":
+  selector: ".left--1"
+  properties:
+  - 'left: -1rem;'
+  specifity: 10
+  media: all
+".top--2":
+  selector: ".top--2"
+  properties:
+  - 'top: -2rem;'
+  specifity: 10
+  media: all
+".right--2":
+  selector: ".right--2"
+  properties:
+  - 'right: -2rem;'
+  specifity: 10
+  media: all
+".bottom--2":
+  selector: ".bottom--2"
+  properties:
+  - 'bottom: -2rem;'
+  specifity: 10
+  media: all
+".left--2":
+  selector: ".left--2"
+  properties:
+  - 'left: -2rem;'
+  specifity: 10
+  media: all
+".absolute--fill":
+  selector: ".absolute--fill"
+  properties:
+  - 'top: 0;'
+  - 'right: 0;'
+  - 'bottom: 0;'
+  - 'left: 0;'
+  specifity: 10
+  media: all

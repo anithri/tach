@@ -1,0 +1,231 @@
+---
+".flex":
+  selector: ".flex"
+  properties:
+  - 'display: flex;'
+  specifity: 10
+  media: all
+".inline-flex":
+  selector: ".inline-flex"
+  properties:
+  - 'display: inline-flex;'
+  specifity: 10
+  media: all
+".flex-auto":
+  selector: ".flex-auto"
+  properties:
+  - 'flex: 1 1 auto;'
+  - 'min-width: 0;'
+  - 'min-height: 0;'
+  specifity: 10
+  media: all
+".flex-none":
+  selector: ".flex-none"
+  properties:
+  - 'flex: none;'
+  specifity: 10
+  media: all
+".flex-column":
+  selector: ".flex-column"
+  properties:
+  - 'flex-direction: column;'
+  specifity: 10
+  media: all
+".flex-row":
+  selector: ".flex-row"
+  properties:
+  - 'flex-direction: row;'
+  specifity: 10
+  media: all
+".flex-wrap":
+  selector: ".flex-wrap"
+  properties:
+  - 'flex-wrap: wrap;'
+  specifity: 10
+  media: all
+".items-start":
+  selector: ".items-start"
+  properties:
+  - 'align-items: flex-start;'
+  specifity: 10
+  media: all
+".items-end":
+  selector: ".items-end"
+  properties:
+  - 'align-items: flex-end;'
+  specifity: 10
+  media: all
+".items-center":
+  selector: ".items-center"
+  properties:
+  - 'align-items: center;'
+  specifity: 10
+  media: all
+".items-baseline":
+  selector: ".items-baseline"
+  properties:
+  - 'align-items: baseline;'
+  specifity: 10
+  media: all
+".items-stretch":
+  selector: ".items-stretch"
+  properties:
+  - 'align-items: stretch;'
+  specifity: 10
+  media: all
+".self-start":
+  selector: ".self-start"
+  properties:
+  - 'align-self: flex-start;'
+  specifity: 10
+  media: all
+".self-end":
+  selector: ".self-end"
+  properties:
+  - 'align-self: flex-end;'
+  specifity: 10
+  media: all
+".self-center":
+  selector: ".self-center"
+  properties:
+  - 'align-self: center;'
+  specifity: 10
+  media: all
+".self-baseline":
+  selector: ".self-baseline"
+  properties:
+  - 'align-self: baseline;'
+  specifity: 10
+  media: all
+".self-stretch":
+  selector: ".self-stretch"
+  properties:
+  - 'align-self: stretch;'
+  specifity: 10
+  media: all
+".justify-start":
+  selector: ".justify-start"
+  properties:
+  - 'justify-content: flex-start;'
+  specifity: 10
+  media: all
+".justify-end":
+  selector: ".justify-end"
+  properties:
+  - 'justify-content: flex-end;'
+  specifity: 10
+  media: all
+".justify-center":
+  selector: ".justify-center"
+  properties:
+  - 'justify-content: center;'
+  specifity: 10
+  media: all
+".justify-between":
+  selector: ".justify-between"
+  properties:
+  - 'justify-content: space-between;'
+  specifity: 10
+  media: all
+".justify-around":
+  selector: ".justify-around"
+  properties:
+  - 'justify-content: space-around;'
+  specifity: 10
+  media: all
+".content-start":
+  selector: ".content-start"
+  properties:
+  - 'align-content: flex-start;'
+  specifity: 10
+  media: all
+".content-end":
+  selector: ".content-end"
+  properties:
+  - 'align-content: flex-end;'
+  specifity: 10
+  media: all
+".content-center":
+  selector: ".content-center"
+  properties:
+  - 'align-content: center;'
+  specifity: 10
+  media: all
+".content-between":
+  selector: ".content-between"
+  properties:
+  - 'align-content: space-between;'
+  specifity: 10
+  media: all
+".content-around":
+  selector: ".content-around"
+  properties:
+  - 'align-content: space-around;'
+  specifity: 10
+  media: all
+".content-stretch":
+  selector: ".content-stretch"
+  properties:
+  - 'align-content: stretch;'
+  specifity: 10
+  media: all
+".order-0":
+  selector: ".order-0"
+  properties:
+  - 'order: 0;'
+  specifity: 10
+  media: all
+".order-1":
+  selector: ".order-1"
+  properties:
+  - 'order: 1;'
+  specifity: 10
+  media: all
+".order-2":
+  selector: ".order-2"
+  properties:
+  - 'order: 2;'
+  specifity: 10
+  media: all
+".order-3":
+  selector: ".order-3"
+  properties:
+  - 'order: 3;'
+  specifity: 10
+  media: all
+".order-4":
+  selector: ".order-4"
+  properties:
+  - 'order: 4;'
+  specifity: 10
+  media: all
+".order-5":
+  selector: ".order-5"
+  properties:
+  - 'order: 5;'
+  specifity: 10
+  media: all
+".order-6":
+  selector: ".order-6"
+  properties:
+  - 'order: 6;'
+  specifity: 10
+  media: all
+".order-7":
+  selector: ".order-7"
+  properties:
+  - 'order: 7;'
+  specifity: 10
+  media: all
+".order-8":
+  selector: ".order-8"
+  properties:
+  - 'order: 8;'
+  specifity: 10
+  media: all
+".order-last":
+  selector: ".order-last"
+  properties:
+  - 'order: 99999;'
+  specifity: 10
+  media: all

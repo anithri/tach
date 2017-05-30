@@ -1,0 +1,25 @@
+---
+".static":
+  selector: ".static"
+  properties:
+  - 'position: static;'
+  specifity: 10
+  media: all
+".relative":
+  selector: ".relative"
+  properties:
+  - 'position: relative;'
+  specifity: 10
+  media: all
+".absolute":
+  selector: ".absolute"
+  properties:
+  - 'position: absolute;'
+  specifity: 10
+  media: all
+".fixed":
+  selector: ".fixed"
+  properties:
+  - 'position: fixed;'
+  specifity: 10
+  media: all

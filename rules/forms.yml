@@ -1,0 +1,8 @@
+---
+".input-reset":
+  selector: ".input-reset"
+  properties:
+  - "-webkit-appearance: none;"
+  - "-moz-appearance: none;"
+  specifity: 10
+  media: all
