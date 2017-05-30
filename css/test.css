@@ -27,9 +27,9 @@
 
 }
 
-/* :root { --saints-purple: #8D02B3; } */
-.saints-purple { color: var(--saints-purple); }
-.bg-saints-purple { background-color: var(--saints-purple); }
-.b--saints-purple { border-color: var(--saints-purple); }
-.hover-saints-purple:hover, 
-.hover-saints-purple:focus { color: var(--saints-purple); }
+/* :root { --runt: ##ffffff; } */
+.runt { color: var(--runt); }
+.bg-runt { background-color: var(--runt); }
+.b--runt { border-color: var(--runt); }
+.hover-runt:hover, 
+.hover-runt:focus { color: var(--runt); }
