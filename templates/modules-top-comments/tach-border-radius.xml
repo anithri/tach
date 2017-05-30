@@ -1,56 +1,56 @@
 <?xml version="1.0"?>
 <templateSet group="tach-border-radius">
-  <template name=".br0" value="*/ tach-border-radius: .br0 */&#10;border-radius: var(--border-radius-none);&#10;$END$" description=".br0" toReformat="false" toShortenFQNames="true">
+  <template name=".br0" value="/* tach-border-radius: .br0 */&#10;border-radius: var(--border-radius-none);&#10;$END$" description=".br0" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br1" value="*/ tach-border-radius: .br1 */&#10;border-radius: var(--border-radius-1);&#10;$END$" description=".br1" toReformat="false" toShortenFQNames="true">
+  <template name=".br1" value="/* tach-border-radius: .br1 */&#10;border-radius: var(--border-radius-1);&#10;$END$" description=".br1" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br2" value="*/ tach-border-radius: .br2 */&#10;border-radius: var(--border-radius-2);&#10;$END$" description=".br2" toReformat="false" toShortenFQNames="true">
+  <template name=".br2" value="/* tach-border-radius: .br2 */&#10;border-radius: var(--border-radius-2);&#10;$END$" description=".br2" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br3" value="*/ tach-border-radius: .br3 */&#10;border-radius: var(--border-radius-3);&#10;$END$" description=".br3" toReformat="false" toShortenFQNames="true">
+  <template name=".br3" value="/* tach-border-radius: .br3 */&#10;border-radius: var(--border-radius-3);&#10;$END$" description=".br3" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br4" value="*/ tach-border-radius: .br4 */&#10;border-radius: var(--border-radius-4);&#10;$END$" description=".br4" toReformat="false" toShortenFQNames="true">
+  <template name=".br4" value="/* tach-border-radius: .br4 */&#10;border-radius: var(--border-radius-4);&#10;$END$" description=".br4" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br-100" value="*/ tach-border-radius: .br-100 */&#10;border-radius: var(--border-radius-circle);&#10;$END$" description=".br-100" toReformat="false" toShortenFQNames="true">
+  <template name=".br-100" value="/* tach-border-radius: .br-100 */&#10;border-radius: var(--border-radius-circle);&#10;$END$" description=".br-100" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br-pill" value="*/ tach-border-radius: .br-pill */&#10;border-radius: var(--border-radius-pill);&#10;$END$" description=".br-pill" toReformat="false" toShortenFQNames="true">
+  <template name=".br-pill" value="/* tach-border-radius: .br-pill */&#10;border-radius: var(--border-radius-pill);&#10;$END$" description=".br-pill" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--bottom" value="*/ tach-border-radius: .br--bottom */&#10;border-top-left-radius: 0;&#10;border-top-right-radius: 0;&#10;$END$" description=".br--bottom" toReformat="false" toShortenFQNames="true">
+  <template name=".br--bottom" value="/* tach-border-radius: .br--bottom */&#10;border-top-left-radius: 0;&#10;border-top-right-radius: 0;&#10;$END$" description=".br--bottom" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--top" value="*/ tach-border-radius: .br--top */&#10;border-bottom-left-radius: 0;&#10;border-bottom-right-radius: 0;&#10;$END$" description=".br--top" toReformat="false" toShortenFQNames="true">
+  <template name=".br--top" value="/* tach-border-radius: .br--top */&#10;border-bottom-left-radius: 0;&#10;border-bottom-right-radius: 0;&#10;$END$" description=".br--top" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--right" value="*/ tach-border-radius: .br--right */&#10;border-top-left-radius: 0;&#10;border-bottom-left-radius: 0;&#10;$END$" description=".br--right" toReformat="false" toShortenFQNames="true">
+  <template name=".br--right" value="/* tach-border-radius: .br--right */&#10;border-top-left-radius: 0;&#10;border-bottom-left-radius: 0;&#10;$END$" description=".br--right" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--left" value="*/ tach-border-radius: .br--left */&#10;border-top-right-radius: 0;&#10;border-bottom-right-radius: 0;&#10;$END$" description=".br--left" toReformat="false" toShortenFQNames="true">
+  <template name=".br--left" value="/* tach-border-radius: .br--left */&#10;border-top-right-radius: 0;&#10;border-bottom-right-radius: 0;&#10;$END$" description=".br--left" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

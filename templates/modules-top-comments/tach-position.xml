@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <templateSet group="tach-position">
-  <template name=".static" value="*/ tach-position: .static */&#10;position: static;&#10;$END$" description=".static" toReformat="false" toShortenFQNames="true">
+  <template name=".static" value="/* tach-position: .static */&#10;position: static;&#10;$END$" description=".static" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".relative" value="*/ tach-position: .relative */&#10;position: relative;&#10;$END$" description=".relative" toReformat="false" toShortenFQNames="true">
+  <template name=".relative" value="/* tach-position: .relative */&#10;position: relative;&#10;$END$" description=".relative" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".absolute" value="*/ tach-position: .absolute */&#10;position: absolute;&#10;$END$" description=".absolute" toReformat="false" toShortenFQNames="true">
+  <template name=".absolute" value="/* tach-position: .absolute */&#10;position: absolute;&#10;$END$" description=".absolute" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".fixed" value="*/ tach-position: .fixed */&#10;position: fixed;&#10;$END$" description=".fixed" toReformat="false" toShortenFQNames="true">
+  <template name=".fixed" value="/* tach-position: .fixed */&#10;position: fixed;&#10;$END$" description=".fixed" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

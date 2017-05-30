@@ -1,56 +1,56 @@
 <?xml version="1.0"?>
 <templateSet group="tach-max-widths">
-  <template name=".mw-100" value="*/ tach-max-widths: .mw-100 */&#10;max-width: 100%;&#10;$END$" description=".mw-100" toReformat="false" toShortenFQNames="true">
+  <template name=".mw-100" value="/* tach-max-widths: .mw-100 */&#10;max-width: 100%;&#10;$END$" description=".mw-100" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw1" value="*/ tach-max-widths: .mw1 */&#10;max-width: var(--max-width-1);&#10;$END$" description=".mw1" toReformat="false" toShortenFQNames="true">
+  <template name=".mw1" value="/* tach-max-widths: .mw1 */&#10;max-width: var(--max-width-1);&#10;$END$" description=".mw1" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw2" value="*/ tach-max-widths: .mw2 */&#10;max-width: var(--max-width-2);&#10;$END$" description=".mw2" toReformat="false" toShortenFQNames="true">
+  <template name=".mw2" value="/* tach-max-widths: .mw2 */&#10;max-width: var(--max-width-2);&#10;$END$" description=".mw2" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw3" value="*/ tach-max-widths: .mw3 */&#10;max-width: var(--max-width-3);&#10;$END$" description=".mw3" toReformat="false" toShortenFQNames="true">
+  <template name=".mw3" value="/* tach-max-widths: .mw3 */&#10;max-width: var(--max-width-3);&#10;$END$" description=".mw3" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw4" value="*/ tach-max-widths: .mw4 */&#10;max-width: var(--max-width-4);&#10;$END$" description=".mw4" toReformat="false" toShortenFQNames="true">
+  <template name=".mw4" value="/* tach-max-widths: .mw4 */&#10;max-width: var(--max-width-4);&#10;$END$" description=".mw4" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw5" value="*/ tach-max-widths: .mw5 */&#10;max-width: var(--max-width-5);&#10;$END$" description=".mw5" toReformat="false" toShortenFQNames="true">
+  <template name=".mw5" value="/* tach-max-widths: .mw5 */&#10;max-width: var(--max-width-5);&#10;$END$" description=".mw5" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw6" value="*/ tach-max-widths: .mw6 */&#10;max-width: var(--max-width-6);&#10;$END$" description=".mw6" toReformat="false" toShortenFQNames="true">
+  <template name=".mw6" value="/* tach-max-widths: .mw6 */&#10;max-width: var(--max-width-6);&#10;$END$" description=".mw6" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw7" value="*/ tach-max-widths: .mw7 */&#10;max-width: var(--max-width-7);&#10;$END$" description=".mw7" toReformat="false" toShortenFQNames="true">
+  <template name=".mw7" value="/* tach-max-widths: .mw7 */&#10;max-width: var(--max-width-7);&#10;$END$" description=".mw7" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw8" value="*/ tach-max-widths: .mw8 */&#10;max-width: var(--max-width-8);&#10;$END$" description=".mw8" toReformat="false" toShortenFQNames="true">
+  <template name=".mw8" value="/* tach-max-widths: .mw8 */&#10;max-width: var(--max-width-8);&#10;$END$" description=".mw8" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw9" value="*/ tach-max-widths: .mw9 */&#10;max-width: var(--max-width-9);&#10;$END$" description=".mw9" toReformat="false" toShortenFQNames="true">
+  <template name=".mw9" value="/* tach-max-widths: .mw9 */&#10;max-width: var(--max-width-9);&#10;$END$" description=".mw9" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".mw-none" value="*/ tach-max-widths: .mw-none */&#10;max-width: none;&#10;$END$" description=".mw-none" toReformat="false" toShortenFQNames="true">
+  <template name=".mw-none" value="/* tach-max-widths: .mw-none */&#10;max-width: none;&#10;$END$" description=".mw-none" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

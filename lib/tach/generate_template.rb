@@ -86,7 +86,7 @@ module Tach
         when :side # first line gets the comment appended to it
           props[0] += " /* #{short_comment(rule_name)} */"
         when :top # comment is added as first line
-          props.unshift "*/ #{short_comment(name, rule_name)} */"
+          props.unshift "/* #{short_comment(name, rule_name)} */"
         else # mostly :none
           # noop
       end

@@ -17,6 +17,7 @@ TEMPLATE_DIR            = Pathname('./templates/').expand_path
 MODULES_NONE            = TEMPLATE_DIR + 'modules'
 MODULES_SIDE            = TEMPLATE_DIR + 'modules-side-comments'
 MODULES_TOP             = TEMPLATE_DIR + 'modules-top-comments'
+
 STYLESHEET_GLOB_PATTERN = '_*.css'
 RULES_GLOB_PATTERN      = '*.yml'
 
@@ -46,8 +47,12 @@ files_to_generate = Rake::FileList[RULES_DIR.to_s + '/'+ RULES_GLOB_PATTERN]
 desc 'convert tachyons rules to xml'
 task generate: [RULES_DIR, TEMPLATE_DIR, MODULES_NONE,
                 MODULES_SIDE, MODULES_TOP, *files_to_generate] do
+  file 'config/database.yml' => 'config/database.yml.example' do
+    cp 'config/database.yml.example', 'config/database.yml'
+  end
+
   t = Tach::GenerateTemplate.combine('tachyons', files_to_generate)
-  t.save(TEMPLATE_DIR, :side)
+  t.save(TEMPLATE_DIR, :top)
   t.save(MODULES_NONE, :none)
   t.save(MODULES_SIDE, :side)
   t.save(MODULES_TOP, :top)
