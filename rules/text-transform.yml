@@ -1,25 +1,21 @@
 ---
 ".ttc":
   selector: ".ttc"
-  properties:
-  - 'text-transform: capitalize;'
+  properties: 'text-transform: capitalize;'
   specifity: 10
   media: all
 ".ttl":
   selector: ".ttl"
-  properties:
-  - 'text-transform: lowercase;'
+  properties: 'text-transform: lowercase;'
   specifity: 10
   media: all
 ".ttu":
   selector: ".ttu"
-  properties:
-  - 'text-transform: uppercase;'
+  properties: 'text-transform: uppercase;'
   specifity: 10
   media: all
 ".ttn":
   selector: ".ttn"
-  properties:
-  - 'text-transform: none;'
+  properties: 'text-transform: none;'
   specifity: 10
   media: all

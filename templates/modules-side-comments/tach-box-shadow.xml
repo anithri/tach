@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <templateSet group="tach-box-shadow">
-  <template name=".shadow-1" value="box-shadow: var(--box-shadow-1); /* .shadow-1 */&#10;$END$" description=".shadow-1" toReformat="false" toShortenFQNames="true">
+  <template name=".shadow-1" value="box-shadow: var(--box-shadow-1, 0px 0px 4px 2px rgba( 0, 0, 0, 0.2 )); /* .shadow-1 */&#10;$END$" description=".shadow-1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".shadow-2" value="box-shadow: var(--box-shadow-2); /* .shadow-2 */&#10;$END$" description=".shadow-2" toReformat="false" toShortenFQNames="true">
+  <template name=".shadow-2" value="box-shadow: var(--box-shadow-2, 0px 0px 8px 2px rgba( 0, 0, 0, 0.2 )); /* .shadow-2 */&#10;$END$" description=".shadow-2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".shadow-3" value="box-shadow: var(--box-shadow-3); /* .shadow-3 */&#10;$END$" description=".shadow-3" toReformat="false" toShortenFQNames="true">
+  <template name=".shadow-3" value="box-shadow: var(--box-shadow-3, 2px 2px 4px 2px rgba( 0, 0, 0, 0.2 )); /* .shadow-3 */&#10;$END$" description=".shadow-3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".shadow-4" value="box-shadow: var(--box-shadow-4); /* .shadow-4 */&#10;$END$" description=".shadow-4" toReformat="false" toShortenFQNames="true">
+  <template name=".shadow-4" value="box-shadow: var(--box-shadow-4, 2px 2px 8px 0px rgba( 0, 0, 0, 0.2 )); /* .shadow-4 */&#10;$END$" description=".shadow-4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".shadow-5" value="box-shadow: var(--box-shadow-5); /* .shadow-5 */&#10;$END$" description=".shadow-5" toReformat="false" toShortenFQNames="true">
+  <template name=".shadow-5" value="box-shadow: var(--box-shadow-5, 4px 4px 8px 0px rgba( 0, 0, 0, 0.2 )); /* .shadow-5 */&#10;$END$" description=".shadow-5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

@@ -1,73 +1,61 @@
 ---
 ".z-0":
   selector: ".z-0"
-  properties:
-  - 'z-index: 0;'
+  properties: 'z-index: 0;'
   specifity: 10
   media: all
 ".z-1":
   selector: ".z-1"
-  properties:
-  - 'z-index: 1;'
+  properties: 'z-index: 1;'
   specifity: 10
   media: all
 ".z-2":
   selector: ".z-2"
-  properties:
-  - 'z-index: 2;'
+  properties: 'z-index: 2;'
   specifity: 10
   media: all
 ".z-3":
   selector: ".z-3"
-  properties:
-  - 'z-index: 3;'
+  properties: 'z-index: 3;'
   specifity: 10
   media: all
 ".z-4":
   selector: ".z-4"
-  properties:
-  - 'z-index: 4;'
+  properties: 'z-index: 4;'
   specifity: 10
   media: all
 ".z-5":
   selector: ".z-5"
-  properties:
-  - 'z-index: 5;'
+  properties: 'z-index: 5;'
   specifity: 10
   media: all
 ".z-999":
   selector: ".z-999"
-  properties:
-  - 'z-index: 999;'
+  properties: 'z-index: 999;'
   specifity: 10
   media: all
 ".z-9999":
   selector: ".z-9999"
-  properties:
-  - 'z-index: 9999;'
+  properties: 'z-index: 9999;'
   specifity: 10
   media: all
 ".z-max":
   selector: ".z-max"
-  properties:
-  - 'z-index: 2147483647;'
+  properties: 'z-index: 2147483647;'
   specifity: 10
   media: all
 ".z-inherit":
   selector: ".z-inherit"
-  properties:
-  - 'z-index: inherit;'
+  properties: 'z-index: inherit;'
   specifity: 10
   media: all
 ".z-initial":
   selector: ".z-initial"
-  properties:
-  - 'z-index: initial;'
+  properties: 'z-index: initial;'
   specifity: 10
   media: all
 ".z-unset":
   selector: ".z-unset"
-  properties:
-  - 'z-index: unset;'
+  properties: 'z-index: unset;'
   specifity: 10
   media: all

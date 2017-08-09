@@ -1,66 +1,66 @@
 <?xml version="1.0"?>
 <templateSet group="tach-opacity">
-  <template name=".o-100" value="opacity: 1; /* .o-100 */&#10;$END$" description=".o-100" toReformat="false" toShortenFQNames="true">
+  <template name=".o-100" value="opacity: 1; /* .o-100 */&#10;$END$" description=".o-100" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-90" value="opacity: .9; /* .o-90 */&#10;$END$" description=".o-90" toReformat="false" toShortenFQNames="true">
+  <template name=".o-90" value="opacity: .9; /* .o-90 */&#10;$END$" description=".o-90" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-80" value="opacity: .8; /* .o-80 */&#10;$END$" description=".o-80" toReformat="false" toShortenFQNames="true">
+  <template name=".o-80" value="opacity: .8; /* .o-80 */&#10;$END$" description=".o-80" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-70" value="opacity: .7; /* .o-70 */&#10;$END$" description=".o-70" toReformat="false" toShortenFQNames="true">
+  <template name=".o-70" value="opacity: .7; /* .o-70 */&#10;$END$" description=".o-70" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-60" value="opacity: .6; /* .o-60 */&#10;$END$" description=".o-60" toReformat="false" toShortenFQNames="true">
+  <template name=".o-60" value="opacity: .6; /* .o-60 */&#10;$END$" description=".o-60" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-50" value="opacity: .5; /* .o-50 */&#10;$END$" description=".o-50" toReformat="false" toShortenFQNames="true">
+  <template name=".o-50" value="opacity: .5; /* .o-50 */&#10;$END$" description=".o-50" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-40" value="opacity: .4; /* .o-40 */&#10;$END$" description=".o-40" toReformat="false" toShortenFQNames="true">
+  <template name=".o-40" value="opacity: .4; /* .o-40 */&#10;$END$" description=".o-40" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-30" value="opacity: .3; /* .o-30 */&#10;$END$" description=".o-30" toReformat="false" toShortenFQNames="true">
+  <template name=".o-30" value="opacity: .3; /* .o-30 */&#10;$END$" description=".o-30" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-20" value="opacity: .2; /* .o-20 */&#10;$END$" description=".o-20" toReformat="false" toShortenFQNames="true">
+  <template name=".o-20" value="opacity: .2; /* .o-20 */&#10;$END$" description=".o-20" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-10" value="opacity: .1; /* .o-10 */&#10;$END$" description=".o-10" toReformat="false" toShortenFQNames="true">
+  <template name=".o-10" value="opacity: .1; /* .o-10 */&#10;$END$" description=".o-10" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-05" value="opacity: .05; /* .o-05 */&#10;$END$" description=".o-05" toReformat="false" toShortenFQNames="true">
+  <template name=".o-05" value="opacity: .05; /* .o-05 */&#10;$END$" description=".o-05" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-025" value="opacity: .025; /* .o-025 */&#10;$END$" description=".o-025" toReformat="false" toShortenFQNames="true">
+  <template name=".o-025" value="opacity: .025; /* .o-025 */&#10;$END$" description=".o-025" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".o-0" value="opacity: 0; /* .o-0 */&#10;$END$" description=".o-0" toReformat="false" toShortenFQNames="true">
+  <template name=".o-0" value="opacity: 0; /* .o-0 */&#10;$END$" description=".o-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

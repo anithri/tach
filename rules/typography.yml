@@ -2,40 +2,33 @@
 ".measure":
   selector: ".measure"
   properties:
-  - 'max-width: var(--measure);'
+  - 'max-width: var(--measure, 30em);'
   specifity: 10
   media: all
 ".measure-wide":
   selector: ".measure-wide"
   properties:
-  - 'max-width: var(--measure-wide);'
+  - 'max-width: var(--measure-wide, 34em);'
   specifity: 10
   media: all
 ".measure-narrow":
   selector: ".measure-narrow"
   properties:
-  - 'max-width: var(--measure-narrow);'
+  - 'max-width: var(--measure-narrow, 20em);'
   specifity: 10
   media: all
 ".indent":
   selector: ".indent"
-  properties:
-  - 'text-indent: 1em;'
-  - 'margin-top: 0;'
-  - 'margin-bottom: 0;'
+  properties: 'text-indent: 1em;'
   specifity: 10
   media: all
 ".small-caps":
   selector: ".small-caps"
-  properties:
-  - 'font-variant: small-caps;'
+  properties: 'font-variant: small-caps;'
   specifity: 10
   media: all
 ".truncate":
   selector: ".truncate"
-  properties:
-  - 'white-space: nowrap;'
-  - 'overflow: hidden;'
-  - 'text-overflow: ellipsis;'
+  properties: 'white-space: nowrap;'
   specifity: 10
   media: all

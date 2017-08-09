@@ -1,31 +1,26 @@
 ---
 ".cf":
   selector: ".cf"
-  properties:
-  - "*zoom: 1;"
+  properties: "*zoom: 1;"
   specifity: 10
   media: all
 ".cl":
   selector: ".cl"
-  properties:
-  - 'clear: left;'
+  properties: 'clear: left;'
   specifity: 10
   media: all
 ".cr":
   selector: ".cr"
-  properties:
-  - 'clear: right;'
+  properties: 'clear: right;'
   specifity: 10
   media: all
 ".cb":
   selector: ".cb"
-  properties:
-  - 'clear: both;'
+  properties: 'clear: both;'
   specifity: 10
   media: all
 ".cn":
   selector: ".cn"
-  properties:
-  - 'clear: none;'
+  properties: 'clear: none;'
   specifity: 10
   media: all

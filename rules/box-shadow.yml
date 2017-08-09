@@ -2,30 +2,30 @@
 ".shadow-1":
   selector: ".shadow-1"
   properties:
-  - 'box-shadow: var(--box-shadow-1);'
+  - 'box-shadow: var(--box-shadow-1, 0px 0px 4px 2px rgba( 0, 0, 0, 0.2 ));'
   specifity: 10
   media: all
 ".shadow-2":
   selector: ".shadow-2"
   properties:
-  - 'box-shadow: var(--box-shadow-2);'
+  - 'box-shadow: var(--box-shadow-2, 0px 0px 8px 2px rgba( 0, 0, 0, 0.2 ));'
   specifity: 10
   media: all
 ".shadow-3":
   selector: ".shadow-3"
   properties:
-  - 'box-shadow: var(--box-shadow-3);'
+  - 'box-shadow: var(--box-shadow-3, 2px 2px 4px 2px rgba( 0, 0, 0, 0.2 ));'
   specifity: 10
   media: all
 ".shadow-4":
   selector: ".shadow-4"
   properties:
-  - 'box-shadow: var(--box-shadow-4);'
+  - 'box-shadow: var(--box-shadow-4, 2px 2px 8px 0px rgba( 0, 0, 0, 0.2 ));'
   specifity: 10
   media: all
 ".shadow-5":
   selector: ".shadow-5"
   properties:
-  - 'box-shadow: var(--box-shadow-5);'
+  - 'box-shadow: var(--box-shadow-5, 4px 4px 8px 0px rgba( 0, 0, 0, 0.2 ));'
   specifity: 10
   media: all

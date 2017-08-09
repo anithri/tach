@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <templateSet group="tach-letter-spacing">
-  <template name=".tracked" value="letter-spacing: var(--letter-spacing-1);&#10;$END$" description=".tracked" toReformat="false" toShortenFQNames="true">
+  <template name=".tracked" value="letter-spacing: var(--letter-spacing-1, );&#10;$END$" description=".tracked" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".tracked-tight" value="letter-spacing: var(--letter-spacing-tight);&#10;$END$" description=".tracked-tight" toReformat="false" toShortenFQNames="true">
+  <template name=".tracked-tight" value="letter-spacing: var(--letter-spacing-tight, );&#10;$END$" description=".tracked-tight" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".tracked-mega" value="letter-spacing: var(--letter-spacing-2);&#10;$END$" description=".tracked-mega" toReformat="false" toShortenFQNames="true">
+  <template name=".tracked-mega" value="letter-spacing: var(--letter-spacing-2, );&#10;$END$" description=".tracked-mega" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

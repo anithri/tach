@@ -1,74 +1,61 @@
 ---
 ".dn":
   selector: ".dn"
-  properties:
-  - 'display: none;'
+  properties: 'display: none;'
   specifity: 10
   media: all
 ".di":
   selector: ".di"
-  properties:
-  - 'display: inline;'
+  properties: 'display: inline;'
   specifity: 10
   media: all
 ".db":
   selector: ".db"
-  properties:
-  - 'display: block;'
+  properties: 'display: block;'
   specifity: 10
   media: all
 ".dib":
   selector: ".dib"
-  properties:
-  - 'display: inline-block;'
+  properties: 'display: inline-block;'
   specifity: 10
   media: all
 ".dit":
   selector: ".dit"
-  properties:
-  - 'display: inline-table;'
+  properties: 'display: inline-table;'
   specifity: 10
   media: all
 ".dt":
   selector: ".dt"
-  properties:
-  - 'display: table;'
+  properties: 'display: table;'
   specifity: 10
   media: all
 ".dtc":
   selector: ".dtc"
-  properties:
-  - 'display: table-cell;'
+  properties: 'display: table-cell;'
   specifity: 10
   media: all
 ".dt-row":
   selector: ".dt-row"
-  properties:
-  - 'display: table-row;'
+  properties: 'display: table-row;'
   specifity: 10
   media: all
 ".dt-row-group":
   selector: ".dt-row-group"
-  properties:
-  - 'display: table-row-group;'
+  properties: 'display: table-row-group;'
   specifity: 10
   media: all
 ".dt-column":
   selector: ".dt-column"
-  properties:
-  - 'display: table-column;'
+  properties: 'display: table-column;'
   specifity: 10
   media: all
 ".dt-column-group":
   selector: ".dt-column-group"
-  properties:
-  - 'display: table-column-group;'
+  properties: 'display: table-column-group;'
   specifity: 10
   media: all
 ".dt--fixed":
   selector: ".dt--fixed"
-  properties:
-  - 'table-layout: fixed;'
-  - 'width: 100%;'
+  properties: 'table-layout: fixed;'
   specifity: 10
   media: all

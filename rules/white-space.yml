@@ -1,19 +1,16 @@
 ---
 ".ws-normal":
   selector: ".ws-normal"
-  properties:
-  - 'white-space: normal;'
+  properties: 'white-space: normal;'
   specifity: 10
   media: all
 ".nowrap":
   selector: ".nowrap"
-  properties:
-  - 'white-space: nowrap;'
+  properties: 'white-space: nowrap;'
   specifity: 10
   media: all
 ".pre":
   selector: ".pre"
-  properties:
-  - 'white-space: pre;'
+  properties: 'white-space: pre;'
   specifity: 10
   media: all

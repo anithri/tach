@@ -1,19 +1,16 @@
 ---
 ".outline":
   selector: ".outline"
-  properties:
-  - 'outline: 1px solid;'
+  properties: 'outline: 1px solid;'
   specifity: 10
   media: all
 ".outline-transparent":
   selector: ".outline-transparent"
-  properties:
-  - 'outline: 1px solid transparent;'
+  properties: 'outline: 1px solid transparent;'
   specifity: 10
   media: all
 ".outline-0":
   selector: ".outline-0"
-  properties:
-  - 'outline: 0;'
+  properties: 'outline: 0;'
   specifity: 10
   media: all

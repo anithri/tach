@@ -1,43 +1,31 @@
 ---
 ".ba":
   selector: ".ba"
-  properties:
-  - 'border-style: solid;'
-  - 'border-width: 1px;'
+  properties: 'border-style: solid;'
   specifity: 10
   media: all
 ".bt":
   selector: ".bt"
-  properties:
-  - 'border-top-style: solid;'
-  - 'border-top-width: 1px;'
+  properties: 'border-top-style: solid;'
   specifity: 10
   media: all
 ".br":
   selector: ".br"
-  properties:
-  - 'border-right-style: solid;'
-  - 'border-right-width: 1px;'
+  properties: 'border-right-style: solid;'
   specifity: 10
   media: all
 ".bb":
   selector: ".bb"
-  properties:
-  - 'border-bottom-style: solid;'
-  - 'border-bottom-width: 1px;'
+  properties: 'border-bottom-style: solid;'
   specifity: 10
   media: all
 ".bl":
   selector: ".bl"
-  properties:
-  - 'border-left-style: solid;'
-  - 'border-left-width: 1px;'
+  properties: 'border-left-style: solid;'
   specifity: 10
   media: all
 ".bn":
   selector: ".bn"
-  properties:
-  - 'border-style: none;'
-  - 'border-width: 0;'
+  properties: 'border-style: none;'
   specifity: 10
   media: all

@@ -1,13 +1,11 @@
 ---
 ".i":
   selector: ".i"
-  properties:
-  - 'font-style: italic;'
+  properties: 'font-style: italic;'
   specifity: 10
   media: all
 ".fs-normal":
   selector: ".fs-normal"
-  properties:
-  - 'font-style: normal;'
+  properties: 'font-style: normal;'
   specifity: 10
   media: all

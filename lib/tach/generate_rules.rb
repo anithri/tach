@@ -1,9 +1,10 @@
 module Tach
   class GenerateRules
-    attr_reader :parser, :filter
+    attr_reader :parser, :filter, :var_assigner
     def initialize(parser)
       @parser = parser
       @filter = RulesFilter.new
+      @var_assigner = Tach::AssignVar.new
     end
 
     def rules
@@ -17,13 +18,18 @@ module Tach
         next unless filter.use?(selector, media)
         new_rules[selector] = {
             'selector'   => selector,
-            'properties' => gen_properties(declarations),
+            'properties' => process_properties(declarations),
             'specifity'  => specificity,
             'media'      => media
         }
       end
       puts parser.inspect if new_rules.empty?
       new_rules
+    end
+
+    def process_properties(declarations)
+      i = gen_properties(declarations)
+      var_assigner.process_rules(i)
     end
 
     # BEWARE

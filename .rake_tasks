@@ -1,0 +1,5 @@
+clean
+clobber
+convert
+generate
+variables

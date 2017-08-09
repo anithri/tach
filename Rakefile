@@ -11,12 +11,14 @@ EXCLUDED_SRC_FILES = ['_skins-pseudo.css', '_styles.css', '_module-template.css'
                       '_variables.css', '_font-family.css'
 ].map {|f| '**/' + f}
 
-TACHYONS_DIR            = Pathname('./node_modules/tachyons-custom/src/').expand_path
-RULES_DIR               = Pathname('./rules/').expand_path
-TEMPLATE_DIR            = Pathname('./templates/').expand_path
-MODULES_NONE            = TEMPLATE_DIR + 'modules'
-MODULES_SIDE            = TEMPLATE_DIR + 'modules-side-comments'
-MODULES_TOP             = TEMPLATE_DIR + 'modules-top-comments'
+TACHYONS_DIR = Pathname('./node_modules/tachyons-custom/src/').expand_path
+RULES_DIR    = Pathname('./rules/').expand_path
+TEMPLATE_DIR = Pathname('./templates/').expand_path
+ETC_DIR      = Pathname('./etc').expand_path
+MODULES_NONE = TEMPLATE_DIR + 'modules'
+MODULES_SIDE = TEMPLATE_DIR + 'modules-side-comments'
+# noinspection RubyInterpreter
+MODULES_TOP = TEMPLATE_DIR + 'modules-top-comments'
 
 STYLESHEET_GLOB_PATTERN = '_*.css'
 RULES_GLOB_PATTERN      = '*.yml'
@@ -36,8 +38,14 @@ end
 
 files_to_convert = Rake::FileList[TACHYONS_DIR.to_s + '/'+ STYLESHEET_GLOB_PATTERN].exclude(*EXCLUDED_SRC_FILES)
 
+desc 'convert variables file to yaml'
+task variables: [:check_install, RULES_DIR, *files_to_convert] do
+  Tach::ConvertVariables.convert(TACHYONS_DIR + '_variables.css',ETC_DIR + 'variables.yml')
+end
+
+
 desc 'convert tachyons css to yaml'
-task convert: [:check_install, RULES_DIR, *files_to_convert] do
+task convert: :variables do
   files_to_convert.each do |file|
     Tach::ConvertStylesheet.convert(file, RULES_DIR)
   end
@@ -52,7 +60,7 @@ task generate: [RULES_DIR, TEMPLATE_DIR, MODULES_NONE,
   end
 
   t = Tach::GenerateTemplate.combine('tachyons', files_to_generate)
-  t.save(TEMPLATE_DIR, :top)
+  t.save(TEMPLATE_DIR, :side)
   t.save(MODULES_NONE, :none)
   t.save(MODULES_SIDE, :side)
   t.save(MODULES_TOP, :top)

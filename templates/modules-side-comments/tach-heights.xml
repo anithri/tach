@@ -1,86 +1,86 @@
 <?xml version="1.0"?>
 <templateSet group="tach-heights">
-  <template name=".h1" value="height: var(--height-1); /* .h1 */&#10;$END$" description=".h1" toReformat="false" toShortenFQNames="true">
+  <template name=".h1" value="height: var(--height-1, 1rem); /* .h1 */&#10;$END$" description=".h1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h2" value="height: var(--height-2); /* .h2 */&#10;$END$" description=".h2" toReformat="false" toShortenFQNames="true">
+  <template name=".h2" value="height: var(--height-2, 2rem); /* .h2 */&#10;$END$" description=".h2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h3" value="height: var(--height-3); /* .h3 */&#10;$END$" description=".h3" toReformat="false" toShortenFQNames="true">
+  <template name=".h3" value="height: var(--height-3, 4rem); /* .h3 */&#10;$END$" description=".h3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h4" value="height: var(--height-4); /* .h4 */&#10;$END$" description=".h4" toReformat="false" toShortenFQNames="true">
+  <template name=".h4" value="height: var(--height-4, 8rem); /* .h4 */&#10;$END$" description=".h4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h5" value="height: var(--height-5); /* .h5 */&#10;$END$" description=".h5" toReformat="false" toShortenFQNames="true">
+  <template name=".h5" value="height: var(--height-5, 16rem); /* .h5 */&#10;$END$" description=".h5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h-25" value="height: 25%; /* .h-25 */&#10;$END$" description=".h-25" toReformat="false" toShortenFQNames="true">
+  <template name=".h-25" value="height: 25%; /* .h-25 */&#10;$END$" description=".h-25" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h-50" value="height: 50%; /* .h-50 */&#10;$END$" description=".h-50" toReformat="false" toShortenFQNames="true">
+  <template name=".h-50" value="height: 50%; /* .h-50 */&#10;$END$" description=".h-50" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h-75" value="height: 75%; /* .h-75 */&#10;$END$" description=".h-75" toReformat="false" toShortenFQNames="true">
+  <template name=".h-75" value="height: 75%; /* .h-75 */&#10;$END$" description=".h-75" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h-100" value="height: 100%; /* .h-100 */&#10;$END$" description=".h-100" toReformat="false" toShortenFQNames="true">
+  <template name=".h-100" value="height: 100%; /* .h-100 */&#10;$END$" description=".h-100" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".min-h-100" value="min-height: 100%; /* .min-h-100 */&#10;$END$" description=".min-h-100" toReformat="false" toShortenFQNames="true">
+  <template name=".min-h-100" value="min-height: 100%; /* .min-h-100 */&#10;$END$" description=".min-h-100" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".vh-25" value="height: 25vh; /* .vh-25 */&#10;$END$" description=".vh-25" toReformat="false" toShortenFQNames="true">
+  <template name=".vh-25" value="height: 25vh; /* .vh-25 */&#10;$END$" description=".vh-25" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".vh-50" value="height: 50vh; /* .vh-50 */&#10;$END$" description=".vh-50" toReformat="false" toShortenFQNames="true">
+  <template name=".vh-50" value="height: 50vh; /* .vh-50 */&#10;$END$" description=".vh-50" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".vh-75" value="height: 75vh; /* .vh-75 */&#10;$END$" description=".vh-75" toReformat="false" toShortenFQNames="true">
+  <template name=".vh-75" value="height: 75vh; /* .vh-75 */&#10;$END$" description=".vh-75" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".vh-100" value="height: 100vh; /* .vh-100 */&#10;$END$" description=".vh-100" toReformat="false" toShortenFQNames="true">
+  <template name=".vh-100" value="height: 100vh; /* .vh-100 */&#10;$END$" description=".vh-100" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".min-vh-100" value="min-height: 100vh; /* .min-vh-100 */&#10;$END$" description=".min-vh-100" toReformat="false" toShortenFQNames="true">
+  <template name=".min-vh-100" value="min-height: 100vh; /* .min-vh-100 */&#10;$END$" description=".min-vh-100" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h-auto" value="height: auto; /* .h-auto */&#10;$END$" description=".h-auto" toReformat="false" toShortenFQNames="true">
+  <template name=".h-auto" value="height: auto; /* .h-auto */&#10;$END$" description=".h-auto" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".h-inherit" value="height: inherit; /* .h-inherit */&#10;$END$" description=".h-inherit" toReformat="false" toShortenFQNames="true">
+  <template name=".h-inherit" value="height: inherit; /* .h-inherit */&#10;$END$" description=".h-inherit" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

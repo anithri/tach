@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <templateSet group="tach-text-align">
-  <template name=".tl" value="text-align: left;&#10;$END$" description=".tl" toReformat="false" toShortenFQNames="true">
+  <template name=".tl" value="text-align: left;&#10;$END$" description=".tl" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".tr" value="text-align: right;&#10;$END$" description=".tr" toReformat="false" toShortenFQNames="true">
+  <template name=".tr" value="text-align: right;&#10;$END$" description=".tr" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".tc" value="text-align: center;&#10;$END$" description=".tc" toReformat="false" toShortenFQNames="true">
+  <template name=".tc" value="text-align: center;&#10;$END$" description=".tc" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

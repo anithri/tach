@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <templateSet group="tach-text-transform">
-  <template name=".ttc" value="text-transform: capitalize;&#10;$END$" description=".ttc" toReformat="false" toShortenFQNames="true">
+  <template name=".ttc" value="text-transform: capitalize;&#10;$END$" description=".ttc" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".ttl" value="text-transform: lowercase;&#10;$END$" description=".ttl" toReformat="false" toShortenFQNames="true">
+  <template name=".ttl" value="text-transform: lowercase;&#10;$END$" description=".ttl" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".ttu" value="text-transform: uppercase;&#10;$END$" description=".ttu" toReformat="false" toShortenFQNames="true">
+  <template name=".ttu" value="text-transform: uppercase;&#10;$END$" description=".ttu" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".ttn" value="text-transform: none;&#10;$END$" description=".ttn" toReformat="false" toShortenFQNames="true">
+  <template name=".ttn" value="text-transform: none;&#10;$END$" description=".ttn" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

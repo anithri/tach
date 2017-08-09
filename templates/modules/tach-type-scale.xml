@@ -1,51 +1,51 @@
 <?xml version="1.0"?>
 <templateSet group="tach-type-scale">
-  <template name=".f-6" value="font-size: var(--font-size-headline);&#10;$END$" description=".f-6" toReformat="false" toShortenFQNames="true">
+  <template name=".f-6" value="font-size: var(--font-size-headline, 6rem);&#10;$END$" description=".f-6" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f-headline" value="font-size: var(--font-size-headline);&#10;$END$" description=".f-headline" toReformat="false" toShortenFQNames="true">
+  <template name=".f-headline" value="font-size: var(--font-size-headline, 6rem);&#10;$END$" description=".f-headline" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f-5" value="font-size: var(--font-size-subheadline);&#10;$END$" description=".f-5" toReformat="false" toShortenFQNames="true">
+  <template name=".f-5" value="font-size: var(--font-size-subheadline, 5rem);&#10;$END$" description=".f-5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f-subheadline" value="font-size: var(--font-size-subheadline);&#10;$END$" description=".f-subheadline" toReformat="false" toShortenFQNames="true">
+  <template name=".f-subheadline" value="font-size: var(--font-size-subheadline, 5rem);&#10;$END$" description=".f-subheadline" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f1" value="font-size: var(--font-size-1);&#10;$END$" description=".f1" toReformat="false" toShortenFQNames="true">
+  <template name=".f1" value="font-size: var(--font-size-1, 3rem);&#10;$END$" description=".f1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f2" value="font-size: var(--font-size-2);&#10;$END$" description=".f2" toReformat="false" toShortenFQNames="true">
+  <template name=".f2" value="font-size: var(--font-size-2, 2.25rem);&#10;$END$" description=".f2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f3" value="font-size: var(--font-size-3);&#10;$END$" description=".f3" toReformat="false" toShortenFQNames="true">
+  <template name=".f3" value="font-size: var(--font-size-3, 1.5rem);&#10;$END$" description=".f3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f4" value="font-size: var(--font-size-4);&#10;$END$" description=".f4" toReformat="false" toShortenFQNames="true">
+  <template name=".f4" value="font-size: var(--font-size-4, 1.25rem);&#10;$END$" description=".f4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f5" value="font-size: var(--font-size-5);&#10;$END$" description=".f5" toReformat="false" toShortenFQNames="true">
+  <template name=".f5" value="font-size: var(--font-size-5, 1rem);&#10;$END$" description=".f5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".f6" value="font-size: var(--font-size-6);&#10;$END$" description=".f6" toReformat="false" toShortenFQNames="true">
+  <template name=".f6" value="font-size: var(--font-size-6, .875rem);&#10;$END$" description=".f6" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

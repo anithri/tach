@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <templateSet group="tach-word-break">
-  <template name=".word-normal" value="word-break: normal;&#10;$END$" description=".word-normal" toReformat="false" toShortenFQNames="true">
+  <template name=".word-normal" value="word-break: normal;&#10;$END$" description=".word-normal" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".word-wrap" value="word-break: break-all;&#10;$END$" description=".word-wrap" toReformat="false" toShortenFQNames="true">
+  <template name=".word-wrap" value="word-break: break-all;&#10;$END$" description=".word-wrap" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".word-nowrap" value="word-break: keep-all;&#10;$END$" description=".word-nowrap" toReformat="false" toShortenFQNames="true">
+  <template name=".word-nowrap" value="word-break: keep-all;&#10;$END$" description=".word-nowrap" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

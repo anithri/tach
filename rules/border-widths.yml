@@ -2,60 +2,60 @@
 ".bw0":
   selector: ".bw0"
   properties:
-  - 'border-width: var(--border-width-none);'
+  - 'border-width: var(--border-width-none, 0);'
   specifity: 10
   media: all
 ".bw1":
   selector: ".bw1"
   properties:
-  - 'border-width: var(--border-width-1);'
+  - 'border-width: var(--border-width-1, .125rem);'
   specifity: 10
   media: all
 ".bw2":
   selector: ".bw2"
   properties:
-  - 'border-width: var(--border-width-2);'
+  - 'border-width: var(--border-width-2, .25rem);'
   specifity: 10
   media: all
 ".bw3":
   selector: ".bw3"
   properties:
-  - 'border-width: var(--border-width-3);'
+  - 'border-width: var(--border-width-3, .5rem);'
   specifity: 10
   media: all
 ".bw4":
   selector: ".bw4"
   properties:
-  - 'border-width: var(--border-width-4);'
+  - 'border-width: var(--border-width-4, 1rem);'
   specifity: 10
   media: all
 ".bw5":
   selector: ".bw5"
   properties:
-  - 'border-width: var(--border-width-5);'
+  - 'border-width: var(--border-width-5, 2rem);'
   specifity: 10
   media: all
 ".bt-0":
   selector: ".bt-0"
   properties:
-  - 'border-top-width: var(--border-width-none);'
+  - 'border-top-width: var(--border-width-none, 0);'
   specifity: 10
   media: all
 ".br-0":
   selector: ".br-0"
   properties:
-  - 'border-right-width: var(--border-width-none);'
+  - 'border-right-width: var(--border-width-none, 0);'
   specifity: 10
   media: all
 ".bb-0":
   selector: ".bb-0"
   properties:
-  - 'border-bottom-width: var(--border-width-none);'
+  - 'border-bottom-width: var(--border-width-none, 0);'
   specifity: 10
   media: all
 ".bl-0":
   selector: ".bl-0"
   properties:
-  - 'border-left-width: var(--border-width-none);'
+  - 'border-left-width: var(--border-width-none, 0);'
   specifity: 10
   media: all

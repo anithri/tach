@@ -1,61 +1,61 @@
 <?xml version="1.0"?>
 <templateSet group="tach-z-index">
-  <template name=".z-0" value="/* tach-z-index: .z-0 */&#10;z-index: 0;&#10;$END$" description=".z-0" toReformat="false" toShortenFQNames="true">
+  <template name=".z-0" value="/* tach-z-index: .z-0 */&#10;z-index: 0;&#10;$END$" description=".z-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-1" value="/* tach-z-index: .z-1 */&#10;z-index: 1;&#10;$END$" description=".z-1" toReformat="false" toShortenFQNames="true">
+  <template name=".z-1" value="/* tach-z-index: .z-1 */&#10;z-index: 1;&#10;$END$" description=".z-1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-2" value="/* tach-z-index: .z-2 */&#10;z-index: 2;&#10;$END$" description=".z-2" toReformat="false" toShortenFQNames="true">
+  <template name=".z-2" value="/* tach-z-index: .z-2 */&#10;z-index: 2;&#10;$END$" description=".z-2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-3" value="/* tach-z-index: .z-3 */&#10;z-index: 3;&#10;$END$" description=".z-3" toReformat="false" toShortenFQNames="true">
+  <template name=".z-3" value="/* tach-z-index: .z-3 */&#10;z-index: 3;&#10;$END$" description=".z-3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-4" value="/* tach-z-index: .z-4 */&#10;z-index: 4;&#10;$END$" description=".z-4" toReformat="false" toShortenFQNames="true">
+  <template name=".z-4" value="/* tach-z-index: .z-4 */&#10;z-index: 4;&#10;$END$" description=".z-4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-5" value="/* tach-z-index: .z-5 */&#10;z-index: 5;&#10;$END$" description=".z-5" toReformat="false" toShortenFQNames="true">
+  <template name=".z-5" value="/* tach-z-index: .z-5 */&#10;z-index: 5;&#10;$END$" description=".z-5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-999" value="/* tach-z-index: .z-999 */&#10;z-index: 999;&#10;$END$" description=".z-999" toReformat="false" toShortenFQNames="true">
+  <template name=".z-999" value="/* tach-z-index: .z-999 */&#10;z-index: 999;&#10;$END$" description=".z-999" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-9999" value="/* tach-z-index: .z-9999 */&#10;z-index: 9999;&#10;$END$" description=".z-9999" toReformat="false" toShortenFQNames="true">
+  <template name=".z-9999" value="/* tach-z-index: .z-9999 */&#10;z-index: 9999;&#10;$END$" description=".z-9999" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-max" value="/* tach-z-index: .z-max */&#10;z-index: 2147483647;&#10;$END$" description=".z-max" toReformat="false" toShortenFQNames="true">
+  <template name=".z-max" value="/* tach-z-index: .z-max */&#10;z-index: 2147483647;&#10;$END$" description=".z-max" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-inherit" value="/* tach-z-index: .z-inherit */&#10;z-index: inherit;&#10;$END$" description=".z-inherit" toReformat="false" toShortenFQNames="true">
+  <template name=".z-inherit" value="/* tach-z-index: .z-inherit */&#10;z-index: inherit;&#10;$END$" description=".z-inherit" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-initial" value="/* tach-z-index: .z-initial */&#10;z-index: initial;&#10;$END$" description=".z-initial" toReformat="false" toShortenFQNames="true">
+  <template name=".z-initial" value="/* tach-z-index: .z-initial */&#10;z-index: initial;&#10;$END$" description=".z-initial" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".z-unset" value="/* tach-z-index: .z-unset */&#10;z-index: unset;&#10;$END$" description=".z-unset" toReformat="false" toShortenFQNames="true">
+  <template name=".z-unset" value="/* tach-z-index: .z-unset */&#10;z-index: unset;&#10;$END$" description=".z-unset" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

@@ -1,36 +1,26 @@
 ---
 ".bg-center":
   selector: ".bg-center"
-  properties:
-  - 'background-repeat: no-repeat;'
-  - 'background-position: center center;'
+  properties: 'background-repeat: no-repeat;'
   specifity: 10
   media: all
 ".bg-top":
   selector: ".bg-top"
-  properties:
-  - 'background-repeat: no-repeat;'
-  - 'background-position: top center;'
+  properties: 'background-repeat: no-repeat;'
   specifity: 10
   media: all
 ".bg-right":
   selector: ".bg-right"
-  properties:
-  - 'background-repeat: no-repeat;'
-  - 'background-position: center right;'
+  properties: 'background-repeat: no-repeat;'
   specifity: 10
   media: all
 ".bg-bottom":
   selector: ".bg-bottom"
-  properties:
-  - 'background-repeat: no-repeat;'
-  - 'background-position: bottom center;'
+  properties: 'background-repeat: no-repeat;'
   specifity: 10
   media: all
 ".bg-left":
   selector: ".bg-left"
-  properties:
-  - 'background-repeat: no-repeat;'
-  - 'background-position: center left;'
+  properties: 'background-repeat: no-repeat;'
   specifity: 10
   media: all

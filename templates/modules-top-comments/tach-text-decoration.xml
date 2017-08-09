@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <templateSet group="tach-text-decoration">
-  <template name=".strike" value="/* tach-text-decoration: .strike */&#10;text-decoration: line-through;&#10;$END$" description=".strike" toReformat="false" toShortenFQNames="true">
+  <template name=".strike" value="/* tach-text-decoration: .strike */&#10;text-decoration: line-through;&#10;$END$" description=".strike" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".underline" value="/* tach-text-decoration: .underline */&#10;text-decoration: underline;&#10;$END$" description=".underline" toReformat="false" toShortenFQNames="true">
+  <template name=".underline" value="/* tach-text-decoration: .underline */&#10;text-decoration: underline;&#10;$END$" description=".underline" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".no-underline" value="/* tach-text-decoration: .no-underline */&#10;text-decoration: none;&#10;$END$" description=".no-underline" toReformat="false" toShortenFQNames="true">
+  <template name=".no-underline" value="/* tach-text-decoration: .no-underline */&#10;text-decoration: none;&#10;$END$" description=".no-underline" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

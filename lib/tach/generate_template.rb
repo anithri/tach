@@ -74,14 +74,15 @@ module Tach
           name:             rule_name,
           value:            with_comments(rule_name, properties, comment_type),
           description:      short_comment(rule_name),
-          toReformat:       false,
+          toReformat:       true,
           toShortenFQNames: true
       }
     end
 
     # TODO REFACTOR if this gets anymore complicated
     def with_comments(rule_name, properties, comment_type)
-      props = properties + ["$END$"]
+      puts properties.inspect
+      props = Array(properties) + ["$END$"]
       case comment_type
         when :side # first line gets the comment appended to it
           props[0] += " /* #{short_comment(rule_name)} */"

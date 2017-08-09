@@ -2,132 +2,115 @@
 ".w1":
   selector: ".w1"
   properties:
-  - 'width: var(--width-1);'
+  - 'width: var(--width-1, 1rem);'
   specifity: 10
   media: all
 ".w2":
   selector: ".w2"
   properties:
-  - 'width: var(--width-2);'
+  - 'width: var(--width-2, 2rem);'
   specifity: 10
   media: all
 ".w3":
   selector: ".w3"
   properties:
-  - 'width: var(--width-3);'
+  - 'width: var(--width-3, 4rem);'
   specifity: 10
   media: all
 ".w4":
   selector: ".w4"
   properties:
-  - 'width: var(--width-4);'
+  - 'width: var(--width-4, 8rem);'
   specifity: 10
   media: all
 ".w5":
   selector: ".w5"
   properties:
-  - 'width: var(--width-5);'
+  - 'width: var(--width-5, 16rem);'
   specifity: 10
   media: all
 ".w-10":
   selector: ".w-10"
-  properties:
-  - 'width: 10%;'
+  properties: 'width: 10%;'
   specifity: 10
   media: all
 ".w-20":
   selector: ".w-20"
-  properties:
-  - 'width: 20%;'
+  properties: 'width: 20%;'
   specifity: 10
   media: all
 ".w-25":
   selector: ".w-25"
-  properties:
-  - 'width: 25%;'
+  properties: 'width: 25%;'
   specifity: 10
   media: all
 ".w-30":
   selector: ".w-30"
-  properties:
-  - 'width: 30%;'
+  properties: 'width: 30%;'
   specifity: 10
   media: all
 ".w-33":
   selector: ".w-33"
-  properties:
-  - 'width: 33%;'
+  properties: 'width: 33%;'
   specifity: 10
   media: all
 ".w-34":
   selector: ".w-34"
-  properties:
-  - 'width: 34%;'
+  properties: 'width: 34%;'
   specifity: 10
   media: all
 ".w-40":
   selector: ".w-40"
-  properties:
-  - 'width: 40%;'
+  properties: 'width: 40%;'
   specifity: 10
   media: all
 ".w-50":
   selector: ".w-50"
-  properties:
-  - 'width: 50%;'
+  properties: 'width: 50%;'
   specifity: 10
   media: all
 ".w-60":
   selector: ".w-60"
-  properties:
-  - 'width: 60%;'
+  properties: 'width: 60%;'
   specifity: 10
   media: all
 ".w-70":
   selector: ".w-70"
-  properties:
-  - 'width: 70%;'
+  properties: 'width: 70%;'
   specifity: 10
   media: all
 ".w-75":
   selector: ".w-75"
-  properties:
-  - 'width: 75%;'
+  properties: 'width: 75%;'
   specifity: 10
   media: all
 ".w-80":
   selector: ".w-80"
-  properties:
-  - 'width: 80%;'
+  properties: 'width: 80%;'
   specifity: 10
   media: all
 ".w-90":
   selector: ".w-90"
-  properties:
-  - 'width: 90%;'
+  properties: 'width: 90%;'
   specifity: 10
   media: all
 ".w-100":
   selector: ".w-100"
-  properties:
-  - 'width: 100%;'
+  properties: 'width: 100%;'
   specifity: 10
   media: all
 ".w-third":
   selector: ".w-third"
-  properties:
-  - 'width: calc(100% / 3);'
+  properties: 'width: calc(100% / 3);'
   specifity: 10
   media: all
 ".w-two-thirds":
   selector: ".w-two-thirds"
-  properties:
-  - 'width: calc(100% / 1.5);'
+  properties: 'width: calc(100% / 1.5);'
   specifity: 10
   media: all
 ".w-auto":
   selector: ".w-auto"
-  properties:
-  - 'width: auto;'
+  properties: 'width: auto;'
   specifity: 10
   media: all

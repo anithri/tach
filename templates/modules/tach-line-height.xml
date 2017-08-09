@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <templateSet group="tach-line-height">
-  <template name=".lh-solid" value="line-height: var(--line-height-solid);&#10;$END$" description=".lh-solid" toReformat="false" toShortenFQNames="true">
+  <template name=".lh-solid" value="line-height: var(--line-height-solid, 1);&#10;$END$" description=".lh-solid" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".lh-title" value="line-height: var(--line-height-title);&#10;$END$" description=".lh-title" toReformat="false" toShortenFQNames="true">
+  <template name=".lh-title" value="line-height: var(--line-height-title, 1.25);&#10;$END$" description=".lh-title" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".lh-copy" value="line-height: var(--line-height-copy);&#10;$END$" description=".lh-copy" toReformat="false" toShortenFQNames="true">
+  <template name=".lh-copy" value="line-height: var(--line-height-copy, 1.5);&#10;$END$" description=".lh-copy" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

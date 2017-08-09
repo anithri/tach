@@ -1,51 +1,51 @@
 <?xml version="1.0"?>
 <templateSet group="tach-border-widths">
-  <template name=".bw0" value="border-width: var(--border-width-none); /* .bw0 */&#10;$END$" description=".bw0" toReformat="false" toShortenFQNames="true">
+  <template name=".bw0" value="border-width: var(--border-width-none, 0); /* .bw0 */&#10;$END$" description=".bw0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bw1" value="border-width: var(--border-width-1); /* .bw1 */&#10;$END$" description=".bw1" toReformat="false" toShortenFQNames="true">
+  <template name=".bw1" value="border-width: var(--border-width-1, .125rem); /* .bw1 */&#10;$END$" description=".bw1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bw2" value="border-width: var(--border-width-2); /* .bw2 */&#10;$END$" description=".bw2" toReformat="false" toShortenFQNames="true">
+  <template name=".bw2" value="border-width: var(--border-width-2, .25rem); /* .bw2 */&#10;$END$" description=".bw2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bw3" value="border-width: var(--border-width-3); /* .bw3 */&#10;$END$" description=".bw3" toReformat="false" toShortenFQNames="true">
+  <template name=".bw3" value="border-width: var(--border-width-3, .5rem); /* .bw3 */&#10;$END$" description=".bw3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bw4" value="border-width: var(--border-width-4); /* .bw4 */&#10;$END$" description=".bw4" toReformat="false" toShortenFQNames="true">
+  <template name=".bw4" value="border-width: var(--border-width-4, 1rem); /* .bw4 */&#10;$END$" description=".bw4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bw5" value="border-width: var(--border-width-5); /* .bw5 */&#10;$END$" description=".bw5" toReformat="false" toShortenFQNames="true">
+  <template name=".bw5" value="border-width: var(--border-width-5, 2rem); /* .bw5 */&#10;$END$" description=".bw5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bt-0" value="border-top-width: var(--border-width-none); /* .bt-0 */&#10;$END$" description=".bt-0" toReformat="false" toShortenFQNames="true">
+  <template name=".bt-0" value="border-top-width: var(--border-width-none, 0); /* .bt-0 */&#10;$END$" description=".bt-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br-0" value="border-right-width: var(--border-width-none); /* .br-0 */&#10;$END$" description=".br-0" toReformat="false" toShortenFQNames="true">
+  <template name=".br-0" value="border-right-width: var(--border-width-none, 0); /* .br-0 */&#10;$END$" description=".br-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bb-0" value="border-bottom-width: var(--border-width-none); /* .bb-0 */&#10;$END$" description=".bb-0" toReformat="false" toShortenFQNames="true">
+  <template name=".bb-0" value="border-bottom-width: var(--border-width-none, 0); /* .bb-0 */&#10;$END$" description=".bb-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".bl-0" value="border-left-width: var(--border-width-none); /* .bl-0 */&#10;$END$" description=".bl-0" toReformat="false" toShortenFQNames="true">
+  <template name=".bl-0" value="border-left-width: var(--border-width-none, 0); /* .bl-0 */&#10;$END$" description=".bl-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

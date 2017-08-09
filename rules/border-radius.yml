@@ -2,70 +2,62 @@
 ".br0":
   selector: ".br0"
   properties:
-  - 'border-radius: var(--border-radius-none);'
+  - 'border-radius: var(--border-radius-none, 0);'
   specifity: 10
   media: all
 ".br1":
   selector: ".br1"
   properties:
-  - 'border-radius: var(--border-radius-1);'
+  - 'border-radius: var(--border-radius-1, .125rem);'
   specifity: 10
   media: all
 ".br2":
   selector: ".br2"
   properties:
-  - 'border-radius: var(--border-radius-2);'
+  - 'border-radius: var(--border-radius-2, .25rem);'
   specifity: 10
   media: all
 ".br3":
   selector: ".br3"
   properties:
-  - 'border-radius: var(--border-radius-3);'
+  - 'border-radius: var(--border-radius-3, .5rem);'
   specifity: 10
   media: all
 ".br4":
   selector: ".br4"
   properties:
-  - 'border-radius: var(--border-radius-4);'
+  - 'border-radius: var(--border-radius-4, 1rem);'
   specifity: 10
   media: all
 ".br-100":
   selector: ".br-100"
   properties:
-  - 'border-radius: var(--border-radius-circle);'
+  - 'border-radius: var(--border-radius-circle, 100%);'
   specifity: 10
   media: all
 ".br-pill":
   selector: ".br-pill"
   properties:
-  - 'border-radius: var(--border-radius-pill);'
+  - 'border-radius: var(--border-radius-pill, 9999px);'
   specifity: 10
   media: all
 ".br--bottom":
   selector: ".br--bottom"
-  properties:
-  - 'border-top-left-radius: 0;'
-  - 'border-top-right-radius: 0;'
+  properties: 'border-top-left-radius: 0;'
   specifity: 10
   media: all
 ".br--top":
   selector: ".br--top"
-  properties:
-  - 'border-bottom-left-radius: 0;'
-  - 'border-bottom-right-radius: 0;'
+  properties: 'border-bottom-left-radius: 0;'
   specifity: 10
   media: all
 ".br--right":
   selector: ".br--right"
-  properties:
-  - 'border-top-left-radius: 0;'
-  - 'border-bottom-left-radius: 0;'
+  properties: 'border-top-left-radius: 0;'
   specifity: 10
   media: all
 ".br--left":
   selector: ".br--left"
-  properties:
-  - 'border-top-right-radius: 0;'
-  - 'border-bottom-right-radius: 0;'
+  properties: 'border-top-right-radius: 0;'
   specifity: 10
   media: all

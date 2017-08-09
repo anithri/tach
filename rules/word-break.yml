@@ -1,19 +1,16 @@
 ---
 ".word-normal":
   selector: ".word-normal"
-  properties:
-  - 'word-break: normal;'
+  properties: 'word-break: normal;'
   specifity: 10
   media: all
 ".word-wrap":
   selector: ".word-wrap"
-  properties:
-  - 'word-break: break-all;'
+  properties: 'word-break: break-all;'
   specifity: 10
   media: all
 ".word-nowrap":
   selector: ".word-nowrap"
-  properties:
-  - 'word-break: keep-all;'
+  properties: 'word-break: keep-all;'
   specifity: 10
   media: all

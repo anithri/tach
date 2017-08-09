@@ -1,56 +1,56 @@
 <?xml version="1.0"?>
 <templateSet group="tach-border-radius">
-  <template name=".br0" value="border-radius: var(--border-radius-none);&#10;$END$" description=".br0" toReformat="false" toShortenFQNames="true">
+  <template name=".br0" value="border-radius: var(--border-radius-none, 0);&#10;$END$" description=".br0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br1" value="border-radius: var(--border-radius-1);&#10;$END$" description=".br1" toReformat="false" toShortenFQNames="true">
+  <template name=".br1" value="border-radius: var(--border-radius-1, .125rem);&#10;$END$" description=".br1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br2" value="border-radius: var(--border-radius-2);&#10;$END$" description=".br2" toReformat="false" toShortenFQNames="true">
+  <template name=".br2" value="border-radius: var(--border-radius-2, .25rem);&#10;$END$" description=".br2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br3" value="border-radius: var(--border-radius-3);&#10;$END$" description=".br3" toReformat="false" toShortenFQNames="true">
+  <template name=".br3" value="border-radius: var(--border-radius-3, .5rem);&#10;$END$" description=".br3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br4" value="border-radius: var(--border-radius-4);&#10;$END$" description=".br4" toReformat="false" toShortenFQNames="true">
+  <template name=".br4" value="border-radius: var(--border-radius-4, 1rem);&#10;$END$" description=".br4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br-100" value="border-radius: var(--border-radius-circle);&#10;$END$" description=".br-100" toReformat="false" toShortenFQNames="true">
+  <template name=".br-100" value="border-radius: var(--border-radius-circle, 100%);&#10;$END$" description=".br-100" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br-pill" value="border-radius: var(--border-radius-pill);&#10;$END$" description=".br-pill" toReformat="false" toShortenFQNames="true">
+  <template name=".br-pill" value="border-radius: var(--border-radius-pill, 9999px);&#10;$END$" description=".br-pill" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--bottom" value="border-top-left-radius: 0;&#10;border-top-right-radius: 0;&#10;$END$" description=".br--bottom" toReformat="false" toShortenFQNames="true">
+  <template name=".br--bottom" value="border-top-left-radius: 0;&#10;$END$" description=".br--bottom" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--top" value="border-bottom-left-radius: 0;&#10;border-bottom-right-radius: 0;&#10;$END$" description=".br--top" toReformat="false" toShortenFQNames="true">
+  <template name=".br--top" value="border-bottom-left-radius: 0;&#10;$END$" description=".br--top" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--right" value="border-top-left-radius: 0;&#10;border-bottom-left-radius: 0;&#10;$END$" description=".br--right" toReformat="false" toShortenFQNames="true">
+  <template name=".br--right" value="border-top-left-radius: 0;&#10;$END$" description=".br--right" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".br--left" value="border-top-right-radius: 0;&#10;border-bottom-right-radius: 0;&#10;$END$" description=".br--left" toReformat="false" toShortenFQNames="true">
+  <template name=".br--left" value="border-top-right-radius: 0;&#10;$END$" description=".br--left" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

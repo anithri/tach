@@ -1,191 +1,191 @@
 <?xml version="1.0"?>
 <templateSet group="tach-flexbox">
-  <template name=".flex" value="/* tach-flexbox: .flex */&#10;display: flex;&#10;$END$" description=".flex" toReformat="false" toShortenFQNames="true">
+  <template name=".flex" value="/* tach-flexbox: .flex */&#10;display: flex;&#10;$END$" description=".flex" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".inline-flex" value="/* tach-flexbox: .inline-flex */&#10;display: inline-flex;&#10;$END$" description=".inline-flex" toReformat="false" toShortenFQNames="true">
+  <template name=".inline-flex" value="/* tach-flexbox: .inline-flex */&#10;display: inline-flex;&#10;$END$" description=".inline-flex" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".flex-auto" value="/* tach-flexbox: .flex-auto */&#10;flex: 1 1 auto;&#10;min-width: 0;&#10;min-height: 0;&#10;$END$" description=".flex-auto" toReformat="false" toShortenFQNames="true">
+  <template name=".flex-auto" value="/* tach-flexbox: .flex-auto */&#10;flex: 1 1 auto;&#10;$END$" description=".flex-auto" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".flex-none" value="/* tach-flexbox: .flex-none */&#10;flex: none;&#10;$END$" description=".flex-none" toReformat="false" toShortenFQNames="true">
+  <template name=".flex-none" value="/* tach-flexbox: .flex-none */&#10;flex: none;&#10;$END$" description=".flex-none" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".flex-column" value="/* tach-flexbox: .flex-column */&#10;flex-direction: column;&#10;$END$" description=".flex-column" toReformat="false" toShortenFQNames="true">
+  <template name=".flex-column" value="/* tach-flexbox: .flex-column */&#10;flex-direction: column;&#10;$END$" description=".flex-column" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".flex-row" value="/* tach-flexbox: .flex-row */&#10;flex-direction: row;&#10;$END$" description=".flex-row" toReformat="false" toShortenFQNames="true">
+  <template name=".flex-row" value="/* tach-flexbox: .flex-row */&#10;flex-direction: row;&#10;$END$" description=".flex-row" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".flex-wrap" value="/* tach-flexbox: .flex-wrap */&#10;flex-wrap: wrap;&#10;$END$" description=".flex-wrap" toReformat="false" toShortenFQNames="true">
+  <template name=".flex-wrap" value="/* tach-flexbox: .flex-wrap */&#10;flex-wrap: wrap;&#10;$END$" description=".flex-wrap" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".items-start" value="/* tach-flexbox: .items-start */&#10;align-items: flex-start;&#10;$END$" description=".items-start" toReformat="false" toShortenFQNames="true">
+  <template name=".items-start" value="/* tach-flexbox: .items-start */&#10;align-items: flex-start;&#10;$END$" description=".items-start" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".items-end" value="/* tach-flexbox: .items-end */&#10;align-items: flex-end;&#10;$END$" description=".items-end" toReformat="false" toShortenFQNames="true">
+  <template name=".items-end" value="/* tach-flexbox: .items-end */&#10;align-items: flex-end;&#10;$END$" description=".items-end" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".items-center" value="/* tach-flexbox: .items-center */&#10;align-items: center;&#10;$END$" description=".items-center" toReformat="false" toShortenFQNames="true">
+  <template name=".items-center" value="/* tach-flexbox: .items-center */&#10;align-items: center;&#10;$END$" description=".items-center" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".items-baseline" value="/* tach-flexbox: .items-baseline */&#10;align-items: baseline;&#10;$END$" description=".items-baseline" toReformat="false" toShortenFQNames="true">
+  <template name=".items-baseline" value="/* tach-flexbox: .items-baseline */&#10;align-items: baseline;&#10;$END$" description=".items-baseline" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".items-stretch" value="/* tach-flexbox: .items-stretch */&#10;align-items: stretch;&#10;$END$" description=".items-stretch" toReformat="false" toShortenFQNames="true">
+  <template name=".items-stretch" value="/* tach-flexbox: .items-stretch */&#10;align-items: stretch;&#10;$END$" description=".items-stretch" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".self-start" value="/* tach-flexbox: .self-start */&#10;align-self: flex-start;&#10;$END$" description=".self-start" toReformat="false" toShortenFQNames="true">
+  <template name=".self-start" value="/* tach-flexbox: .self-start */&#10;align-self: flex-start;&#10;$END$" description=".self-start" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".self-end" value="/* tach-flexbox: .self-end */&#10;align-self: flex-end;&#10;$END$" description=".self-end" toReformat="false" toShortenFQNames="true">
+  <template name=".self-end" value="/* tach-flexbox: .self-end */&#10;align-self: flex-end;&#10;$END$" description=".self-end" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".self-center" value="/* tach-flexbox: .self-center */&#10;align-self: center;&#10;$END$" description=".self-center" toReformat="false" toShortenFQNames="true">
+  <template name=".self-center" value="/* tach-flexbox: .self-center */&#10;align-self: center;&#10;$END$" description=".self-center" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".self-baseline" value="/* tach-flexbox: .self-baseline */&#10;align-self: baseline;&#10;$END$" description=".self-baseline" toReformat="false" toShortenFQNames="true">
+  <template name=".self-baseline" value="/* tach-flexbox: .self-baseline */&#10;align-self: baseline;&#10;$END$" description=".self-baseline" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".self-stretch" value="/* tach-flexbox: .self-stretch */&#10;align-self: stretch;&#10;$END$" description=".self-stretch" toReformat="false" toShortenFQNames="true">
+  <template name=".self-stretch" value="/* tach-flexbox: .self-stretch */&#10;align-self: stretch;&#10;$END$" description=".self-stretch" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".justify-start" value="/* tach-flexbox: .justify-start */&#10;justify-content: flex-start;&#10;$END$" description=".justify-start" toReformat="false" toShortenFQNames="true">
+  <template name=".justify-start" value="/* tach-flexbox: .justify-start */&#10;justify-content: flex-start;&#10;$END$" description=".justify-start" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".justify-end" value="/* tach-flexbox: .justify-end */&#10;justify-content: flex-end;&#10;$END$" description=".justify-end" toReformat="false" toShortenFQNames="true">
+  <template name=".justify-end" value="/* tach-flexbox: .justify-end */&#10;justify-content: flex-end;&#10;$END$" description=".justify-end" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".justify-center" value="/* tach-flexbox: .justify-center */&#10;justify-content: center;&#10;$END$" description=".justify-center" toReformat="false" toShortenFQNames="true">
+  <template name=".justify-center" value="/* tach-flexbox: .justify-center */&#10;justify-content: center;&#10;$END$" description=".justify-center" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".justify-between" value="/* tach-flexbox: .justify-between */&#10;justify-content: space-between;&#10;$END$" description=".justify-between" toReformat="false" toShortenFQNames="true">
+  <template name=".justify-between" value="/* tach-flexbox: .justify-between */&#10;justify-content: space-between;&#10;$END$" description=".justify-between" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".justify-around" value="/* tach-flexbox: .justify-around */&#10;justify-content: space-around;&#10;$END$" description=".justify-around" toReformat="false" toShortenFQNames="true">
+  <template name=".justify-around" value="/* tach-flexbox: .justify-around */&#10;justify-content: space-around;&#10;$END$" description=".justify-around" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".content-start" value="/* tach-flexbox: .content-start */&#10;align-content: flex-start;&#10;$END$" description=".content-start" toReformat="false" toShortenFQNames="true">
+  <template name=".content-start" value="/* tach-flexbox: .content-start */&#10;align-content: flex-start;&#10;$END$" description=".content-start" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".content-end" value="/* tach-flexbox: .content-end */&#10;align-content: flex-end;&#10;$END$" description=".content-end" toReformat="false" toShortenFQNames="true">
+  <template name=".content-end" value="/* tach-flexbox: .content-end */&#10;align-content: flex-end;&#10;$END$" description=".content-end" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".content-center" value="/* tach-flexbox: .content-center */&#10;align-content: center;&#10;$END$" description=".content-center" toReformat="false" toShortenFQNames="true">
+  <template name=".content-center" value="/* tach-flexbox: .content-center */&#10;align-content: center;&#10;$END$" description=".content-center" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".content-between" value="/* tach-flexbox: .content-between */&#10;align-content: space-between;&#10;$END$" description=".content-between" toReformat="false" toShortenFQNames="true">
+  <template name=".content-between" value="/* tach-flexbox: .content-between */&#10;align-content: space-between;&#10;$END$" description=".content-between" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".content-around" value="/* tach-flexbox: .content-around */&#10;align-content: space-around;&#10;$END$" description=".content-around" toReformat="false" toShortenFQNames="true">
+  <template name=".content-around" value="/* tach-flexbox: .content-around */&#10;align-content: space-around;&#10;$END$" description=".content-around" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".content-stretch" value="/* tach-flexbox: .content-stretch */&#10;align-content: stretch;&#10;$END$" description=".content-stretch" toReformat="false" toShortenFQNames="true">
+  <template name=".content-stretch" value="/* tach-flexbox: .content-stretch */&#10;align-content: stretch;&#10;$END$" description=".content-stretch" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-0" value="/* tach-flexbox: .order-0 */&#10;order: 0;&#10;$END$" description=".order-0" toReformat="false" toShortenFQNames="true">
+  <template name=".order-0" value="/* tach-flexbox: .order-0 */&#10;order: 0;&#10;$END$" description=".order-0" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-1" value="/* tach-flexbox: .order-1 */&#10;order: 1;&#10;$END$" description=".order-1" toReformat="false" toShortenFQNames="true">
+  <template name=".order-1" value="/* tach-flexbox: .order-1 */&#10;order: 1;&#10;$END$" description=".order-1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-2" value="/* tach-flexbox: .order-2 */&#10;order: 2;&#10;$END$" description=".order-2" toReformat="false" toShortenFQNames="true">
+  <template name=".order-2" value="/* tach-flexbox: .order-2 */&#10;order: 2;&#10;$END$" description=".order-2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-3" value="/* tach-flexbox: .order-3 */&#10;order: 3;&#10;$END$" description=".order-3" toReformat="false" toShortenFQNames="true">
+  <template name=".order-3" value="/* tach-flexbox: .order-3 */&#10;order: 3;&#10;$END$" description=".order-3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-4" value="/* tach-flexbox: .order-4 */&#10;order: 4;&#10;$END$" description=".order-4" toReformat="false" toShortenFQNames="true">
+  <template name=".order-4" value="/* tach-flexbox: .order-4 */&#10;order: 4;&#10;$END$" description=".order-4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-5" value="/* tach-flexbox: .order-5 */&#10;order: 5;&#10;$END$" description=".order-5" toReformat="false" toShortenFQNames="true">
+  <template name=".order-5" value="/* tach-flexbox: .order-5 */&#10;order: 5;&#10;$END$" description=".order-5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-6" value="/* tach-flexbox: .order-6 */&#10;order: 6;&#10;$END$" description=".order-6" toReformat="false" toShortenFQNames="true">
+  <template name=".order-6" value="/* tach-flexbox: .order-6 */&#10;order: 6;&#10;$END$" description=".order-6" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-7" value="/* tach-flexbox: .order-7 */&#10;order: 7;&#10;$END$" description=".order-7" toReformat="false" toShortenFQNames="true">
+  <template name=".order-7" value="/* tach-flexbox: .order-7 */&#10;order: 7;&#10;$END$" description=".order-7" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-8" value="/* tach-flexbox: .order-8 */&#10;order: 8;&#10;$END$" description=".order-8" toReformat="false" toShortenFQNames="true">
+  <template name=".order-8" value="/* tach-flexbox: .order-8 */&#10;order: 8;&#10;$END$" description=".order-8" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".order-last" value="/* tach-flexbox: .order-last */&#10;order: 99999;&#10;$END$" description=".order-last" toReformat="false" toShortenFQNames="true">
+  <template name=".order-last" value="/* tach-flexbox: .order-last */&#10;order: 99999;&#10;$END$" description=".order-last" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
