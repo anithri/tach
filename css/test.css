@@ -1,35 +1,28 @@
 /* .tx .pa3 .f1 .ma0 */
 
 .showSide {
-    text-align: center; /* .tc */
-    padding: var(--spacing-medium); /* .pa3 */
-    font-size: var(--font-size-1); /* .f1 */
-    margin: var(--spacing-none); /* .ma0 */
+  text-align: center; /* .tc */
+  padding: var(--spacing-medium); /* .pa3 */
+  font-size: var(--font-size-1); /* .f1 */
+  margin: var(--spacing-none); /* .ma0 */
 }
 
 .showNone {
-    text-align: center;
-    padding: var(--spacing-medium);
-    font-size: var(--font-size-1);
-    margin: var(--spacing-none);
+  text-align: center;
+  padding: var(--spacing-medium);
+  font-size: var(--font-size-1);
+  margin: var(--spacing-none);
 
 }
 
 .showTop {
-    /* tachyons: .tc */
-    text-align: center;
-    /* tachyons: .pa3 */
-    padding: var(--spacing-medium);
-    /* tachyons: .f1 */
-    font-size: var(--font-size-1);
-    /* tachyons: .ma0 */
-    margin: var(--spacing-none);
-
+  /* tachyons: .tc */
+  text-align: center;
+  /* tachyons: .pa3 */
+  padding: var(--spacing-medium);
+  /* tachyons: .f1 */
+  font-size: var(--font-size-1);
+  /* tachyons: .ma0 */
+  margin: var(--spacing-none);
 }
 
-/* :root { --runt: ##ffffff; } */
-.runt { color: var(--runt); }
-.bg-runt { background-color: var(--runt); }
-.b--runt { border-color: var(--runt); }
-.hover-runt:hover, 
-.hover-runt:focus { color: var(--runt); }
