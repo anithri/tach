@@ -14,9 +14,8 @@ module Tach
         return rule unless rule.include?('var(--')
         (name, var) = rule.match(RULE_REGEX).captures
         val = @data[var]
-        "#{name}: var(#{var}, #{val});"
+        val == '--spacing-none' ?  "#{name}: 0;" : "#{name}: var(#{var});"
       end
     end
-
   end
 end

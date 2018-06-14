@@ -6,4 +6,5 @@ module Tach
   require_relative 'tach/convert_stylesheet'
   require_relative 'tach/rules_filter'
   require_relative 'tach/convert_variables'
+  require_relative 'tach/generate_helpers'
 end

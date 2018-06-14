@@ -11,6 +11,7 @@ module Tach
         c.save
       end
     end
+
     def initialize(input_file, output_file, &block)
       @input_file = input_file
       @output_file = output_file
