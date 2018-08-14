@@ -1,22 +1,20 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.1)
-      public_suffix (~> 2.0, >= 2.0.2)
-    coderay (1.1.1)
-    css_parser (1.5.0)
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
+    coderay (1.1.2)
+    css_parser (1.6.0)
       addressable
-    method_source (0.8.2)
-    mini_portile2 (2.1.0)
-    nokogiri (1.7.0.1)
-      mini_portile2 (~> 2.1.0)
-    pry (0.10.4)
+    method_source (0.9.0)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.4)
+      mini_portile2 (~> 2.3.0)
+    pry (0.11.3)
       coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
-    public_suffix (2.0.5)
-    rake (12.0.0)
-    slop (3.6.0)
+      method_source (~> 0.9.0)
+    public_suffix (3.0.2)
+    rake (12.3.1)
 
 PLATFORMS
   ruby
@@ -28,4 +26,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   1.14.6
+   1.15.4
