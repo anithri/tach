@@ -6,4 +6,4 @@ gem 'css_parser'
 gem 'nokogiri'
 gem 'rake'
 gem 'pry'
-
+gem 'aws-sdk'
