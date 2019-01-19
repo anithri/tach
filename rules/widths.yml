@@ -2,31 +2,31 @@
 ".w1":
   selector: ".w1"
   properties:
-  - 'width: var(--width-1, 1rem);'
+  - 'width: var(--width-1);'
   specifity: 10
   media: all
 ".w2":
   selector: ".w2"
   properties:
-  - 'width: var(--width-2, 2rem);'
+  - 'width: var(--width-2);'
   specifity: 10
   media: all
 ".w3":
   selector: ".w3"
   properties:
-  - 'width: var(--width-3, 4rem);'
+  - 'width: var(--width-3);'
   specifity: 10
   media: all
 ".w4":
   selector: ".w4"
   properties:
-  - 'width: var(--width-4, 8rem);'
+  - 'width: var(--width-4);'
   specifity: 10
   media: all
 ".w5":
   selector: ".w5"
   properties:
-  - 'width: var(--width-5, 16rem);'
+  - 'width: var(--width-5);'
   specifity: 10
   media: all
 ".w-10":

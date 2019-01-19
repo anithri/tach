@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <templateSet group="tach-widths">
-  <template name=".w1" value="width: var(--width-1, 1rem); /* .w1 */&#10;$END$" description=".w1" toReformat="true" toShortenFQNames="true">
+  <template name=".w1" value="width: var(--width-1); /* .w1 */&#10;$END$" description=".w1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w2" value="width: var(--width-2, 2rem); /* .w2 */&#10;$END$" description=".w2" toReformat="true" toShortenFQNames="true">
+  <template name=".w2" value="width: var(--width-2); /* .w2 */&#10;$END$" description=".w2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w3" value="width: var(--width-3, 4rem); /* .w3 */&#10;$END$" description=".w3" toReformat="true" toShortenFQNames="true">
+  <template name=".w3" value="width: var(--width-3); /* .w3 */&#10;$END$" description=".w3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w4" value="width: var(--width-4, 8rem); /* .w4 */&#10;$END$" description=".w4" toReformat="true" toShortenFQNames="true">
+  <template name=".w4" value="width: var(--width-4); /* .w4 */&#10;$END$" description=".w4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w5" value="width: var(--width-5, 16rem); /* .w5 */&#10;$END$" description=".w5" toReformat="true" toShortenFQNames="true">
+  <template name=".w5" value="width: var(--width-5); /* .w5 */&#10;$END$" description=".w5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

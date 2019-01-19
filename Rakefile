@@ -50,7 +50,7 @@ end
 desc 'convert tachyons css to yaml'
 task convert: :variables do
   files_to_convert.each do |file|
-    Tach::ConvertStylesheet.convert(file, RULES_DI1R)
+    Tach::ConvertStylesheet.convert(file, RULES_DIR)
   end
 end
 

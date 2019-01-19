@@ -2,60 +2,60 @@
 ".f-6":
   selector: ".f-6"
   properties:
-  - 'font-size: var(--font-size-headline, 6rem);'
+  - 'font-size: var(--font-size-headline);'
   specifity: 10
   media: all
 ".f-headline":
   selector: ".f-headline"
   properties:
-  - 'font-size: var(--font-size-headline, 6rem);'
+  - 'font-size: var(--font-size-headline);'
   specifity: 10
   media: all
 ".f-5":
   selector: ".f-5"
   properties:
-  - 'font-size: var(--font-size-subheadline, 5rem);'
+  - 'font-size: var(--font-size-subheadline);'
   specifity: 10
   media: all
 ".f-subheadline":
   selector: ".f-subheadline"
   properties:
-  - 'font-size: var(--font-size-subheadline, 5rem);'
+  - 'font-size: var(--font-size-subheadline);'
   specifity: 10
   media: all
 ".f1":
   selector: ".f1"
   properties:
-  - 'font-size: var(--font-size-1, 3rem);'
+  - 'font-size: var(--font-size-1);'
   specifity: 10
   media: all
 ".f2":
   selector: ".f2"
   properties:
-  - 'font-size: var(--font-size-2, 2.25rem);'
+  - 'font-size: var(--font-size-2);'
   specifity: 10
   media: all
 ".f3":
   selector: ".f3"
   properties:
-  - 'font-size: var(--font-size-3, 1.5rem);'
+  - 'font-size: var(--font-size-3);'
   specifity: 10
   media: all
 ".f4":
   selector: ".f4"
   properties:
-  - 'font-size: var(--font-size-4, 1.25rem);'
+  - 'font-size: var(--font-size-4);'
   specifity: 10
   media: all
 ".f5":
   selector: ".f5"
   properties:
-  - 'font-size: var(--font-size-5, 1rem);'
+  - 'font-size: var(--font-size-5);'
   specifity: 10
   media: all
 ".f6":
   selector: ".f6"
   properties:
-  - 'font-size: var(--font-size-6, .875rem);'
+  - 'font-size: var(--font-size-6);'
   specifity: 10
   media: all

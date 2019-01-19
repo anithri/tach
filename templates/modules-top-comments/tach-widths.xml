@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <templateSet group="tach-widths">
-  <template name=".w1" value="/* tach-widths: .w1 */&#10;width: var(--width-1, 1rem);&#10;$END$" description=".w1" toReformat="true" toShortenFQNames="true">
+  <template name=".w1" value="/* tach-widths: .w1 */&#10;width: var(--width-1);&#10;$END$" description=".w1" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w2" value="/* tach-widths: .w2 */&#10;width: var(--width-2, 2rem);&#10;$END$" description=".w2" toReformat="true" toShortenFQNames="true">
+  <template name=".w2" value="/* tach-widths: .w2 */&#10;width: var(--width-2);&#10;$END$" description=".w2" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w3" value="/* tach-widths: .w3 */&#10;width: var(--width-3, 4rem);&#10;$END$" description=".w3" toReformat="true" toShortenFQNames="true">
+  <template name=".w3" value="/* tach-widths: .w3 */&#10;width: var(--width-3);&#10;$END$" description=".w3" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w4" value="/* tach-widths: .w4 */&#10;width: var(--width-4, 8rem);&#10;$END$" description=".w4" toReformat="true" toShortenFQNames="true">
+  <template name=".w4" value="/* tach-widths: .w4 */&#10;width: var(--width-4);&#10;$END$" description=".w4" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".w5" value="/* tach-widths: .w5 */&#10;width: var(--width-5, 16rem);&#10;$END$" description=".w5" toReformat="true" toShortenFQNames="true">
+  <template name=".w5" value="/* tach-widths: .w5 */&#10;width: var(--width-5);&#10;$END$" description=".w5" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

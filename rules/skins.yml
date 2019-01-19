@@ -2,666 +2,666 @@
 ".black-90":
   selector: ".black-90"
   properties:
-  - 'color: var(--black-90, rgba(0,0,0,.9));'
+  - 'color: var(--black-90);'
   specifity: 10
   media: all
 ".black-80":
   selector: ".black-80"
   properties:
-  - 'color: var(--black-80, rgba(0,0,0,.8));'
+  - 'color: var(--black-80);'
   specifity: 10
   media: all
 ".black-70":
   selector: ".black-70"
   properties:
-  - 'color: var(--black-70, rgba(0,0,0,.7));'
+  - 'color: var(--black-70);'
   specifity: 10
   media: all
 ".black-60":
   selector: ".black-60"
   properties:
-  - 'color: var(--black-60, rgba(0,0,0,.6));'
+  - 'color: var(--black-60);'
   specifity: 10
   media: all
 ".black-50":
   selector: ".black-50"
   properties:
-  - 'color: var(--black-50, rgba(0,0,0,.5));'
+  - 'color: var(--black-50);'
   specifity: 10
   media: all
 ".black-40":
   selector: ".black-40"
   properties:
-  - 'color: var(--black-40, rgba(0,0,0,.4));'
+  - 'color: var(--black-40);'
   specifity: 10
   media: all
 ".black-30":
   selector: ".black-30"
   properties:
-  - 'color: var(--black-30, rgba(0,0,0,.3));'
+  - 'color: var(--black-30);'
   specifity: 10
   media: all
 ".black-20":
   selector: ".black-20"
   properties:
-  - 'color: var(--black-20, rgba(0,0,0,.2));'
+  - 'color: var(--black-20);'
   specifity: 10
   media: all
 ".black-10":
   selector: ".black-10"
   properties:
-  - 'color: var(--black-10, rgba(0,0,0,.1));'
+  - 'color: var(--black-10);'
   specifity: 10
   media: all
 ".black-05":
   selector: ".black-05"
   properties:
-  - 'color: var(--black-05, rgba(0,0,0,.05));'
+  - 'color: var(--black-05);'
   specifity: 10
   media: all
 ".white-90":
   selector: ".white-90"
   properties:
-  - 'color: var(--white-90, rgba(255,255,255,.9));'
+  - 'color: var(--white-90);'
   specifity: 10
   media: all
 ".white-80":
   selector: ".white-80"
   properties:
-  - 'color: var(--white-80, rgba(255,255,255,.8));'
+  - 'color: var(--white-80);'
   specifity: 10
   media: all
 ".white-70":
   selector: ".white-70"
   properties:
-  - 'color: var(--white-70, rgba(255,255,255,.7));'
+  - 'color: var(--white-70);'
   specifity: 10
   media: all
 ".white-60":
   selector: ".white-60"
   properties:
-  - 'color: var(--white-60, rgba(255,255,255,.6));'
+  - 'color: var(--white-60);'
   specifity: 10
   media: all
 ".white-50":
   selector: ".white-50"
   properties:
-  - 'color: var(--white-50, rgba(255,255,255,.5));'
+  - 'color: var(--white-50);'
   specifity: 10
   media: all
 ".white-40":
   selector: ".white-40"
   properties:
-  - 'color: var(--white-40, rgba(255,255,255,.4));'
+  - 'color: var(--white-40);'
   specifity: 10
   media: all
 ".white-30":
   selector: ".white-30"
   properties:
-  - 'color: var(--white-30, rgba(255,255,255,.3));'
+  - 'color: var(--white-30);'
   specifity: 10
   media: all
 ".white-20":
   selector: ".white-20"
   properties:
-  - 'color: var(--white-20, rgba(255,255,255,.2));'
+  - 'color: var(--white-20);'
   specifity: 10
   media: all
 ".white-10":
   selector: ".white-10"
   properties:
-  - 'color: var(--white-10, rgba(255,255,255,.1));'
+  - 'color: var(--white-10);'
   specifity: 10
   media: all
 ".black":
   selector: ".black"
   properties:
-  - 'color: var(--black, #000);'
+  - 'color: var(--black);'
   specifity: 10
   media: all
 ".near-black":
   selector: ".near-black"
   properties:
-  - 'color: var(--near-black, #111);'
+  - 'color: var(--near-black);'
   specifity: 10
   media: all
 ".dark-gray":
   selector: ".dark-gray"
   properties:
-  - 'color: var(--dark-gray, );'
+  - 'color: var(--dark-gray);'
   specifity: 10
   media: all
 ".mid-gray":
   selector: ".mid-gray"
   properties:
-  - 'color: var(--mid-gray, );'
+  - 'color: var(--mid-gray);'
   specifity: 10
   media: all
 ".gray":
   selector: ".gray"
   properties:
-  - 'color: var(--gray, #777);'
+  - 'color: var(--gray);'
   specifity: 10
   media: all
 ".silver":
   selector: ".silver"
   properties:
-  - 'color: var(--silver, #999);'
+  - 'color: var(--silver);'
   specifity: 10
   media: all
 ".light-silver":
   selector: ".light-silver"
   properties:
-  - 'color: var(--light-silver, #aaa);'
+  - 'color: var(--light-silver);'
   specifity: 10
   media: all
 ".moon-gray":
   selector: ".moon-gray"
   properties:
-  - 'color: var(--moon-gray, #ccc);'
+  - 'color: var(--moon-gray);'
   specifity: 10
   media: all
 ".light-gray":
   selector: ".light-gray"
   properties:
-  - 'color: var(--light-gray, #eee);'
+  - 'color: var(--light-gray);'
   specifity: 10
   media: all
 ".near-white":
   selector: ".near-white"
   properties:
-  - 'color: var(--near-white, #f4f4f4);'
+  - 'color: var(--near-white);'
   specifity: 10
   media: all
 ".white":
   selector: ".white"
   properties:
-  - 'color: var(--white, #fff);'
+  - 'color: var(--white);'
   specifity: 10
   media: all
 ".dark-red":
   selector: ".dark-red"
   properties:
-  - 'color: var(--dark-red,  #e7040f);'
+  - 'color: var(--dark-red);'
   specifity: 10
   media: all
 ".red":
   selector: ".red"
   properties:
-  - 'color: var(--red,  #ff4136);'
+  - 'color: var(--red);'
   specifity: 10
   media: all
 ".light-red":
   selector: ".light-red"
   properties:
-  - 'color: var(--light-red,  #ff725c);'
+  - 'color: var(--light-red);'
   specifity: 10
   media: all
 ".orange":
   selector: ".orange"
   properties:
-  - 'color: var(--orange,  #ff6300);'
+  - 'color: var(--orange);'
   specifity: 10
   media: all
 ".gold":
   selector: ".gold"
   properties:
-  - 'color: var(--gold,  #ffb700);'
+  - 'color: var(--gold);'
   specifity: 10
   media: all
 ".yellow":
   selector: ".yellow"
   properties:
-  - 'color: var(--yellow,  #ffd700);'
+  - 'color: var(--yellow);'
   specifity: 10
   media: all
 ".light-yellow":
   selector: ".light-yellow"
   properties:
-  - 'color: var(--light-yellow,  #fbf1a9);'
+  - 'color: var(--light-yellow);'
   specifity: 10
   media: all
 ".purple":
   selector: ".purple"
   properties:
-  - 'color: var(--purple,  #5e2ca5);'
+  - 'color: var(--purple);'
   specifity: 10
   media: all
 ".light-purple":
   selector: ".light-purple"
   properties:
-  - 'color: var(--light-purple,  #a463f2);'
+  - 'color: var(--light-purple);'
   specifity: 10
   media: all
 ".dark-pink":
   selector: ".dark-pink"
   properties:
-  - 'color: var(--dark-pink,  #d5008f);'
+  - 'color: var(--dark-pink);'
   specifity: 10
   media: all
 ".hot-pink":
   selector: ".hot-pink"
   properties:
-  - 'color: var(--hot-pink, #ff41b4);'
+  - 'color: var(--hot-pink);'
   specifity: 10
   media: all
 ".pink":
   selector: ".pink"
   properties:
-  - 'color: var(--pink,  #ff80cc);'
+  - 'color: var(--pink);'
   specifity: 10
   media: all
 ".light-pink":
   selector: ".light-pink"
   properties:
-  - 'color: var(--light-pink,  #ffa3d7);'
+  - 'color: var(--light-pink);'
   specifity: 10
   media: all
 ".dark-green":
   selector: ".dark-green"
   properties:
-  - 'color: var(--dark-green,  #137752);'
+  - 'color: var(--dark-green);'
   specifity: 10
   media: all
 ".green":
   selector: ".green"
   properties:
-  - 'color: var(--green,  #19a974);'
+  - 'color: var(--green);'
   specifity: 10
   media: all
 ".light-green":
   selector: ".light-green"
   properties:
-  - 'color: var(--light-green,  #9eebcf);'
+  - 'color: var(--light-green);'
   specifity: 10
   media: all
 ".navy":
   selector: ".navy"
   properties:
-  - 'color: var(--navy,  #001b44);'
+  - 'color: var(--navy);'
   specifity: 10
   media: all
 ".dark-blue":
   selector: ".dark-blue"
   properties:
-  - 'color: var(--dark-blue,  #00449e);'
+  - 'color: var(--dark-blue);'
   specifity: 10
   media: all
 ".blue":
   selector: ".blue"
   properties:
-  - 'color: var(--blue,  #357edd);'
+  - 'color: var(--blue);'
   specifity: 10
   media: all
 ".light-blue":
   selector: ".light-blue"
   properties:
-  - 'color: var(--light-blue,  #96ccff);'
+  - 'color: var(--light-blue);'
   specifity: 10
   media: all
 ".lightest-blue":
   selector: ".lightest-blue"
   properties:
-  - 'color: var(--lightest-blue,  #cdecff);'
+  - 'color: var(--lightest-blue);'
   specifity: 10
   media: all
 ".washed-blue":
   selector: ".washed-blue"
   properties:
-  - 'color: var(--washed-blue,  #f6fffe);'
+  - 'color: var(--washed-blue);'
   specifity: 10
   media: all
 ".washed-green":
   selector: ".washed-green"
   properties:
-  - 'color: var(--washed-green,  #e8fdf5);'
+  - 'color: var(--washed-green);'
   specifity: 10
   media: all
 ".washed-yellow":
   selector: ".washed-yellow"
   properties:
-  - 'color: var(--washed-yellow,  #fffceb);'
+  - 'color: var(--washed-yellow);'
   specifity: 10
   media: all
 ".washed-red":
   selector: ".washed-red"
   properties:
-  - 'color: var(--washed-red,  #ffdfdf);'
+  - 'color: var(--washed-red);'
   specifity: 10
   media: all
 ".bg-black-90":
   selector: ".bg-black-90"
   properties:
-  - 'background-color: var(--black-90, rgba(0,0,0,.9));'
+  - 'background-color: var(--black-90);'
   specifity: 10
   media: all
 ".bg-black-80":
   selector: ".bg-black-80"
   properties:
-  - 'background-color: var(--black-80, rgba(0,0,0,.8));'
+  - 'background-color: var(--black-80);'
   specifity: 10
   media: all
 ".bg-black-70":
   selector: ".bg-black-70"
   properties:
-  - 'background-color: var(--black-70, rgba(0,0,0,.7));'
+  - 'background-color: var(--black-70);'
   specifity: 10
   media: all
 ".bg-black-60":
   selector: ".bg-black-60"
   properties:
-  - 'background-color: var(--black-60, rgba(0,0,0,.6));'
+  - 'background-color: var(--black-60);'
   specifity: 10
   media: all
 ".bg-black-50":
   selector: ".bg-black-50"
   properties:
-  - 'background-color: var(--black-50, rgba(0,0,0,.5));'
+  - 'background-color: var(--black-50);'
   specifity: 10
   media: all
 ".bg-black-40":
   selector: ".bg-black-40"
   properties:
-  - 'background-color: var(--black-40, rgba(0,0,0,.4));'
+  - 'background-color: var(--black-40);'
   specifity: 10
   media: all
 ".bg-black-30":
   selector: ".bg-black-30"
   properties:
-  - 'background-color: var(--black-30, rgba(0,0,0,.3));'
+  - 'background-color: var(--black-30);'
   specifity: 10
   media: all
 ".bg-black-20":
   selector: ".bg-black-20"
   properties:
-  - 'background-color: var(--black-20, rgba(0,0,0,.2));'
+  - 'background-color: var(--black-20);'
   specifity: 10
   media: all
 ".bg-black-10":
   selector: ".bg-black-10"
   properties:
-  - 'background-color: var(--black-10, rgba(0,0,0,.1));'
+  - 'background-color: var(--black-10);'
   specifity: 10
   media: all
 ".bg-black-05":
   selector: ".bg-black-05"
   properties:
-  - 'background-color: var(--black-05, rgba(0,0,0,.05));'
+  - 'background-color: var(--black-05);'
   specifity: 10
   media: all
 ".bg-white-90":
   selector: ".bg-white-90"
   properties:
-  - 'background-color: var(--white-90, rgba(255,255,255,.9));'
+  - 'background-color: var(--white-90);'
   specifity: 10
   media: all
 ".bg-white-80":
   selector: ".bg-white-80"
   properties:
-  - 'background-color: var(--white-80, rgba(255,255,255,.8));'
+  - 'background-color: var(--white-80);'
   specifity: 10
   media: all
 ".bg-white-70":
   selector: ".bg-white-70"
   properties:
-  - 'background-color: var(--white-70, rgba(255,255,255,.7));'
+  - 'background-color: var(--white-70);'
   specifity: 10
   media: all
 ".bg-white-60":
   selector: ".bg-white-60"
   properties:
-  - 'background-color: var(--white-60, rgba(255,255,255,.6));'
+  - 'background-color: var(--white-60);'
   specifity: 10
   media: all
 ".bg-white-50":
   selector: ".bg-white-50"
   properties:
-  - 'background-color: var(--white-50, rgba(255,255,255,.5));'
+  - 'background-color: var(--white-50);'
   specifity: 10
   media: all
 ".bg-white-40":
   selector: ".bg-white-40"
   properties:
-  - 'background-color: var(--white-40, rgba(255,255,255,.4));'
+  - 'background-color: var(--white-40);'
   specifity: 10
   media: all
 ".bg-white-30":
   selector: ".bg-white-30"
   properties:
-  - 'background-color: var(--white-30, rgba(255,255,255,.3));'
+  - 'background-color: var(--white-30);'
   specifity: 10
   media: all
 ".bg-white-20":
   selector: ".bg-white-20"
   properties:
-  - 'background-color: var(--white-20, rgba(255,255,255,.2));'
+  - 'background-color: var(--white-20);'
   specifity: 10
   media: all
 ".bg-white-10":
   selector: ".bg-white-10"
   properties:
-  - 'background-color: var(--white-10, rgba(255,255,255,.1));'
+  - 'background-color: var(--white-10);'
   specifity: 10
   media: all
 ".bg-black":
   selector: ".bg-black"
   properties:
-  - 'background-color: var(--black, #000);'
+  - 'background-color: var(--black);'
   specifity: 10
   media: all
 ".bg-near-black":
   selector: ".bg-near-black"
   properties:
-  - 'background-color: var(--near-black, #111);'
+  - 'background-color: var(--near-black);'
   specifity: 10
   media: all
 ".bg-dark-gray":
   selector: ".bg-dark-gray"
   properties:
-  - 'background-color: var(--dark-gray, );'
+  - 'background-color: var(--dark-gray);'
   specifity: 10
   media: all
 ".bg-mid-gray":
   selector: ".bg-mid-gray"
   properties:
-  - 'background-color: var(--mid-gray, );'
+  - 'background-color: var(--mid-gray);'
   specifity: 10
   media: all
 ".bg-gray":
   selector: ".bg-gray"
   properties:
-  - 'background-color: var(--gray, #777);'
+  - 'background-color: var(--gray);'
   specifity: 10
   media: all
 ".bg-silver":
   selector: ".bg-silver"
   properties:
-  - 'background-color: var(--silver, #999);'
+  - 'background-color: var(--silver);'
   specifity: 10
   media: all
 ".bg-light-silver":
   selector: ".bg-light-silver"
   properties:
-  - 'background-color: var(--light-silver, #aaa);'
+  - 'background-color: var(--light-silver);'
   specifity: 10
   media: all
 ".bg-moon-gray":
   selector: ".bg-moon-gray"
   properties:
-  - 'background-color: var(--moon-gray, #ccc);'
+  - 'background-color: var(--moon-gray);'
   specifity: 10
   media: all
 ".bg-light-gray":
   selector: ".bg-light-gray"
   properties:
-  - 'background-color: var(--light-gray, #eee);'
+  - 'background-color: var(--light-gray);'
   specifity: 10
   media: all
 ".bg-near-white":
   selector: ".bg-near-white"
   properties:
-  - 'background-color: var(--near-white, #f4f4f4);'
+  - 'background-color: var(--near-white);'
   specifity: 10
   media: all
 ".bg-white":
   selector: ".bg-white"
   properties:
-  - 'background-color: var(--white, #fff);'
+  - 'background-color: var(--white);'
   specifity: 10
   media: all
 ".bg-transparent":
   selector: ".bg-transparent"
   properties:
-  - 'background-color: var(--transparent, );'
+  - 'background-color: var(--transparent);'
   specifity: 10
   media: all
 ".bg-dark-red":
   selector: ".bg-dark-red"
   properties:
-  - 'background-color: var(--dark-red,  #e7040f);'
+  - 'background-color: var(--dark-red);'
   specifity: 10
   media: all
 ".bg-red":
   selector: ".bg-red"
   properties:
-  - 'background-color: var(--red,  #ff4136);'
+  - 'background-color: var(--red);'
   specifity: 10
   media: all
 ".bg-light-red":
   selector: ".bg-light-red"
   properties:
-  - 'background-color: var(--light-red,  #ff725c);'
+  - 'background-color: var(--light-red);'
   specifity: 10
   media: all
 ".bg-orange":
   selector: ".bg-orange"
   properties:
-  - 'background-color: var(--orange,  #ff6300);'
+  - 'background-color: var(--orange);'
   specifity: 10
   media: all
 ".bg-gold":
   selector: ".bg-gold"
   properties:
-  - 'background-color: var(--gold,  #ffb700);'
+  - 'background-color: var(--gold);'
   specifity: 10
   media: all
 ".bg-yellow":
   selector: ".bg-yellow"
   properties:
-  - 'background-color: var(--yellow,  #ffd700);'
+  - 'background-color: var(--yellow);'
   specifity: 10
   media: all
 ".bg-light-yellow":
   selector: ".bg-light-yellow"
   properties:
-  - 'background-color: var(--light-yellow,  #fbf1a9);'
+  - 'background-color: var(--light-yellow);'
   specifity: 10
   media: all
 ".bg-purple":
   selector: ".bg-purple"
   properties:
-  - 'background-color: var(--purple,  #5e2ca5);'
+  - 'background-color: var(--purple);'
   specifity: 10
   media: all
 ".bg-light-purple":
   selector: ".bg-light-purple"
   properties:
-  - 'background-color: var(--light-purple,  #a463f2);'
+  - 'background-color: var(--light-purple);'
   specifity: 10
   media: all
 ".bg-dark-pink":
   selector: ".bg-dark-pink"
   properties:
-  - 'background-color: var(--dark-pink,  #d5008f);'
+  - 'background-color: var(--dark-pink);'
   specifity: 10
   media: all
 ".bg-hot-pink":
   selector: ".bg-hot-pink"
   properties:
-  - 'background-color: var(--hot-pink, #ff41b4);'
+  - 'background-color: var(--hot-pink);'
   specifity: 10
   media: all
 ".bg-pink":
   selector: ".bg-pink"
   properties:
-  - 'background-color: var(--pink,  #ff80cc);'
+  - 'background-color: var(--pink);'
   specifity: 10
   media: all
 ".bg-light-pink":
   selector: ".bg-light-pink"
   properties:
-  - 'background-color: var(--light-pink,  #ffa3d7);'
+  - 'background-color: var(--light-pink);'
   specifity: 10
   media: all
 ".bg-dark-green":
   selector: ".bg-dark-green"
   properties:
-  - 'background-color: var(--dark-green,  #137752);'
+  - 'background-color: var(--dark-green);'
   specifity: 10
   media: all
 ".bg-green":
   selector: ".bg-green"
   properties:
-  - 'background-color: var(--green,  #19a974);'
+  - 'background-color: var(--green);'
   specifity: 10
   media: all
 ".bg-light-green":
   selector: ".bg-light-green"
   properties:
-  - 'background-color: var(--light-green,  #9eebcf);'
+  - 'background-color: var(--light-green);'
   specifity: 10
   media: all
 ".bg-navy":
   selector: ".bg-navy"
   properties:
-  - 'background-color: var(--navy,  #001b44);'
+  - 'background-color: var(--navy);'
   specifity: 10
   media: all
 ".bg-dark-blue":
   selector: ".bg-dark-blue"
   properties:
-  - 'background-color: var(--dark-blue,  #00449e);'
+  - 'background-color: var(--dark-blue);'
   specifity: 10
   media: all
 ".bg-blue":
   selector: ".bg-blue"
   properties:
-  - 'background-color: var(--blue,  #357edd);'
+  - 'background-color: var(--blue);'
   specifity: 10
   media: all
 ".bg-light-blue":
   selector: ".bg-light-blue"
   properties:
-  - 'background-color: var(--light-blue,  #96ccff);'
+  - 'background-color: var(--light-blue);'
   specifity: 10
   media: all
 ".bg-lightest-blue":
   selector: ".bg-lightest-blue"
   properties:
-  - 'background-color: var(--lightest-blue,  #cdecff);'
+  - 'background-color: var(--lightest-blue);'
   specifity: 10
   media: all
 ".bg-washed-blue":
   selector: ".bg-washed-blue"
   properties:
-  - 'background-color: var(--washed-blue,  #f6fffe);'
+  - 'background-color: var(--washed-blue);'
   specifity: 10
   media: all
 ".bg-washed-green":
   selector: ".bg-washed-green"
   properties:
-  - 'background-color: var(--washed-green,  #e8fdf5);'
+  - 'background-color: var(--washed-green);'
   specifity: 10
   media: all
 ".bg-washed-yellow":
   selector: ".bg-washed-yellow"
   properties:
-  - 'background-color: var(--washed-yellow,  #fffceb);'
+  - 'background-color: var(--washed-yellow);'
   specifity: 10
   media: all
 ".bg-washed-red":
   selector: ".bg-washed-red"
   properties:
-  - 'background-color: var(--washed-red,  #ffdfdf);'
+  - 'background-color: var(--washed-red);'
   specifity: 10
   media: all

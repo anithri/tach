@@ -7,55 +7,55 @@
 ".mw1":
   selector: ".mw1"
   properties:
-  - 'max-width: var(--max-width-1, 1rem);'
+  - 'max-width: var(--max-width-1);'
   specifity: 10
   media: all
 ".mw2":
   selector: ".mw2"
   properties:
-  - 'max-width: var(--max-width-2, 2rem);'
+  - 'max-width: var(--max-width-2);'
   specifity: 10
   media: all
 ".mw3":
   selector: ".mw3"
   properties:
-  - 'max-width: var(--max-width-3, 4rem);'
+  - 'max-width: var(--max-width-3);'
   specifity: 10
   media: all
 ".mw4":
   selector: ".mw4"
   properties:
-  - 'max-width: var(--max-width-4, 8rem);'
+  - 'max-width: var(--max-width-4);'
   specifity: 10
   media: all
 ".mw5":
   selector: ".mw5"
   properties:
-  - 'max-width: var(--max-width-5, 16rem);'
+  - 'max-width: var(--max-width-5);'
   specifity: 10
   media: all
 ".mw6":
   selector: ".mw6"
   properties:
-  - 'max-width: var(--max-width-6, 32rem);'
+  - 'max-width: var(--max-width-6);'
   specifity: 10
   media: all
 ".mw7":
   selector: ".mw7"
   properties:
-  - 'max-width: var(--max-width-7, 48rem);'
+  - 'max-width: var(--max-width-7);'
   specifity: 10
   media: all
 ".mw8":
   selector: ".mw8"
   properties:
-  - 'max-width: var(--max-width-8, 64rem);'
+  - 'max-width: var(--max-width-8);'
   specifity: 10
   media: all
 ".mw9":
   selector: ".mw9"
   properties:
-  - 'max-width: var(--max-width-9, 96rem);'
+  - 'max-width: var(--max-width-9);'
   specifity: 10
   media: all
 ".mw-none":

@@ -1,301 +1,301 @@
 <?xml version="1.0"?>
 <templateSet group="tach-border-colors">
-  <template name=".b--black" value="border-color: var(--black, #000);&#10;$END$" description=".b--black" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black" value="border-color: var(--black);&#10;$END$" description=".b--black" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--near-black" value="border-color: var(--near-black, #111);&#10;$END$" description=".b--near-black" toReformat="true" toShortenFQNames="true">
+  <template name=".b--near-black" value="border-color: var(--near-black);&#10;$END$" description=".b--near-black" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--dark-gray" value="border-color: var(--dark-gray, );&#10;$END$" description=".b--dark-gray" toReformat="true" toShortenFQNames="true">
+  <template name=".b--dark-gray" value="border-color: var(--dark-gray);&#10;$END$" description=".b--dark-gray" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--mid-gray" value="border-color: var(--mid-gray, );&#10;$END$" description=".b--mid-gray" toReformat="true" toShortenFQNames="true">
+  <template name=".b--mid-gray" value="border-color: var(--mid-gray);&#10;$END$" description=".b--mid-gray" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--gray" value="border-color: var(--gray, #777);&#10;$END$" description=".b--gray" toReformat="true" toShortenFQNames="true">
+  <template name=".b--gray" value="border-color: var(--gray);&#10;$END$" description=".b--gray" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--silver" value="border-color: var(--silver, #999);&#10;$END$" description=".b--silver" toReformat="true" toShortenFQNames="true">
+  <template name=".b--silver" value="border-color: var(--silver);&#10;$END$" description=".b--silver" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-silver" value="border-color: var(--light-silver, #aaa);&#10;$END$" description=".b--light-silver" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-silver" value="border-color: var(--light-silver);&#10;$END$" description=".b--light-silver" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-gray" value="border-color: var(--light-gray, #eee);&#10;$END$" description=".b--light-gray" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-gray" value="border-color: var(--light-gray);&#10;$END$" description=".b--light-gray" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--near-white" value="border-color: var(--near-white, #f4f4f4);&#10;$END$" description=".b--near-white" toReformat="true" toShortenFQNames="true">
+  <template name=".b--near-white" value="border-color: var(--near-white);&#10;$END$" description=".b--near-white" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white" value="border-color: var(--white, #fff);&#10;$END$" description=".b--white" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white" value="border-color: var(--white);&#10;$END$" description=".b--white" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-90" value="border-color: var(--white-90, rgba(255,255,255,.9));&#10;$END$" description=".b--white-90" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-90" value="border-color: var(--white-90);&#10;$END$" description=".b--white-90" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-80" value="border-color: var(--white-80, rgba(255,255,255,.8));&#10;$END$" description=".b--white-80" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-80" value="border-color: var(--white-80);&#10;$END$" description=".b--white-80" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-70" value="border-color: var(--white-70, rgba(255,255,255,.7));&#10;$END$" description=".b--white-70" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-70" value="border-color: var(--white-70);&#10;$END$" description=".b--white-70" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-60" value="border-color: var(--white-60, rgba(255,255,255,.6));&#10;$END$" description=".b--white-60" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-60" value="border-color: var(--white-60);&#10;$END$" description=".b--white-60" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-50" value="border-color: var(--white-50, rgba(255,255,255,.5));&#10;$END$" description=".b--white-50" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-50" value="border-color: var(--white-50);&#10;$END$" description=".b--white-50" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-40" value="border-color: var(--white-40, rgba(255,255,255,.4));&#10;$END$" description=".b--white-40" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-40" value="border-color: var(--white-40);&#10;$END$" description=".b--white-40" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-30" value="border-color: var(--white-30, rgba(255,255,255,.3));&#10;$END$" description=".b--white-30" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-30" value="border-color: var(--white-30);&#10;$END$" description=".b--white-30" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-20" value="border-color: var(--white-20, rgba(255,255,255,.2));&#10;$END$" description=".b--white-20" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-20" value="border-color: var(--white-20);&#10;$END$" description=".b--white-20" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-10" value="border-color: var(--white-10, rgba(255,255,255,.1));&#10;$END$" description=".b--white-10" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-10" value="border-color: var(--white-10);&#10;$END$" description=".b--white-10" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-05" value="border-color: var(--white-05, rgba(255,255,255,.05));&#10;$END$" description=".b--white-05" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-05" value="border-color: var(--white-05);&#10;$END$" description=".b--white-05" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-025" value="border-color: var(--white-025, rgba(255,255,255,.025));&#10;$END$" description=".b--white-025" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-025" value="border-color: var(--white-025);&#10;$END$" description=".b--white-025" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--white-0125" value="border-color: var(--white-0125, rgba(255,255,255,.0125));&#10;$END$" description=".b--white-0125" toReformat="true" toShortenFQNames="true">
+  <template name=".b--white-0125" value="border-color: var(--white-0125);&#10;$END$" description=".b--white-0125" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-90" value="border-color: var(--black-90, rgba(0,0,0,.9));&#10;$END$" description=".b--black-90" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-90" value="border-color: var(--black-90);&#10;$END$" description=".b--black-90" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-80" value="border-color: var(--black-80, rgba(0,0,0,.8));&#10;$END$" description=".b--black-80" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-80" value="border-color: var(--black-80);&#10;$END$" description=".b--black-80" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-70" value="border-color: var(--black-70, rgba(0,0,0,.7));&#10;$END$" description=".b--black-70" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-70" value="border-color: var(--black-70);&#10;$END$" description=".b--black-70" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-60" value="border-color: var(--black-60, rgba(0,0,0,.6));&#10;$END$" description=".b--black-60" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-60" value="border-color: var(--black-60);&#10;$END$" description=".b--black-60" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-50" value="border-color: var(--black-50, rgba(0,0,0,.5));&#10;$END$" description=".b--black-50" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-50" value="border-color: var(--black-50);&#10;$END$" description=".b--black-50" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-40" value="border-color: var(--black-40, rgba(0,0,0,.4));&#10;$END$" description=".b--black-40" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-40" value="border-color: var(--black-40);&#10;$END$" description=".b--black-40" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-30" value="border-color: var(--black-30, rgba(0,0,0,.3));&#10;$END$" description=".b--black-30" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-30" value="border-color: var(--black-30);&#10;$END$" description=".b--black-30" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-20" value="border-color: var(--black-20, rgba(0,0,0,.2));&#10;$END$" description=".b--black-20" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-20" value="border-color: var(--black-20);&#10;$END$" description=".b--black-20" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-10" value="border-color: var(--black-10, rgba(0,0,0,.1));&#10;$END$" description=".b--black-10" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-10" value="border-color: var(--black-10);&#10;$END$" description=".b--black-10" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-05" value="border-color: var(--black-05, rgba(0,0,0,.05));&#10;$END$" description=".b--black-05" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-05" value="border-color: var(--black-05);&#10;$END$" description=".b--black-05" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-025" value="border-color: var(--black-025, rgba(0,0,0,.025));&#10;$END$" description=".b--black-025" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-025" value="border-color: var(--black-025);&#10;$END$" description=".b--black-025" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--black-0125" value="border-color: var(--black-0125, rgba(0,0,0,.0125));&#10;$END$" description=".b--black-0125" toReformat="true" toShortenFQNames="true">
+  <template name=".b--black-0125" value="border-color: var(--black-0125);&#10;$END$" description=".b--black-0125" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--dark-red" value="border-color: var(--dark-red,  #e7040f);&#10;$END$" description=".b--dark-red" toReformat="true" toShortenFQNames="true">
+  <template name=".b--dark-red" value="border-color: var(--dark-red);&#10;$END$" description=".b--dark-red" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--red" value="border-color: var(--red,  #ff4136);&#10;$END$" description=".b--red" toReformat="true" toShortenFQNames="true">
+  <template name=".b--red" value="border-color: var(--red);&#10;$END$" description=".b--red" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-red" value="border-color: var(--light-red,  #ff725c);&#10;$END$" description=".b--light-red" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-red" value="border-color: var(--light-red);&#10;$END$" description=".b--light-red" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--orange" value="border-color: var(--orange,  #ff6300);&#10;$END$" description=".b--orange" toReformat="true" toShortenFQNames="true">
+  <template name=".b--orange" value="border-color: var(--orange);&#10;$END$" description=".b--orange" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--gold" value="border-color: var(--gold,  #ffb700);&#10;$END$" description=".b--gold" toReformat="true" toShortenFQNames="true">
+  <template name=".b--gold" value="border-color: var(--gold);&#10;$END$" description=".b--gold" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--yellow" value="border-color: var(--yellow,  #ffd700);&#10;$END$" description=".b--yellow" toReformat="true" toShortenFQNames="true">
+  <template name=".b--yellow" value="border-color: var(--yellow);&#10;$END$" description=".b--yellow" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-yellow" value="border-color: var(--light-yellow,  #fbf1a9);&#10;$END$" description=".b--light-yellow" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-yellow" value="border-color: var(--light-yellow);&#10;$END$" description=".b--light-yellow" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--purple" value="border-color: var(--purple,  #5e2ca5);&#10;$END$" description=".b--purple" toReformat="true" toShortenFQNames="true">
+  <template name=".b--purple" value="border-color: var(--purple);&#10;$END$" description=".b--purple" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-purple" value="border-color: var(--light-purple,  #a463f2);&#10;$END$" description=".b--light-purple" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-purple" value="border-color: var(--light-purple);&#10;$END$" description=".b--light-purple" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--dark-pink" value="border-color: var(--dark-pink,  #d5008f);&#10;$END$" description=".b--dark-pink" toReformat="true" toShortenFQNames="true">
+  <template name=".b--dark-pink" value="border-color: var(--dark-pink);&#10;$END$" description=".b--dark-pink" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--hot-pink" value="border-color: var(--hot-pink, #ff41b4);&#10;$END$" description=".b--hot-pink" toReformat="true" toShortenFQNames="true">
+  <template name=".b--hot-pink" value="border-color: var(--hot-pink);&#10;$END$" description=".b--hot-pink" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--pink" value="border-color: var(--pink,  #ff80cc);&#10;$END$" description=".b--pink" toReformat="true" toShortenFQNames="true">
+  <template name=".b--pink" value="border-color: var(--pink);&#10;$END$" description=".b--pink" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-pink" value="border-color: var(--light-pink,  #ffa3d7);&#10;$END$" description=".b--light-pink" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-pink" value="border-color: var(--light-pink);&#10;$END$" description=".b--light-pink" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--dark-green" value="border-color: var(--dark-green,  #137752);&#10;$END$" description=".b--dark-green" toReformat="true" toShortenFQNames="true">
+  <template name=".b--dark-green" value="border-color: var(--dark-green);&#10;$END$" description=".b--dark-green" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--green" value="border-color: var(--green,  #19a974);&#10;$END$" description=".b--green" toReformat="true" toShortenFQNames="true">
+  <template name=".b--green" value="border-color: var(--green);&#10;$END$" description=".b--green" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-green" value="border-color: var(--light-green,  #9eebcf);&#10;$END$" description=".b--light-green" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-green" value="border-color: var(--light-green);&#10;$END$" description=".b--light-green" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--navy" value="border-color: var(--navy,  #001b44);&#10;$END$" description=".b--navy" toReformat="true" toShortenFQNames="true">
+  <template name=".b--navy" value="border-color: var(--navy);&#10;$END$" description=".b--navy" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--dark-blue" value="border-color: var(--dark-blue,  #00449e);&#10;$END$" description=".b--dark-blue" toReformat="true" toShortenFQNames="true">
+  <template name=".b--dark-blue" value="border-color: var(--dark-blue);&#10;$END$" description=".b--dark-blue" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--blue" value="border-color: var(--blue,  #357edd);&#10;$END$" description=".b--blue" toReformat="true" toShortenFQNames="true">
+  <template name=".b--blue" value="border-color: var(--blue);&#10;$END$" description=".b--blue" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--light-blue" value="border-color: var(--light-blue,  #96ccff);&#10;$END$" description=".b--light-blue" toReformat="true" toShortenFQNames="true">
+  <template name=".b--light-blue" value="border-color: var(--light-blue);&#10;$END$" description=".b--light-blue" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--lightest-blue" value="border-color: var(--lightest-blue,  #cdecff);&#10;$END$" description=".b--lightest-blue" toReformat="true" toShortenFQNames="true">
+  <template name=".b--lightest-blue" value="border-color: var(--lightest-blue);&#10;$END$" description=".b--lightest-blue" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--washed-blue" value="border-color: var(--washed-blue,  #f6fffe);&#10;$END$" description=".b--washed-blue" toReformat="true" toShortenFQNames="true">
+  <template name=".b--washed-blue" value="border-color: var(--washed-blue);&#10;$END$" description=".b--washed-blue" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--washed-green" value="border-color: var(--washed-green,  #e8fdf5);&#10;$END$" description=".b--washed-green" toReformat="true" toShortenFQNames="true">
+  <template name=".b--washed-green" value="border-color: var(--washed-green);&#10;$END$" description=".b--washed-green" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--washed-yellow" value="border-color: var(--washed-yellow,  #fffceb);&#10;$END$" description=".b--washed-yellow" toReformat="true" toShortenFQNames="true">
+  <template name=".b--washed-yellow" value="border-color: var(--washed-yellow);&#10;$END$" description=".b--washed-yellow" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--washed-red" value="border-color: var(--washed-red,  #ffdfdf);&#10;$END$" description=".b--washed-red" toReformat="true" toShortenFQNames="true">
+  <template name=".b--washed-red" value="border-color: var(--washed-red);&#10;$END$" description=".b--washed-red" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>
   </template>
-  <template name=".b--transparent" value="border-color: var(--transparent, );&#10;$END$" description=".b--transparent" toReformat="true" toShortenFQNames="true">
+  <template name=".b--transparent" value="border-color: var(--transparent);&#10;$END$" description=".b--transparent" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true"/>
     </context>

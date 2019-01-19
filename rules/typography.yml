@@ -2,19 +2,19 @@
 ".measure":
   selector: ".measure"
   properties:
-  - 'max-width: var(--measure, 30em);'
+  - 'max-width: var(--measure);'
   specifity: 10
   media: all
 ".measure-wide":
   selector: ".measure-wide"
   properties:
-  - 'max-width: var(--measure-wide, 34em);'
+  - 'max-width: var(--measure-wide);'
   specifity: 10
   media: all
 ".measure-narrow":
   selector: ".measure-narrow"
   properties:
-  - 'max-width: var(--measure-narrow, 20em);'
+  - 'max-width: var(--measure-narrow);'
   specifity: 10
   media: all
 ".indent":

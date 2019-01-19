@@ -2,360 +2,360 @@
 ".b--black":
   selector: ".b--black"
   properties:
-  - 'border-color: var(--black, #000);'
+  - 'border-color: var(--black);'
   specifity: 10
   media: all
 ".b--near-black":
   selector: ".b--near-black"
   properties:
-  - 'border-color: var(--near-black, #111);'
+  - 'border-color: var(--near-black);'
   specifity: 10
   media: all
 ".b--dark-gray":
   selector: ".b--dark-gray"
   properties:
-  - 'border-color: var(--dark-gray, );'
+  - 'border-color: var(--dark-gray);'
   specifity: 10
   media: all
 ".b--mid-gray":
   selector: ".b--mid-gray"
   properties:
-  - 'border-color: var(--mid-gray, );'
+  - 'border-color: var(--mid-gray);'
   specifity: 10
   media: all
 ".b--gray":
   selector: ".b--gray"
   properties:
-  - 'border-color: var(--gray, #777);'
+  - 'border-color: var(--gray);'
   specifity: 10
   media: all
 ".b--silver":
   selector: ".b--silver"
   properties:
-  - 'border-color: var(--silver, #999);'
+  - 'border-color: var(--silver);'
   specifity: 10
   media: all
 ".b--light-silver":
   selector: ".b--light-silver"
   properties:
-  - 'border-color: var(--light-silver, #aaa);'
+  - 'border-color: var(--light-silver);'
   specifity: 10
   media: all
 ".b--light-gray":
   selector: ".b--light-gray"
   properties:
-  - 'border-color: var(--light-gray, #eee);'
+  - 'border-color: var(--light-gray);'
   specifity: 10
   media: all
 ".b--near-white":
   selector: ".b--near-white"
   properties:
-  - 'border-color: var(--near-white, #f4f4f4);'
+  - 'border-color: var(--near-white);'
   specifity: 10
   media: all
 ".b--white":
   selector: ".b--white"
   properties:
-  - 'border-color: var(--white, #fff);'
+  - 'border-color: var(--white);'
   specifity: 10
   media: all
 ".b--white-90":
   selector: ".b--white-90"
   properties:
-  - 'border-color: var(--white-90, rgba(255,255,255,.9));'
+  - 'border-color: var(--white-90);'
   specifity: 10
   media: all
 ".b--white-80":
   selector: ".b--white-80"
   properties:
-  - 'border-color: var(--white-80, rgba(255,255,255,.8));'
+  - 'border-color: var(--white-80);'
   specifity: 10
   media: all
 ".b--white-70":
   selector: ".b--white-70"
   properties:
-  - 'border-color: var(--white-70, rgba(255,255,255,.7));'
+  - 'border-color: var(--white-70);'
   specifity: 10
   media: all
 ".b--white-60":
   selector: ".b--white-60"
   properties:
-  - 'border-color: var(--white-60, rgba(255,255,255,.6));'
+  - 'border-color: var(--white-60);'
   specifity: 10
   media: all
 ".b--white-50":
   selector: ".b--white-50"
   properties:
-  - 'border-color: var(--white-50, rgba(255,255,255,.5));'
+  - 'border-color: var(--white-50);'
   specifity: 10
   media: all
 ".b--white-40":
   selector: ".b--white-40"
   properties:
-  - 'border-color: var(--white-40, rgba(255,255,255,.4));'
+  - 'border-color: var(--white-40);'
   specifity: 10
   media: all
 ".b--white-30":
   selector: ".b--white-30"
   properties:
-  - 'border-color: var(--white-30, rgba(255,255,255,.3));'
+  - 'border-color: var(--white-30);'
   specifity: 10
   media: all
 ".b--white-20":
   selector: ".b--white-20"
   properties:
-  - 'border-color: var(--white-20, rgba(255,255,255,.2));'
+  - 'border-color: var(--white-20);'
   specifity: 10
   media: all
 ".b--white-10":
   selector: ".b--white-10"
   properties:
-  - 'border-color: var(--white-10, rgba(255,255,255,.1));'
+  - 'border-color: var(--white-10);'
   specifity: 10
   media: all
 ".b--white-05":
   selector: ".b--white-05"
   properties:
-  - 'border-color: var(--white-05, rgba(255,255,255,.05));'
+  - 'border-color: var(--white-05);'
   specifity: 10
   media: all
 ".b--white-025":
   selector: ".b--white-025"
   properties:
-  - 'border-color: var(--white-025, rgba(255,255,255,.025));'
+  - 'border-color: var(--white-025);'
   specifity: 10
   media: all
 ".b--white-0125":
   selector: ".b--white-0125"
   properties:
-  - 'border-color: var(--white-0125, rgba(255,255,255,.0125));'
+  - 'border-color: var(--white-0125);'
   specifity: 10
   media: all
 ".b--black-90":
   selector: ".b--black-90"
   properties:
-  - 'border-color: var(--black-90, rgba(0,0,0,.9));'
+  - 'border-color: var(--black-90);'
   specifity: 10
   media: all
 ".b--black-80":
   selector: ".b--black-80"
   properties:
-  - 'border-color: var(--black-80, rgba(0,0,0,.8));'
+  - 'border-color: var(--black-80);'
   specifity: 10
   media: all
 ".b--black-70":
   selector: ".b--black-70"
   properties:
-  - 'border-color: var(--black-70, rgba(0,0,0,.7));'
+  - 'border-color: var(--black-70);'
   specifity: 10
   media: all
 ".b--black-60":
   selector: ".b--black-60"
   properties:
-  - 'border-color: var(--black-60, rgba(0,0,0,.6));'
+  - 'border-color: var(--black-60);'
   specifity: 10
   media: all
 ".b--black-50":
   selector: ".b--black-50"
   properties:
-  - 'border-color: var(--black-50, rgba(0,0,0,.5));'
+  - 'border-color: var(--black-50);'
   specifity: 10
   media: all
 ".b--black-40":
   selector: ".b--black-40"
   properties:
-  - 'border-color: var(--black-40, rgba(0,0,0,.4));'
+  - 'border-color: var(--black-40);'
   specifity: 10
   media: all
 ".b--black-30":
   selector: ".b--black-30"
   properties:
-  - 'border-color: var(--black-30, rgba(0,0,0,.3));'
+  - 'border-color: var(--black-30);'
   specifity: 10
   media: all
 ".b--black-20":
   selector: ".b--black-20"
   properties:
-  - 'border-color: var(--black-20, rgba(0,0,0,.2));'
+  - 'border-color: var(--black-20);'
   specifity: 10
   media: all
 ".b--black-10":
   selector: ".b--black-10"
   properties:
-  - 'border-color: var(--black-10, rgba(0,0,0,.1));'
+  - 'border-color: var(--black-10);'
   specifity: 10
   media: all
 ".b--black-05":
   selector: ".b--black-05"
   properties:
-  - 'border-color: var(--black-05, rgba(0,0,0,.05));'
+  - 'border-color: var(--black-05);'
   specifity: 10
   media: all
 ".b--black-025":
   selector: ".b--black-025"
   properties:
-  - 'border-color: var(--black-025, rgba(0,0,0,.025));'
+  - 'border-color: var(--black-025);'
   specifity: 10
   media: all
 ".b--black-0125":
   selector: ".b--black-0125"
   properties:
-  - 'border-color: var(--black-0125, rgba(0,0,0,.0125));'
+  - 'border-color: var(--black-0125);'
   specifity: 10
   media: all
 ".b--dark-red":
   selector: ".b--dark-red"
   properties:
-  - 'border-color: var(--dark-red,  #e7040f);'
+  - 'border-color: var(--dark-red);'
   specifity: 10
   media: all
 ".b--red":
   selector: ".b--red"
   properties:
-  - 'border-color: var(--red,  #ff4136);'
+  - 'border-color: var(--red);'
   specifity: 10
   media: all
 ".b--light-red":
   selector: ".b--light-red"
   properties:
-  - 'border-color: var(--light-red,  #ff725c);'
+  - 'border-color: var(--light-red);'
   specifity: 10
   media: all
 ".b--orange":
   selector: ".b--orange"
   properties:
-  - 'border-color: var(--orange,  #ff6300);'
+  - 'border-color: var(--orange);'
   specifity: 10
   media: all
 ".b--gold":
   selector: ".b--gold"
   properties:
-  - 'border-color: var(--gold,  #ffb700);'
+  - 'border-color: var(--gold);'
   specifity: 10
   media: all
 ".b--yellow":
   selector: ".b--yellow"
   properties:
-  - 'border-color: var(--yellow,  #ffd700);'
+  - 'border-color: var(--yellow);'
   specifity: 10
   media: all
 ".b--light-yellow":
   selector: ".b--light-yellow"
   properties:
-  - 'border-color: var(--light-yellow,  #fbf1a9);'
+  - 'border-color: var(--light-yellow);'
   specifity: 10
   media: all
 ".b--purple":
   selector: ".b--purple"
   properties:
-  - 'border-color: var(--purple,  #5e2ca5);'
+  - 'border-color: var(--purple);'
   specifity: 10
   media: all
 ".b--light-purple":
   selector: ".b--light-purple"
   properties:
-  - 'border-color: var(--light-purple,  #a463f2);'
+  - 'border-color: var(--light-purple);'
   specifity: 10
   media: all
 ".b--dark-pink":
   selector: ".b--dark-pink"
   properties:
-  - 'border-color: var(--dark-pink,  #d5008f);'
+  - 'border-color: var(--dark-pink);'
   specifity: 10
   media: all
 ".b--hot-pink":
   selector: ".b--hot-pink"
   properties:
-  - 'border-color: var(--hot-pink, #ff41b4);'
+  - 'border-color: var(--hot-pink);'
   specifity: 10
   media: all
 ".b--pink":
   selector: ".b--pink"
   properties:
-  - 'border-color: var(--pink,  #ff80cc);'
+  - 'border-color: var(--pink);'
   specifity: 10
   media: all
 ".b--light-pink":
   selector: ".b--light-pink"
   properties:
-  - 'border-color: var(--light-pink,  #ffa3d7);'
+  - 'border-color: var(--light-pink);'
   specifity: 10
   media: all
 ".b--dark-green":
   selector: ".b--dark-green"
   properties:
-  - 'border-color: var(--dark-green,  #137752);'
+  - 'border-color: var(--dark-green);'
   specifity: 10
   media: all
 ".b--green":
   selector: ".b--green"
   properties:
-  - 'border-color: var(--green,  #19a974);'
+  - 'border-color: var(--green);'
   specifity: 10
   media: all
 ".b--light-green":
   selector: ".b--light-green"
   properties:
-  - 'border-color: var(--light-green,  #9eebcf);'
+  - 'border-color: var(--light-green);'
   specifity: 10
   media: all
 ".b--navy":
   selector: ".b--navy"
   properties:
-  - 'border-color: var(--navy,  #001b44);'
+  - 'border-color: var(--navy);'
   specifity: 10
   media: all
 ".b--dark-blue":
   selector: ".b--dark-blue"
   properties:
-  - 'border-color: var(--dark-blue,  #00449e);'
+  - 'border-color: var(--dark-blue);'
   specifity: 10
   media: all
 ".b--blue":
   selector: ".b--blue"
   properties:
-  - 'border-color: var(--blue,  #357edd);'
+  - 'border-color: var(--blue);'
   specifity: 10
   media: all
 ".b--light-blue":
   selector: ".b--light-blue"
   properties:
-  - 'border-color: var(--light-blue,  #96ccff);'
+  - 'border-color: var(--light-blue);'
   specifity: 10
   media: all
 ".b--lightest-blue":
   selector: ".b--lightest-blue"
   properties:
-  - 'border-color: var(--lightest-blue,  #cdecff);'
+  - 'border-color: var(--lightest-blue);'
   specifity: 10
   media: all
 ".b--washed-blue":
   selector: ".b--washed-blue"
   properties:
-  - 'border-color: var(--washed-blue,  #f6fffe);'
+  - 'border-color: var(--washed-blue);'
   specifity: 10
   media: all
 ".b--washed-green":
   selector: ".b--washed-green"
   properties:
-  - 'border-color: var(--washed-green,  #e8fdf5);'
+  - 'border-color: var(--washed-green);'
   specifity: 10
   media: all
 ".b--washed-yellow":
   selector: ".b--washed-yellow"
   properties:
-  - 'border-color: var(--washed-yellow,  #fffceb);'
+  - 'border-color: var(--washed-yellow);'
   specifity: 10
   media: all
 ".b--washed-red":
   selector: ".b--washed-red"
   properties:
-  - 'border-color: var(--washed-red,  #ffdfdf);'
+  - 'border-color: var(--washed-red);'
   specifity: 10
   media: all
 ".b--transparent":
   selector: ".b--transparent"
   properties:
-  - 'border-color: var(--transparent, );'
+  - 'border-color: var(--transparent);'
   specifity: 10
   media: all
