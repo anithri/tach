@@ -1,6 +1,0 @@
----
-".clip":
-  selector: ".clip"
-  properties: 'position: fixed !important;'
-  specifity: 10
-  media: all

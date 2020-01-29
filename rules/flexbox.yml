@@ -34,6 +34,26 @@
   properties: 'flex-wrap: wrap;'
   specifity: 10
   media: all
+".flex-nowrap":
+  selector: ".flex-nowrap"
+  properties: 'flex-wrap: nowrap;'
+  specifity: 10
+  media: all
+".flex-wrap-reverse":
+  selector: ".flex-wrap-reverse"
+  properties: 'flex-wrap: wrap-reverse;'
+  specifity: 10
+  media: all
+".flex-column-reverse":
+  selector: ".flex-column-reverse"
+  properties: 'flex-direction: column-reverse;'
+  specifity: 10
+  media: all
+".flex-row-reverse":
+  selector: ".flex-row-reverse"
+  properties: 'flex-direction: row-reverse;'
+  specifity: 10
+  media: all
 ".items-start":
   selector: ".items-start"
   properties: 'align-items: flex-start;'
@@ -187,5 +207,25 @@
 ".order-last":
   selector: ".order-last"
   properties: 'order: 99999;'
+  specifity: 10
+  media: all
+".flex-grow-0":
+  selector: ".flex-grow-0"
+  properties: 'flex-grow: 0;'
+  specifity: 10
+  media: all
+".flex-grow-1":
+  selector: ".flex-grow-1"
+  properties: 'flex-grow: 1;'
+  specifity: 10
+  media: all
+".flex-shrink-0":
+  selector: ".flex-shrink-0"
+  properties: 'flex-shrink: 0;'
+  specifity: 10
+  media: all
+".flex-shrink-1":
+  selector: ".flex-shrink-1"
+  properties: 'flex-shrink: 1;'
   specifity: 10
   media: all

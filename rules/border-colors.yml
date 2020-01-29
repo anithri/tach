@@ -41,6 +41,12 @@
   - 'border-color: var(--light-silver);'
   specifity: 10
   media: all
+".b--moon-gray":
+  selector: ".b--moon-gray"
+  properties:
+  - 'border-color: var(--moon-gray);'
+  specifity: 10
+  media: all
 ".b--light-gray":
   selector: ".b--light-gray"
   properties:
@@ -203,159 +209,494 @@
   - 'border-color: var(--black-0125);'
   specifity: 10
   media: all
-".b--dark-red":
-  selector: ".b--dark-red"
+".b--red-0":
+  selector: ".b--red-0"
   properties:
-  - 'border-color: var(--dark-red);'
+  - 'border-color: var(--red-000);'
   specifity: 10
   media: all
-".b--red":
-  selector: ".b--red"
+".b--red-1":
+  selector: ".b--red-1"
   properties:
-  - 'border-color: var(--red);'
+  - 'border-color: var(--red-100);'
   specifity: 10
   media: all
-".b--light-red":
-  selector: ".b--light-red"
+".b--red-2":
+  selector: ".b--red-2"
   properties:
-  - 'border-color: var(--light-red);'
+  - 'border-color: var(--red-200);'
   specifity: 10
   media: all
-".b--orange":
-  selector: ".b--orange"
+".b--red-3":
+  selector: ".b--red-3"
   properties:
-  - 'border-color: var(--orange);'
+  - 'border-color: var(--red-300);'
   specifity: 10
   media: all
-".b--gold":
-  selector: ".b--gold"
+".b--red-4":
+  selector: ".b--red-4"
   properties:
-  - 'border-color: var(--gold);'
+  - 'border-color: var(--red-400);'
   specifity: 10
   media: all
-".b--yellow":
-  selector: ".b--yellow"
+".b--red-5":
+  selector: ".b--red-5"
   properties:
-  - 'border-color: var(--yellow);'
+  - 'border-color: var(--red-500);'
   specifity: 10
   media: all
-".b--light-yellow":
-  selector: ".b--light-yellow"
+".b--red-6":
+  selector: ".b--red-6"
   properties:
-  - 'border-color: var(--light-yellow);'
+  - 'border-color: var(--red-600);'
   specifity: 10
   media: all
-".b--purple":
-  selector: ".b--purple"
+".b--red-7":
+  selector: ".b--red-7"
   properties:
-  - 'border-color: var(--purple);'
+  - 'border-color: var(--red-700);'
   specifity: 10
   media: all
-".b--light-purple":
-  selector: ".b--light-purple"
+".b--red-8":
+  selector: ".b--red-8"
   properties:
-  - 'border-color: var(--light-purple);'
+  - 'border-color: var(--red-800);'
   specifity: 10
   media: all
-".b--dark-pink":
-  selector: ".b--dark-pink"
+".b--red-9":
+  selector: ".b--red-9"
   properties:
-  - 'border-color: var(--dark-pink);'
+  - 'border-color: var(--red-900);'
   specifity: 10
   media: all
-".b--hot-pink":
-  selector: ".b--hot-pink"
+".b--gold-0":
+  selector: ".b--gold-0"
   properties:
-  - 'border-color: var(--hot-pink);'
+  - 'border-color: var(--gold-000);'
   specifity: 10
   media: all
-".b--pink":
-  selector: ".b--pink"
+".b--gold-1":
+  selector: ".b--gold-1"
   properties:
-  - 'border-color: var(--pink);'
+  - 'border-color: var(--gold-100);'
   specifity: 10
   media: all
-".b--light-pink":
-  selector: ".b--light-pink"
+".b--gold-2":
+  selector: ".b--gold-2"
   properties:
-  - 'border-color: var(--light-pink);'
+  - 'border-color: var(--gold-200);'
   specifity: 10
   media: all
-".b--dark-green":
-  selector: ".b--dark-green"
+".b--gold-3":
+  selector: ".b--gold-3"
   properties:
-  - 'border-color: var(--dark-green);'
+  - 'border-color: var(--gold-300);'
   specifity: 10
   media: all
-".b--green":
-  selector: ".b--green"
+".b--gold-4":
+  selector: ".b--gold-4"
   properties:
-  - 'border-color: var(--green);'
+  - 'border-color: var(--gold-400);'
   specifity: 10
   media: all
-".b--light-green":
-  selector: ".b--light-green"
+".b--gold-5":
+  selector: ".b--gold-5"
   properties:
-  - 'border-color: var(--light-green);'
+  - 'border-color: var(--gold-500);'
   specifity: 10
   media: all
-".b--navy":
-  selector: ".b--navy"
+".b--gold-6":
+  selector: ".b--gold-6"
   properties:
-  - 'border-color: var(--navy);'
+  - 'border-color: var(--gold-600);'
   specifity: 10
   media: all
-".b--dark-blue":
-  selector: ".b--dark-blue"
+".b--gold-7":
+  selector: ".b--gold-7"
   properties:
-  - 'border-color: var(--dark-blue);'
+  - 'border-color: var(--gold-700);'
   specifity: 10
   media: all
-".b--blue":
-  selector: ".b--blue"
+".b--gold-8":
+  selector: ".b--gold-8"
   properties:
-  - 'border-color: var(--blue);'
+  - 'border-color: var(--gold-800);'
   specifity: 10
   media: all
-".b--light-blue":
-  selector: ".b--light-blue"
+".b--gold-9":
+  selector: ".b--gold-9"
   properties:
-  - 'border-color: var(--light-blue);'
+  - 'border-color: var(--gold-900);'
   specifity: 10
   media: all
-".b--lightest-blue":
-  selector: ".b--lightest-blue"
+".b--green-0":
+  selector: ".b--green-0"
   properties:
-  - 'border-color: var(--lightest-blue);'
+  - 'border-color: var(--green-000);'
   specifity: 10
   media: all
-".b--washed-blue":
-  selector: ".b--washed-blue"
+".b--green-1":
+  selector: ".b--green-1"
   properties:
-  - 'border-color: var(--washed-blue);'
+  - 'border-color: var(--green-100);'
   specifity: 10
   media: all
-".b--washed-green":
-  selector: ".b--washed-green"
+".b--green-2":
+  selector: ".b--green-2"
   properties:
-  - 'border-color: var(--washed-green);'
+  - 'border-color: var(--green-200);'
   specifity: 10
   media: all
-".b--washed-yellow":
-  selector: ".b--washed-yellow"
+".b--green-3":
+  selector: ".b--green-3"
   properties:
-  - 'border-color: var(--washed-yellow);'
+  - 'border-color: var(--green-300);'
   specifity: 10
   media: all
-".b--washed-red":
-  selector: ".b--washed-red"
+".b--green-4":
+  selector: ".b--green-4"
   properties:
-  - 'border-color: var(--washed-red);'
+  - 'border-color: var(--green-400);'
+  specifity: 10
+  media: all
+".b--green-5":
+  selector: ".b--green-5"
+  properties:
+  - 'border-color: var(--green-500);'
+  specifity: 10
+  media: all
+".b--green-6":
+  selector: ".b--green-6"
+  properties:
+  - 'border-color: var(--green-600);'
+  specifity: 10
+  media: all
+".b--green-7":
+  selector: ".b--green-7"
+  properties:
+  - 'border-color: var(--green-700);'
+  specifity: 10
+  media: all
+".b--green-8":
+  selector: ".b--green-8"
+  properties:
+  - 'border-color: var(--green-800);'
+  specifity: 10
+  media: all
+".b--green-9":
+  selector: ".b--green-9"
+  properties:
+  - 'border-color: var(--green-900);'
+  specifity: 10
+  media: all
+".b--teal-0":
+  selector: ".b--teal-0"
+  properties:
+  - 'border-color: var(--teal-000);'
+  specifity: 10
+  media: all
+".b--teal-1":
+  selector: ".b--teal-1"
+  properties:
+  - 'border-color: var(--teal-100);'
+  specifity: 10
+  media: all
+".b--teal-2":
+  selector: ".b--teal-2"
+  properties:
+  - 'border-color: var(--teal-200);'
+  specifity: 10
+  media: all
+".b--teal-3":
+  selector: ".b--teal-3"
+  properties:
+  - 'border-color: var(--teal-300);'
+  specifity: 10
+  media: all
+".b--teal-4":
+  selector: ".b--teal-4"
+  properties:
+  - 'border-color: var(--teal-400);'
+  specifity: 10
+  media: all
+".b--teal-5":
+  selector: ".b--teal-5"
+  properties:
+  - 'border-color: var(--teal-500);'
+  specifity: 10
+  media: all
+".b--teal-6":
+  selector: ".b--teal-6"
+  properties:
+  - 'border-color: var(--teal-600);'
+  specifity: 10
+  media: all
+".b--teal-7":
+  selector: ".b--teal-7"
+  properties:
+  - 'border-color: var(--teal-700);'
+  specifity: 10
+  media: all
+".b--teal-8":
+  selector: ".b--teal-8"
+  properties:
+  - 'border-color: var(--teal-800);'
+  specifity: 10
+  media: all
+".b--teal-9":
+  selector: ".b--teal-9"
+  properties:
+  - 'border-color: var(--teal-900);'
+  specifity: 10
+  media: all
+".b--blue-0":
+  selector: ".b--blue-0"
+  properties:
+  - 'border-color: var(--blue-000);'
+  specifity: 10
+  media: all
+".b--blue-1":
+  selector: ".b--blue-1"
+  properties:
+  - 'border-color: var(--blue-100);'
+  specifity: 10
+  media: all
+".b--blue-2":
+  selector: ".b--blue-2"
+  properties:
+  - 'border-color: var(--blue-200);'
+  specifity: 10
+  media: all
+".b--blue-3":
+  selector: ".b--blue-3"
+  properties:
+  - 'border-color: var(--blue-300);'
+  specifity: 10
+  media: all
+".b--blue-4":
+  selector: ".b--blue-4"
+  properties:
+  - 'border-color: var(--blue-400);'
+  specifity: 10
+  media: all
+".b--blue-5":
+  selector: ".b--blue-5"
+  properties:
+  - 'border-color: var(--blue-500);'
+  specifity: 10
+  media: all
+".b--blue-6":
+  selector: ".b--blue-6"
+  properties:
+  - 'border-color: var(--blue-600);'
+  specifity: 10
+  media: all
+".b--blue-7":
+  selector: ".b--blue-7"
+  properties:
+  - 'border-color: var(--blue-700);'
+  specifity: 10
+  media: all
+".b--blue-8":
+  selector: ".b--blue-8"
+  properties:
+  - 'border-color: var(--blue-800);'
+  specifity: 10
+  media: all
+".b--blue-9":
+  selector: ".b--blue-9"
+  properties:
+  - 'border-color: var(--blue-900);'
+  specifity: 10
+  media: all
+".b--indigo-0":
+  selector: ".b--indigo-0"
+  properties:
+  - 'border-color: var(--indigo-000);'
+  specifity: 10
+  media: all
+".b--indigo-1":
+  selector: ".b--indigo-1"
+  properties:
+  - 'border-color: var(--indigo-100);'
+  specifity: 10
+  media: all
+".b--indigo-2":
+  selector: ".b--indigo-2"
+  properties:
+  - 'border-color: var(--indigo-200);'
+  specifity: 10
+  media: all
+".b--indigo-3":
+  selector: ".b--indigo-3"
+  properties:
+  - 'border-color: var(--indigo-300);'
+  specifity: 10
+  media: all
+".b--indigo-4":
+  selector: ".b--indigo-4"
+  properties:
+  - 'border-color: var(--indigo-400);'
+  specifity: 10
+  media: all
+".b--indigo-5":
+  selector: ".b--indigo-5"
+  properties:
+  - 'border-color: var(--indigo-500);'
+  specifity: 10
+  media: all
+".b--indigo-6":
+  selector: ".b--indigo-6"
+  properties:
+  - 'border-color: var(--indigo-600);'
+  specifity: 10
+  media: all
+".b--indigo-7":
+  selector: ".b--indigo-7"
+  properties:
+  - 'border-color: var(--indigo-700);'
+  specifity: 10
+  media: all
+".b--indigo-8":
+  selector: ".b--indigo-8"
+  properties:
+  - 'border-color: var(--indigo-800);'
+  specifity: 10
+  media: all
+".b--indigo-9":
+  selector: ".b--indigo-9"
+  properties:
+  - 'border-color: var(--indigo-900);'
+  specifity: 10
+  media: all
+".b--violet-0":
+  selector: ".b--violet-0"
+  properties:
+  - 'border-color: var(--violet-000);'
+  specifity: 10
+  media: all
+".b--violet-1":
+  selector: ".b--violet-1"
+  properties:
+  - 'border-color: var(--violet-100);'
+  specifity: 10
+  media: all
+".b--violet-2":
+  selector: ".b--violet-2"
+  properties:
+  - 'border-color: var(--violet-200);'
+  specifity: 10
+  media: all
+".b--violet-3":
+  selector: ".b--violet-3"
+  properties:
+  - 'border-color: var(--violet-300);'
+  specifity: 10
+  media: all
+".b--violet-4":
+  selector: ".b--violet-4"
+  properties:
+  - 'border-color: var(--violet-400);'
+  specifity: 10
+  media: all
+".b--violet-5":
+  selector: ".b--violet-5"
+  properties:
+  - 'border-color: var(--violet-500);'
+  specifity: 10
+  media: all
+".b--violet-6":
+  selector: ".b--violet-6"
+  properties:
+  - 'border-color: var(--violet-600);'
+  specifity: 10
+  media: all
+".b--violet-7":
+  selector: ".b--violet-7"
+  properties:
+  - 'border-color: var(--violet-700);'
+  specifity: 10
+  media: all
+".b--violet-8":
+  selector: ".b--violet-8"
+  properties:
+  - 'border-color: var(--violet-800);'
+  specifity: 10
+  media: all
+".b--violet-9":
+  selector: ".b--violet-9"
+  properties:
+  - 'border-color: var(--violet-900);'
+  specifity: 10
+  media: all
+".b--gray-0":
+  selector: ".b--gray-0"
+  properties:
+  - 'border-color: var(--gray-000);'
+  specifity: 10
+  media: all
+".b--gray-1":
+  selector: ".b--gray-1"
+  properties:
+  - 'border-color: var(--gray-100);'
+  specifity: 10
+  media: all
+".b--gray-2":
+  selector: ".b--gray-2"
+  properties:
+  - 'border-color: var(--gray-200);'
+  specifity: 10
+  media: all
+".b--gray-3":
+  selector: ".b--gray-3"
+  properties:
+  - 'border-color: var(--gray-300);'
+  specifity: 10
+  media: all
+".b--gray-4":
+  selector: ".b--gray-4"
+  properties:
+  - 'border-color: var(--gray-400);'
+  specifity: 10
+  media: all
+".b--gray-5":
+  selector: ".b--gray-5"
+  properties:
+  - 'border-color: var(--gray-500);'
+  specifity: 10
+  media: all
+".b--gray-6":
+  selector: ".b--gray-6"
+  properties:
+  - 'border-color: var(--gray-600);'
+  specifity: 10
+  media: all
+".b--gray-7":
+  selector: ".b--gray-7"
+  properties:
+  - 'border-color: var(--gray-700);'
+  specifity: 10
+  media: all
+".b--gray-8":
+  selector: ".b--gray-8"
+  properties:
+  - 'border-color: var(--gray-800);'
+  specifity: 10
+  media: all
+".b--gray-9":
+  selector: ".b--gray-9"
+  properties:
+  - 'border-color: var(--gray-900);'
   specifity: 10
   media: all
 ".b--transparent":
   selector: ".b--transparent"
   properties:
   - 'border-color: var(--transparent);'
+  specifity: 10
+  media: all
+".b--inherit":
+  selector: ".b--inherit"
+  properties: 'border-color: inherit;'
   specifity: 10
   media: all

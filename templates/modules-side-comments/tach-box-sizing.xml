@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<templateSet group="tach-box-sizing">
-  <template name=".border-box" value="box-sizing: border-box; /* .border-box */&#10;$END$" description=".border-box" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true"/>
-    </context>
-  </template>
-</templateSet>

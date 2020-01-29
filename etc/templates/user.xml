@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="ptsr" value="PropTypes.string.required" description="PropTypes.string.required" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

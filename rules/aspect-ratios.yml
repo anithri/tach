@@ -1,0 +1,66 @@
+---
+".aspect-ratio":
+  selector: ".aspect-ratio"
+  properties: 'height: 0;'
+  specifity: 10
+  media: all
+".aspect-ratio--16x9":
+  selector: ".aspect-ratio--16x9"
+  properties: 'padding-bottom: 56.25%;'
+  specifity: 10
+  media: all
+".aspect-ratio--9x16":
+  selector: ".aspect-ratio--9x16"
+  properties: 'padding-bottom: 177.77%;'
+  specifity: 10
+  media: all
+".aspect-ratio--4x3":
+  selector: ".aspect-ratio--4x3"
+  properties: 'padding-bottom: 75%;'
+  specifity: 10
+  media: all
+".aspect-ratio--3x4":
+  selector: ".aspect-ratio--3x4"
+  properties: 'padding-bottom: 133.33%;'
+  specifity: 10
+  media: all
+".aspect-ratio--6x4":
+  selector: ".aspect-ratio--6x4"
+  properties: 'padding-bottom: 66.6%;'
+  specifity: 10
+  media: all
+".aspect-ratio--4x6":
+  selector: ".aspect-ratio--4x6"
+  properties: 'padding-bottom: 150%;'
+  specifity: 10
+  media: all
+".aspect-ratio--8x5":
+  selector: ".aspect-ratio--8x5"
+  properties: 'padding-bottom: 62.5%;'
+  specifity: 10
+  media: all
+".aspect-ratio--5x8":
+  selector: ".aspect-ratio--5x8"
+  properties: 'padding-bottom: 160%;'
+  specifity: 10
+  media: all
+".aspect-ratio--7x5":
+  selector: ".aspect-ratio--7x5"
+  properties: 'padding-bottom: 71.42%;'
+  specifity: 10
+  media: all
+".aspect-ratio--5x7":
+  selector: ".aspect-ratio--5x7"
+  properties: 'padding-bottom: 140%;'
+  specifity: 10
+  media: all
+".aspect-ratio--1x1":
+  selector: ".aspect-ratio--1x1"
+  properties: 'padding-bottom: 100%;'
+  specifity: 10
+  media: all
+".aspect-ratio--object":
+  selector: ".aspect-ratio--object"
+  properties: 'position: absolute;'
+  specifity: 10
+  media: all

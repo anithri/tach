@@ -3,5 +3,6 @@
 
 
 tachyons-custom@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/tachyons-custom/-/tachyons-custom-4.6.0.tgz#4baae130b4b318824ed5489f9e820816b40c4ff8"
+  version "4.9.8"
+  resolved "https://registry.yarnpkg.com/tachyons-custom/-/tachyons-custom-4.9.8.tgz#406e539bbd417db8de8b93561ef6d36ca7c50580"
+  integrity sha512-MVnslsN5dFswmh2+Sw+OOA4/6pQfnJrA8/wrtaf+Px347wze3MIk3lp3Q3QmbUPqrJda79s0dZtY3dgTwVHdfg==
