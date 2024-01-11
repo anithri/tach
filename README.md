@@ -3,7 +3,7 @@
 templates.
 
 #### Uh, why?
-I really like tachyons as a mnemonic devise, but prefer to write sematic
+I really like tachyons as a mnemonic devise, but prefer to write semantic
 css.  This way I get a large chunk of tachyons design and class names,
 but generate css properties instead of lists of classes.
 
